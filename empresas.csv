@@ -1,202 +1,202 @@
 0,1,2,3,4
 Tipo,Nombre,Pais,Telefono,Email
-Proveedor,Empresa 0,Canada,2494574220,compras@empresa0.net
-Proveedor,Empresa 1,China,8404337838,compras@empresa1.com
-Proveedor,Empresa 2,Alemania,2317026896,compras@empresa2.net
-Proveedor,Empresa 3,India,3536061985,compras@empresa3.com
-Proveedor,Empresa 4,China,4198097110,compras@empresa4.net
-Fabricante,Empresa 5,Estados Unidos,3969231886,compras@empresa5.com
-Proveedor,Empresa 6,Brasil,3232000255,compras@empresa6.net
-Proveedor,Empresa 7,Alemania,9884860646,compras@empresa7.net
-Fabricante,Empresa 8,Estados Unidos,2944480960,compras@empresa8.net
-Proveedor,Empresa 9,India,2300832072,compras@empresa9.com
-Proveedor,Empresa 10,Francia,1564580734,compras@empresa10.com
-Fabricante,Empresa 11,India,6089829286,compras@empresa11.net
-Fabricante,Empresa 12,Italia,3329821114,compras@empresa12.com
-Fabricante,Empresa 13,Alemania,8897164006,compras@empresa13.com
-Proveedor,Empresa 14,Brasil,8760411369,compras@empresa14.net
-Proveedor,Empresa 15,Canada,8829174524,compras@empresa15.net
-Fabricante,Empresa 16,Mexico,7763526120,compras@empresa16.net
-Fabricante,Empresa 17,Alemania,5038491795,compras@empresa17.com
-Proveedor,Empresa 18,India,4633609598,compras@empresa18.com
-Fabricante,Empresa 19,Francia,3071475219,compras@empresa19.net
-Fabricante,Empresa 20,Alemania,9439894324,compras@empresa20.com
-Fabricante,Empresa 21,Francia,3768524464,compras@empresa21.net
-Fabricante,Empresa 22,Brasil,7226225795,compras@empresa22.com
-Proveedor,Empresa 23,Francia,9722219855,compras@empresa23.net
-Proveedor,Empresa 24,Estados Unidos,5493001142,compras@empresa24.net
-Fabricante,Empresa 25,India,8460213746,compras@empresa25.com
-Proveedor,Empresa 26,China,3084408774,compras@empresa26.net
-Fabricante,Empresa 27,Francia,4028060099,compras@empresa27.net
-Proveedor,Empresa 28,Alemania,8769044123,compras@empresa28.com
-Proveedor,Empresa 29,China,9123390991,compras@empresa29.net
-Proveedor,Empresa 30,Alemania,4100480726,compras@empresa30.com
-Proveedor,Empresa 31,Mexico,4743297425,compras@empresa31.com
-Fabricante,Empresa 32,China,8323979232,compras@empresa32.com
-Proveedor,Empresa 33,Brasil,9019652565,compras@empresa33.com
-Proveedor,Empresa 34,Mexico,9991168107,compras@empresa34.net
-Proveedor,Empresa 35,Brasil,2759187965,compras@empresa35.com
-Fabricante,Empresa 36,Italia,3932056634,compras@empresa36.com
-Proveedor,Empresa 37,Brasil,2013159564,compras@empresa37.net
-Fabricante,Empresa 38,Mexico,7535992391,compras@empresa38.net
-Proveedor,Empresa 39,Alemania,1365217383,compras@empresa39.net
-Fabricante,Empresa 40,China,4724292472,compras@empresa40.com
-Proveedor,Empresa 41,India,3564572578,compras@empresa41.com
-Proveedor,Empresa 42,Francia,3667597594,compras@empresa42.com
-Fabricante,Empresa 43,Mexico,4382755249,compras@empresa43.net
-Fabricante,Empresa 44,Francia,7850137683,compras@empresa44.net
-Proveedor,Empresa 45,Estados Unidos,7791780068,compras@empresa45.com
-Fabricante,Empresa 46,Alemania,8517578980,compras@empresa46.net
-Proveedor,Empresa 47,China,1558858681,compras@empresa47.net
-Fabricante,Empresa 48,Japon,7461157999,compras@empresa48.net
-Proveedor,Empresa 49,Canada,3314522725,compras@empresa49.com
-Proveedor,Empresa 50,Canada,9605086445,compras@empresa50.com
-Fabricante,Empresa 51,India,5695262236,compras@empresa51.net
-Proveedor,Empresa 52,Estados Unidos,7060483439,compras@empresa52.net
-Fabricante,Empresa 53,Francia,5882134662,compras@empresa53.net
-Proveedor,Empresa 54,Japon,5094187800,compras@empresa54.com
-Fabricante,Empresa 55,Japon,8914272123,compras@empresa55.net
-Fabricante,Empresa 56,Mexico,9622379928,compras@empresa56.net
-Proveedor,Empresa 57,Japon,7721301397,compras@empresa57.com
-Proveedor,Empresa 58,Brasil,5768947833,compras@empresa58.net
-Fabricante,Empresa 59,Francia,6270242929,compras@empresa59.net
-Proveedor,Empresa 60,Brasil,3356708298,compras@empresa60.com
-Fabricante,Empresa 61,Mexico,3122876181,compras@empresa61.com
-Proveedor,Empresa 62,Japon,7858233080,compras@empresa62.net
-Proveedor,Empresa 63,Estados Unidos,6708912952,compras@empresa63.net
-Fabricante,Empresa 64,China,9887201962,compras@empresa64.net
-Fabricante,Empresa 65,Alemania,2009784902,compras@empresa65.net
-Proveedor,Empresa 66,Japon,8269233584,compras@empresa66.com
-Proveedor,Empresa 67,Canada,2972616914,compras@empresa67.com
-Proveedor,Empresa 68,Francia,9961091911,compras@empresa68.com
-Fabricante,Empresa 69,China,8191217841,compras@empresa69.net
-Proveedor,Empresa 70,Japon,4563312256,compras@empresa70.com
-Fabricante,Empresa 71,Mexico,5951909224,compras@empresa71.com
-Proveedor,Empresa 72,India,7332992883,compras@empresa72.net
-Proveedor,Empresa 73,Canada,3283280081,compras@empresa73.com
-Fabricante,Empresa 74,Brasil,8349259023,compras@empresa74.net
-Proveedor,Empresa 75,Estados Unidos,8980147087,compras@empresa75.net
-Fabricante,Empresa 76,Brasil,7892764326,compras@empresa76.com
-Proveedor,Empresa 77,Mexico,5849184826,compras@empresa77.net
-Proveedor,Empresa 78,India,5970764519,compras@empresa78.com
-Fabricante,Empresa 79,Francia,5920244523,compras@empresa79.com
-Proveedor,Empresa 80,Italia,2673016435,compras@empresa80.com
-Fabricante,Empresa 81,Canada,9966557267,compras@empresa81.com
-Proveedor,Empresa 82,China,7425660008,compras@empresa82.com
-Proveedor,Empresa 83,Mexico,3604678633,compras@empresa83.com
-Fabricante,Empresa 84,Canada,4366905239,compras@empresa84.net
-Proveedor,Empresa 85,Japon,3554936350,compras@empresa85.com
-Proveedor,Empresa 86,China,5023713017,compras@empresa86.com
-Proveedor,Empresa 87,Brasil,2824989536,compras@empresa87.com
-Fabricante,Empresa 88,Francia,9443296902,compras@empresa88.net
-Fabricante,Empresa 89,Alemania,4273811346,compras@empresa89.net
-Proveedor,Empresa 90,Canada,8282221790,compras@empresa90.com
-Fabricante,Empresa 91,Mexico,5237892809,compras@empresa91.net
-Proveedor,Empresa 92,Canada,8519622308,compras@empresa92.net
-Proveedor,Empresa 93,Alemania,1045575222,compras@empresa93.com
-Proveedor,Empresa 94,Italia,1723369735,compras@empresa94.net
-Fabricante,Empresa 95,India,7491558827,compras@empresa95.net
-Fabricante,Empresa 96,India,6514129953,compras@empresa96.com
-Fabricante,Empresa 97,Canada,9883515684,compras@empresa97.net
-Proveedor,Empresa 98,Francia,6674566405,compras@empresa98.com
-Proveedor,Empresa 99,Brasil,2785964686,compras@empresa99.net
-Proveedor,Empresa 100,Francia,1648721908,compras@empresa100.com
-Proveedor,Empresa 101,China,2259894868,compras@empresa101.net
-Proveedor,Empresa 102,Japon,1358820730,compras@empresa102.com
-Fabricante,Empresa 103,India,1118875605,compras@empresa103.com
-Proveedor,Empresa 104,Francia,1103835445,compras@empresa104.com
-Fabricante,Empresa 105,Brasil,2574509813,compras@empresa105.net
-Proveedor,Empresa 106,Estados Unidos,6726574061,compras@empresa106.com
-Fabricante,Empresa 107,Mexico,2199077687,compras@empresa107.net
-Fabricante,Empresa 108,Canada,5479753517,compras@empresa108.net
-Proveedor,Empresa 109,Francia,3741428608,compras@empresa109.com
-Fabricante,Empresa 110,Alemania,7611377403,compras@empresa110.net
-Fabricante,Empresa 111,Estados Unidos,6614083399,compras@empresa111.com
-Fabricante,Empresa 112,Estados Unidos,9198913929,compras@empresa112.com
-Proveedor,Empresa 113,Japon,1368754578,compras@empresa113.com
-Proveedor,Empresa 114,Alemania,9917684150,compras@empresa114.net
-Proveedor,Empresa 115,Alemania,4846989950,compras@empresa115.com
-Fabricante,Empresa 116,China,9207766793,compras@empresa116.com
-Proveedor,Empresa 117,Mexico,6362744736,compras@empresa117.net
-Proveedor,Empresa 118,India,8721499001,compras@empresa118.com
-Fabricante,Empresa 119,Alemania,5955927809,compras@empresa119.net
-Proveedor,Empresa 120,Japon,6104338520,compras@empresa120.com
-Proveedor,Empresa 121,Japon,7535229225,compras@empresa121.com
-Proveedor,Empresa 122,Brasil,7815880970,compras@empresa122.net
-Fabricante,Empresa 123,Canada,1534943908,compras@empresa123.com
-Proveedor,Empresa 124,Mexico,4475803327,compras@empresa124.net
-Fabricante,Empresa 125,India,5524806862,compras@empresa125.com
-Proveedor,Empresa 126,Japon,7989802751,compras@empresa126.net
-Fabricante,Empresa 127,Francia,5847723278,compras@empresa127.com
-Proveedor,Empresa 128,Estados Unidos,1304577307,compras@empresa128.net
-Fabricante,Empresa 129,Estados Unidos,7238101168,compras@empresa129.net
-Proveedor,Empresa 130,Canada,2436856243,compras@empresa130.net
-Fabricante,Empresa 131,Japon,8504811305,compras@empresa131.com
-Proveedor,Empresa 132,China,4095668418,compras@empresa132.com
-Fabricante,Empresa 133,Francia,2081032068,compras@empresa133.net
-Fabricante,Empresa 134,India,1995157644,compras@empresa134.net
-Fabricante,Empresa 135,China,7276427112,compras@empresa135.net
-Fabricante,Empresa 136,Estados Unidos,6895549131,compras@empresa136.com
-Fabricante,Empresa 137,India,6600512017,compras@empresa137.com
-Proveedor,Empresa 138,India,4431093687,compras@empresa138.net
-Fabricante,Empresa 139,Estados Unidos,6017112392,compras@empresa139.com
-Fabricante,Empresa 140,Canada,5232565859,compras@empresa140.com
-Proveedor,Empresa 141,Francia,5919719042,compras@empresa141.com
-Proveedor,Empresa 142,Francia,6618272210,compras@empresa142.com
-Proveedor,Empresa 143,Canada,1273837907,compras@empresa143.net
-Fabricante,Empresa 144,India,2403307858,compras@empresa144.net
-Fabricante,Empresa 145,Francia,3257744614,compras@empresa145.com
-Proveedor,Empresa 146,Alemania,5689398114,compras@empresa146.com
-Fabricante,Empresa 147,Mexico,1951216476,compras@empresa147.net
-Fabricante,Empresa 148,India,6234413514,compras@empresa148.com
-Proveedor,Empresa 149,Canada,5660797794,compras@empresa149.net
-Proveedor,Empresa 150,Brasil,9653445803,compras@empresa150.com
-Proveedor,Empresa 151,Mexico,7866581585,compras@empresa151.net
-Fabricante,Empresa 152,Francia,2614792374,compras@empresa152.net
-Proveedor,Empresa 153,Italia,5954018452,compras@empresa153.com
-Proveedor,Empresa 154,Canada,9679854052,compras@empresa154.net
-Fabricante,Empresa 155,China,7448894097,compras@empresa155.com
-Proveedor,Empresa 156,Brasil,7508022647,compras@empresa156.net
-Proveedor,Empresa 157,India,4398079148,compras@empresa157.net
-Proveedor,Empresa 158,Estados Unidos,1884710952,compras@empresa158.net
-Proveedor,Empresa 159,Brasil,5226525484,compras@empresa159.net
-Fabricante,Empresa 160,Italia,6557705878,compras@empresa160.net
-Fabricante,Empresa 161,Canada,3094808299,compras@empresa161.net
-Proveedor,Empresa 162,Mexico,4226111606,compras@empresa162.com
-Proveedor,Empresa 163,Francia,1197821342,compras@empresa163.net
-Proveedor,Empresa 164,Brasil,7612297116,compras@empresa164.com
-Proveedor,Empresa 165,Francia,4374376686,compras@empresa165.com
-Proveedor,Empresa 166,Canada,5774382146,compras@empresa166.com
-Proveedor,Empresa 167,Mexico,4125790645,compras@empresa167.net
-Fabricante,Empresa 168,Francia,7132654743,compras@empresa168.net
-Proveedor,Empresa 169,Canada,6582884095,compras@empresa169.com
-Fabricante,Empresa 170,Alemania,2547887929,compras@empresa170.net
-Proveedor,Empresa 171,Canada,2389880937,compras@empresa171.com
-Proveedor,Empresa 172,Brasil,5865021768,compras@empresa172.com
-Fabricante,Empresa 173,Alemania,2225078219,compras@empresa173.com
-Fabricante,Empresa 174,India,7609409234,compras@empresa174.net
-Proveedor,Empresa 175,Italia,8594278544,compras@empresa175.com
-Proveedor,Empresa 176,Canada,9356273164,compras@empresa176.com
-Fabricante,Empresa 177,China,6559397732,compras@empresa177.com
-Proveedor,Empresa 178,India,1837488116,compras@empresa178.net
-Proveedor,Empresa 179,Brasil,9852058935,compras@empresa179.net
-Fabricante,Empresa 180,China,4557364296,compras@empresa180.net
-Proveedor,Empresa 181,India,6487294187,compras@empresa181.com
-Fabricante,Empresa 182,Japon,3707022530,compras@empresa182.com
-Fabricante,Empresa 183,Estados Unidos,9605551127,compras@empresa183.com
-Proveedor,Empresa 184,China,2659037699,compras@empresa184.net
-Fabricante,Empresa 185,China,1999503069,compras@empresa185.com
-Fabricante,Empresa 186,Canada,3704431952,compras@empresa186.net
-Proveedor,Empresa 187,Mexico,5319548396,compras@empresa187.com
-Fabricante,Empresa 188,Canada,5426023968,compras@empresa188.com
-Proveedor,Empresa 189,Brasil,4539932377,compras@empresa189.net
-Fabricante,Empresa 190,Brasil,8034164831,compras@empresa190.net
-Fabricante,Empresa 191,Canada,2749600454,compras@empresa191.com
-Proveedor,Empresa 192,Francia,5133502093,compras@empresa192.com
-Proveedor,Empresa 193,China,4045177483,compras@empresa193.net
-Proveedor,Empresa 194,China,2893076208,compras@empresa194.com
-Proveedor,Empresa 195,Italia,9362071373,compras@empresa195.com
-Fabricante,Empresa 196,Canada,2653164617,compras@empresa196.com
-Fabricante,Empresa 197,Canada,6712337367,compras@empresa197.net
-Proveedor,Empresa 198,Mexico,5703288057,compras@empresa198.com
-Fabricante,Empresa 199,India,7626582981,compras@empresa199.com
+Fabricante,Empresa 0,Japon,7980275258,compras@empresa0.net
+Proveedor,Empresa 1,Italia,8873822369,compras@empresa1.com
+Fabricante,Empresa 2,Francia,8451412185,compras@empresa2.com
+Fabricante,Empresa 3,Brasil,8432327250,compras@empresa3.net
+Fabricante,Empresa 4,India,4734215373,compras@empresa4.com
+Proveedor,Empresa 5,Brasil,4113446731,compras@empresa5.com
+Proveedor,Empresa 6,Mexico,1824949137,compras@empresa6.com
+Proveedor,Empresa 7,Canada,3784396857,compras@empresa7.net
+Fabricante,Empresa 8,Alemania,7748136366,compras@empresa8.com
+Proveedor,Empresa 9,China,6579437185,compras@empresa9.com
+Proveedor,Empresa 10,China,2653876497,compras@empresa10.com
+Proveedor,Empresa 11,Mexico,9198775788,compras@empresa11.com
+Fabricante,Empresa 12,China,6818514031,compras@empresa12.net
+Fabricante,Empresa 13,Japon,6355585829,compras@empresa13.com
+Proveedor,Empresa 14,India,9672227540,compras@empresa14.net
+Proveedor,Empresa 15,Italia,7481794890,compras@empresa15.net
+Proveedor,Empresa 16,Italia,5673185696,compras@empresa16.net
+Proveedor,Empresa 17,Alemania,8805481025,compras@empresa17.net
+Fabricante,Empresa 18,Brasil,4530572677,compras@empresa18.com
+Fabricante,Empresa 19,Estados Unidos,1625368551,compras@empresa19.net
+Proveedor,Empresa 20,Canada,9239128870,compras@empresa20.net
+Fabricante,Empresa 21,Estados Unidos,4319860427,compras@empresa21.net
+Proveedor,Empresa 22,China,5679255515,compras@empresa22.com
+Proveedor,Empresa 23,Estados Unidos,2508605703,compras@empresa23.net
+Proveedor,Empresa 24,China,6674102007,compras@empresa24.com
+Proveedor,Empresa 25,Mexico,3477790088,compras@empresa25.com
+Fabricante,Empresa 26,India,2641093775,compras@empresa26.net
+Fabricante,Empresa 27,Estados Unidos,7890290356,compras@empresa27.net
+Proveedor,Empresa 28,Estados Unidos,5161481415,compras@empresa28.com
+Proveedor,Empresa 29,China,3741395353,compras@empresa29.com
+Fabricante,Empresa 30,Francia,8164160475,compras@empresa30.com
+Fabricante,Empresa 31,Italia,9863768410,compras@empresa31.com
+Fabricante,Empresa 32,China,8992829107,compras@empresa32.net
+Proveedor,Empresa 33,India,2587157178,compras@empresa33.com
+Fabricante,Empresa 34,Brasil,4893391287,compras@empresa34.net
+Fabricante,Empresa 35,Brasil,9606048940,compras@empresa35.com
+Fabricante,Empresa 36,Canada,9085734927,compras@empresa36.net
+Proveedor,Empresa 37,Brasil,9058816006,compras@empresa37.com
+Proveedor,Empresa 38,Alemania,4981047285,compras@empresa38.com
+Fabricante,Empresa 39,China,3924787429,compras@empresa39.net
+Proveedor,Empresa 40,Canada,4413370617,compras@empresa40.com
+Proveedor,Empresa 41,Alemania,5987198053,compras@empresa41.com
+Fabricante,Empresa 42,Francia,4448832374,compras@empresa42.net
+Fabricante,Empresa 43,Estados Unidos,3492229476,compras@empresa43.com
+Fabricante,Empresa 44,China,5774965973,compras@empresa44.com
+Fabricante,Empresa 45,Brasil,2200587107,compras@empresa45.net
+Proveedor,Empresa 46,Italia,4454498253,compras@empresa46.com
+Proveedor,Empresa 47,Alemania,4150455864,compras@empresa47.com
+Proveedor,Empresa 48,Japon,8000497086,compras@empresa48.com
+Proveedor,Empresa 49,Brasil,2630507284,compras@empresa49.net
+Fabricante,Empresa 50,Italia,9945308172,compras@empresa50.net
+Proveedor,Empresa 51,India,3420069130,compras@empresa51.net
+Fabricante,Empresa 52,Canada,1040964586,compras@empresa52.net
+Fabricante,Empresa 53,Francia,4349485387,compras@empresa53.com
+Proveedor,Empresa 54,China,3749692968,compras@empresa54.com
+Fabricante,Empresa 55,Japon,3268000307,compras@empresa55.com
+Proveedor,Empresa 56,Francia,8621867633,compras@empresa56.com
+Proveedor,Empresa 57,China,4935954183,compras@empresa57.net
+Proveedor,Empresa 58,Canada,4228150850,compras@empresa58.com
+Proveedor,Empresa 59,Brasil,6793628882,compras@empresa59.com
+Fabricante,Empresa 60,China,5369929495,compras@empresa60.net
+Proveedor,Empresa 61,Canada,4588277864,compras@empresa61.net
+Proveedor,Empresa 62,Brasil,9223637211,compras@empresa62.net
+Fabricante,Empresa 63,Italia,5896956421,compras@empresa63.net
+Proveedor,Empresa 64,Japon,2880318973,compras@empresa64.net
+Proveedor,Empresa 65,Alemania,5912516755,compras@empresa65.net
+Proveedor,Empresa 66,Alemania,6488271355,compras@empresa66.com
+Fabricante,Empresa 67,Brasil,3494086530,compras@empresa67.net
+Proveedor,Empresa 68,Italia,4162010365,compras@empresa68.net
+Proveedor,Empresa 69,Brasil,3320370003,compras@empresa69.com
+Proveedor,Empresa 70,Mexico,4534041882,compras@empresa70.com
+Proveedor,Empresa 71,Alemania,7221534676,compras@empresa71.net
+Proveedor,Empresa 72,Alemania,7617284278,compras@empresa72.com
+Fabricante,Empresa 73,Francia,1774541124,compras@empresa73.net
+Fabricante,Empresa 74,Brasil,7519085519,compras@empresa74.net
+Proveedor,Empresa 75,Mexico,8311484312,compras@empresa75.net
+Proveedor,Empresa 76,China,8604415891,compras@empresa76.net
+Fabricante,Empresa 77,China,4105003092,compras@empresa77.net
+Fabricante,Empresa 78,Japon,6772067036,compras@empresa78.net
+Proveedor,Empresa 79,Estados Unidos,7796312560,compras@empresa79.com
+Fabricante,Empresa 80,Francia,4652032521,compras@empresa80.net
+Fabricante,Empresa 81,Alemania,8092165482,compras@empresa81.net
+Fabricante,Empresa 82,China,5970475704,compras@empresa82.net
+Fabricante,Empresa 83,Estados Unidos,7932908969,compras@empresa83.net
+Fabricante,Empresa 84,India,5052950590,compras@empresa84.com
+Fabricante,Empresa 85,Brasil,7288741731,compras@empresa85.com
+Proveedor,Empresa 86,Alemania,4265821661,compras@empresa86.net
+Proveedor,Empresa 87,India,9653944934,compras@empresa87.com
+Fabricante,Empresa 88,Francia,4564572324,compras@empresa88.com
+Proveedor,Empresa 89,Estados Unidos,9329761058,compras@empresa89.net
+Fabricante,Empresa 90,China,3298137859,compras@empresa90.net
+Proveedor,Empresa 91,Francia,9287978985,compras@empresa91.com
+Fabricante,Empresa 92,Alemania,6140169141,compras@empresa92.net
+Proveedor,Empresa 93,Francia,8069162169,compras@empresa93.com
+Fabricante,Empresa 94,China,2568644903,compras@empresa94.net
+Proveedor,Empresa 95,Francia,2113897120,compras@empresa95.net
+Fabricante,Empresa 96,Alemania,9344192018,compras@empresa96.net
+Fabricante,Empresa 97,China,7609291862,compras@empresa97.com
+Fabricante,Empresa 98,Brasil,4772989443,compras@empresa98.com
+Fabricante,Empresa 99,China,9454728566,compras@empresa99.net
+Proveedor,Empresa 100,China,2869494434,compras@empresa100.com
+Fabricante,Empresa 101,India,7222787953,compras@empresa101.com
+Fabricante,Empresa 102,Brasil,3761098965,compras@empresa102.com
+Fabricante,Empresa 103,Estados Unidos,2960477775,compras@empresa103.net
+Proveedor,Empresa 104,Alemania,9231182948,compras@empresa104.net
+Fabricante,Empresa 105,Alemania,3151446861,compras@empresa105.com
+Proveedor,Empresa 106,Brasil,3901741304,compras@empresa106.com
+Proveedor,Empresa 107,Italia,1941394827,compras@empresa107.net
+Proveedor,Empresa 108,Estados Unidos,7381122579,compras@empresa108.net
+Proveedor,Empresa 109,China,1740446901,compras@empresa109.com
+Proveedor,Empresa 110,Mexico,2643293946,compras@empresa110.net
+Fabricante,Empresa 111,Francia,9237338742,compras@empresa111.com
+Fabricante,Empresa 112,Canada,4004515975,compras@empresa112.com
+Proveedor,Empresa 113,India,1750101308,compras@empresa113.com
+Fabricante,Empresa 114,Brasil,9931951598,compras@empresa114.com
+Fabricante,Empresa 115,Japon,7662719630,compras@empresa115.net
+Fabricante,Empresa 116,Alemania,7217349645,compras@empresa116.net
+Fabricante,Empresa 117,Japon,1010685962,compras@empresa117.com
+Fabricante,Empresa 118,Italia,2916178294,compras@empresa118.net
+Proveedor,Empresa 119,China,8401637104,compras@empresa119.net
+Fabricante,Empresa 120,Estados Unidos,8238218606,compras@empresa120.net
+Fabricante,Empresa 121,Brasil,9334002181,compras@empresa121.com
+Fabricante,Empresa 122,China,2972817781,compras@empresa122.com
+Proveedor,Empresa 123,Canada,9172629553,compras@empresa123.com
+Fabricante,Empresa 124,Mexico,5888067478,compras@empresa124.net
+Proveedor,Empresa 125,Estados Unidos,9824943387,compras@empresa125.com
+Fabricante,Empresa 126,Mexico,5151220583,compras@empresa126.net
+Fabricante,Empresa 127,Estados Unidos,3952970136,compras@empresa127.com
+Proveedor,Empresa 128,Estados Unidos,8739968544,compras@empresa128.com
+Proveedor,Empresa 129,India,2796300317,compras@empresa129.com
+Proveedor,Empresa 130,India,4700187540,compras@empresa130.com
+Proveedor,Empresa 131,India,8288377242,compras@empresa131.com
+Proveedor,Empresa 132,Brasil,9786386452,compras@empresa132.net
+Proveedor,Empresa 133,Canada,6069201764,compras@empresa133.net
+Proveedor,Empresa 134,Italia,8563518732,compras@empresa134.com
+Proveedor,Empresa 135,China,4463837315,compras@empresa135.net
+Proveedor,Empresa 136,Estados Unidos,4179465158,compras@empresa136.com
+Proveedor,Empresa 137,Brasil,6016589164,compras@empresa137.com
+Proveedor,Empresa 138,China,4453790484,compras@empresa138.com
+Fabricante,Empresa 139,Japon,5604947501,compras@empresa139.com
+Fabricante,Empresa 140,Italia,5279654328,compras@empresa140.com
+Proveedor,Empresa 141,Brasil,4347333996,compras@empresa141.net
+Proveedor,Empresa 142,Francia,5368692580,compras@empresa142.net
+Proveedor,Empresa 143,Mexico,7088730530,compras@empresa143.com
+Proveedor,Empresa 144,Francia,7786903185,compras@empresa144.net
+Fabricante,Empresa 145,Estados Unidos,2048480548,compras@empresa145.net
+Fabricante,Empresa 146,Francia,5460820809,compras@empresa146.com
+Fabricante,Empresa 147,Italia,2093189897,compras@empresa147.com
+Proveedor,Empresa 148,Brasil,4251743102,compras@empresa148.com
+Proveedor,Empresa 149,Mexico,5076661992,compras@empresa149.net
+Fabricante,Empresa 150,Francia,7616354189,compras@empresa150.net
+Proveedor,Empresa 151,Alemania,5584669809,compras@empresa151.net
+Fabricante,Empresa 152,Brasil,5233372387,compras@empresa152.net
+Fabricante,Empresa 153,Japon,8907168989,compras@empresa153.com
+Proveedor,Empresa 154,Canada,1484117372,compras@empresa154.net
+Proveedor,Empresa 155,Canada,3848362108,compras@empresa155.net
+Fabricante,Empresa 156,Japon,9612053412,compras@empresa156.net
+Proveedor,Empresa 157,Alemania,6148743843,compras@empresa157.net
+Fabricante,Empresa 158,China,8098145688,compras@empresa158.com
+Proveedor,Empresa 159,Italia,1040915475,compras@empresa159.com
+Fabricante,Empresa 160,Brasil,4090310218,compras@empresa160.com
+Fabricante,Empresa 161,Canada,2911849958,compras@empresa161.net
+Proveedor,Empresa 162,Italia,5059469526,compras@empresa162.com
+Fabricante,Empresa 163,Alemania,4293729967,compras@empresa163.net
+Proveedor,Empresa 164,India,7190754463,compras@empresa164.net
+Proveedor,Empresa 165,Brasil,7501722068,compras@empresa165.com
+Proveedor,Empresa 166,Alemania,1151654521,compras@empresa166.com
+Fabricante,Empresa 167,Alemania,7096203082,compras@empresa167.net
+Fabricante,Empresa 168,Brasil,1681284621,compras@empresa168.com
+Fabricante,Empresa 169,Japon,8624806025,compras@empresa169.net
+Fabricante,Empresa 170,Japon,6573976225,compras@empresa170.net
+Proveedor,Empresa 171,Japon,3392182582,compras@empresa171.com
+Fabricante,Empresa 172,Francia,5089162548,compras@empresa172.net
+Fabricante,Empresa 173,Francia,7029373820,compras@empresa173.com
+Fabricante,Empresa 174,India,8471485300,compras@empresa174.com
+Proveedor,Empresa 175,Alemania,9803111116,compras@empresa175.net
+Proveedor,Empresa 176,China,6111198567,compras@empresa176.com
+Proveedor,Empresa 177,Brasil,7640833374,compras@empresa177.net
+Fabricante,Empresa 178,Estados Unidos,9544949350,compras@empresa178.com
+Fabricante,Empresa 179,Francia,7499597120,compras@empresa179.com
+Fabricante,Empresa 180,Francia,8898420780,compras@empresa180.net
+Fabricante,Empresa 181,Japon,2487240425,compras@empresa181.com
+Fabricante,Empresa 182,India,6306496378,compras@empresa182.com
+Fabricante,Empresa 183,Japon,8308284218,compras@empresa183.com
+Proveedor,Empresa 184,Canada,9301786970,compras@empresa184.com
+Proveedor,Empresa 185,Brasil,8229828382,compras@empresa185.net
+Fabricante,Empresa 186,Alemania,6375625591,compras@empresa186.net
+Proveedor,Empresa 187,Canada,3966666767,compras@empresa187.net
+Fabricante,Empresa 188,Mexico,5265652877,compras@empresa188.com
+Fabricante,Empresa 189,Estados Unidos,8963039822,compras@empresa189.com
+Fabricante,Empresa 190,Estados Unidos,5960563535,compras@empresa190.com
+Proveedor,Empresa 191,Alemania,4890907730,compras@empresa191.com
+Proveedor,Empresa 192,India,4451561927,compras@empresa192.net
+Fabricante,Empresa 193,Estados Unidos,2119744458,compras@empresa193.com
+Proveedor,Empresa 194,Japon,6223682599,compras@empresa194.net
+Proveedor,Empresa 195,Alemania,1786400994,compras@empresa195.net
+Fabricante,Empresa 196,India,1024880274,compras@empresa196.com
+Fabricante,Empresa 197,Mexico,4499584966,compras@empresa197.net
+Proveedor,Empresa 198,India,3399943275,compras@empresa198.net
+Proveedor,Empresa 199,India,7905722929,compras@empresa199.com
