@@ -1,1307 +1,708 @@
-0,1
-documento,tienda
-0,Tienda 388
-3,Tienda 359
-6,Tienda 48
-17,Tienda 389
-24,Tienda 367
-29,Tienda 290
-30,Tienda 350
-31,Tienda 130
-37,Tienda 308
-38,Tienda 24
-39,Tienda 180
-40,Tienda 341
-43,Tienda 454
-44,Tienda 410
-50,Tienda 412
-54,Tienda 353
-57,Tienda 281
-58,Tienda 57
-69,Tienda 58
-74,Tienda 183
-76,Tienda 289
-81,Tienda 110
-82,Tienda 346
-86,Tienda 418
-87,Tienda 404
-90,Tienda 474
-92,Tienda 208
-93,Tienda 31
-96,Tienda 285
-105,Tienda 442
-106,Tienda 131
-107,Tienda 250
-110,Tienda 409
-111,Tienda 30
-114,Tienda 354
-122,Tienda 31
-124,Tienda 307
-125,Tienda 210
-132,Tienda 430
-138,Tienda 464
-139,Tienda 66
-143,Tienda 267
-150,Tienda 429
-151,Tienda 468
-157,Tienda 384
-159,Tienda 434
-163,Tienda 100
-165,Tienda 86
-170,Tienda 11
-172,Tienda 170
-173,Tienda 68
-174,Tienda 298
-175,Tienda 205
-177,Tienda 405
-178,Tienda 355
-179,Tienda 148
-180,Tienda 415
-181,Tienda 30
-182,Tienda 239
-184,Tienda 444
-187,Tienda 297
-189,Tienda 338
-192,Tienda 323
-193,Tienda 319
-194,Tienda 326
-195,Tienda 341
-198,Tienda 160
-204,Tienda 200
-205,Tienda 375
-207,Tienda 58
-208,Tienda 141
-209,Tienda 260
-210,Tienda 138
-211,Tienda 259
-212,Tienda 147
-219,Tienda 309
-223,Tienda 1
-227,Tienda 358
-234,Tienda 190
-235,Tienda 367
-237,Tienda 31
-239,Tienda 213
-244,Tienda 85
-245,Tienda 16
-246,Tienda 448
-249,Tienda 408
-251,Tienda 169
-254,Tienda 239
-255,Tienda 495
-258,Tienda 420
-259,Tienda 425
-260,Tienda 464
-261,Tienda 106
-264,Tienda 436
-266,Tienda 346
-269,Tienda 243
-272,Tienda 401
-279,Tienda 281
-282,Tienda 305
-283,Tienda 432
-284,Tienda 132
-292,Tienda 390
-293,Tienda 376
-294,Tienda 27
-299,Tienda 94
-300,Tienda 452
-308,Tienda 148
-309,Tienda 233
-314,Tienda 240
-315,Tienda 349
-327,Tienda 469
-335,Tienda 211
-337,Tienda 382
-338,Tienda 79
-340,Tienda 205
-347,Tienda 361
-348,Tienda 498
-350,Tienda 465
-357,Tienda 259
-359,Tienda 42
-361,Tienda 474
-368,Tienda 28
-370,Tienda 431
-371,Tienda 11
-377,Tienda 232
-383,Tienda 186
-385,Tienda 194
-387,Tienda 435
-396,Tienda 11
-397,Tienda 372
-398,Tienda 497
-399,Tienda 409
-403,Tienda 168
-408,Tienda 364
-409,Tienda 251
-410,Tienda 489
-411,Tienda 168
-413,Tienda 72
-418,Tienda 452
-421,Tienda 404
-427,Tienda 150
-431,Tienda 350
-432,Tienda 31
-435,Tienda 450
-437,Tienda 428
-438,Tienda 481
-441,Tienda 404
-443,Tienda 407
-450,Tienda 182
-453,Tienda 297
-456,Tienda 483
-457,Tienda 124
-462,Tienda 194
-465,Tienda 42
-466,Tienda 204
-469,Tienda 360
-471,Tienda 263
-479,Tienda 482
-480,Tienda 323
-483,Tienda 249
-491,Tienda 368
-493,Tienda 288
-502,Tienda 19
-505,Tienda 478
-511,Tienda 12
-512,Tienda 369
-520,Tienda 328
-521,Tienda 324
-522,Tienda 205
-525,Tienda 400
-526,Tienda 251
-529,Tienda 219
-530,Tienda 476
-531,Tienda 369
-532,Tienda 383
-533,Tienda 142
-537,Tienda 202
-538,Tienda 57
-545,Tienda 52
-546,Tienda 455
-552,Tienda 157
-553,Tienda 121
-555,Tienda 36
-557,Tienda 422
-559,Tienda 13
-563,Tienda 346
-566,Tienda 364
-571,Tienda 57
-573,Tienda 209
-574,Tienda 320
-583,Tienda 382
-585,Tienda 338
-598,Tienda 345
-599,Tienda 143
-600,Tienda 31
-602,Tienda 93
-604,Tienda 34
-612,Tienda 138
-614,Tienda 280
-617,Tienda 46
-626,Tienda 262
-630,Tienda 302
-631,Tienda 277
-632,Tienda 89
-634,Tienda 347
-636,Tienda 171
-641,Tienda 28
-646,Tienda 400
-652,Tienda 27
-654,Tienda 448
-660,Tienda 162
-663,Tienda 54
-664,Tienda 392
-665,Tienda 67
-668,Tienda 110
-669,Tienda 227
-674,Tienda 311
-675,Tienda 332
-677,Tienda 150
-683,Tienda 325
-685,Tienda 341
-689,Tienda 437
-691,Tienda 19
-693,Tienda 67
-694,Tienda 392
-697,Tienda 53
-698,Tienda 436
-699,Tienda 295
-703,Tienda 331
-706,Tienda 218
-708,Tienda 268
-709,Tienda 349
-718,Tienda 474
-724,Tienda 499
-727,Tienda 485
-728,Tienda 104
-735,Tienda 131
-737,Tienda 226
-738,Tienda 234
-740,Tienda 436
-741,Tienda 383
-742,Tienda 463
-743,Tienda 475
-744,Tienda 145
-746,Tienda 233
-752,Tienda 450
-758,Tienda 19
-759,Tienda 351
-760,Tienda 76
-768,Tienda 249
-770,Tienda 9
-772,Tienda 180
-773,Tienda 473
-774,Tienda 280
-781,Tienda 60
-782,Tienda 230
-783,Tienda 273
-784,Tienda 13
-791,Tienda 435
-793,Tienda 286
-797,Tienda 336
-801,Tienda 286
-802,Tienda 18
-803,Tienda 30
-805,Tienda 499
-813,Tienda 190
-814,Tienda 275
-816,Tienda 42
-820,Tienda 435
-826,Tienda 68
-828,Tienda 2
-834,Tienda 329
-835,Tienda 335
-836,Tienda 22
-841,Tienda 449
-842,Tienda 487
-843,Tienda 226
-850,Tienda 471
-852,Tienda 457
-859,Tienda 99
-862,Tienda 226
-864,Tienda 275
-866,Tienda 441
-869,Tienda 325
-873,Tienda 147
-876,Tienda 32
-879,Tienda 222
-881,Tienda 320
-894,Tienda 333
-896,Tienda 46
-899,Tienda 65
-912,Tienda 402
-913,Tienda 88
-916,Tienda 329
-921,Tienda 312
-922,Tienda 130
-930,Tienda 278
-936,Tienda 299
-937,Tienda 6
-939,Tienda 321
-940,Tienda 141
-944,Tienda 104
-945,Tienda 348
-951,Tienda 70
-952,Tienda 249
-956,Tienda 66
-958,Tienda 364
-960,Tienda 440
-962,Tienda 336
-965,Tienda 239
-966,Tienda 437
-968,Tienda 83
-969,Tienda 358
-970,Tienda 214
-972,Tienda 58
-979,Tienda 45
-980,Tienda 209
-983,Tienda 336
-984,Tienda 178
-986,Tienda 179
-995,Tienda 319
-996,Tienda 496
-997,Tienda 190
-999,Tienda 16
-1000,Tienda 171
-1004,Tienda 298
-1008,Tienda 435
-1010,Tienda 307
-1014,Tienda 311
-1022,Tienda 44
-1030,Tienda 411
-1036,Tienda 218
-1040,Tienda 492
-1045,Tienda 46
-1046,Tienda 142
-1048,Tienda 1
-1053,Tienda 166
-1056,Tienda 395
-1057,Tienda 328
-1060,Tienda 443
-1061,Tienda 321
-1064,Tienda 91
-1067,Tienda 5
-1068,Tienda 68
-1072,Tienda 490
-1074,Tienda 444
-1075,Tienda 101
-1077,Tienda 408
-1079,Tienda 462
-1082,Tienda 232
-1086,Tienda 65
-1088,Tienda 437
-1090,Tienda 352
-1094,Tienda 254
-1095,Tienda 186
-1096,Tienda 41
-1099,Tienda 116
-1100,Tienda 2
-1104,Tienda 65
-1107,Tienda 169
-1112,Tienda 280
-1114,Tienda 136
-1116,Tienda 392
-1117,Tienda 312
-1124,Tienda 419
-1125,Tienda 394
-1128,Tienda 43
-1136,Tienda 344
-1139,Tienda 175
-1141,Tienda 190
-1144,Tienda 350
-1148,Tienda 143
-1157,Tienda 182
-1159,Tienda 189
-1163,Tienda 257
-1165,Tienda 306
-1172,Tienda 419
-1180,Tienda 210
-1181,Tienda 307
-1182,Tienda 293
-1191,Tienda 306
-1192,Tienda 357
-1197,Tienda 100
-1199,Tienda 245
-1202,Tienda 407
-1204,Tienda 92
-1207,Tienda 41
-1209,Tienda 33
-1210,Tienda 302
-1211,Tienda 444
-1212,Tienda 401
-1215,Tienda 85
-1216,Tienda 146
-1219,Tienda 419
-1224,Tienda 490
-1230,Tienda 273
-1245,Tienda 491
-1246,Tienda 258
-1247,Tienda 25
-1249,Tienda 454
-1257,Tienda 479
-1262,Tienda 456
-1265,Tienda 289
-1274,Tienda 443
-1275,Tienda 300
-1276,Tienda 347
-1280,Tienda 371
-1281,Tienda 160
-1285,Tienda 361
-1286,Tienda 309
-1289,Tienda 111
-1290,Tienda 495
-1292,Tienda 36
-1295,Tienda 455
-1296,Tienda 256
-1298,Tienda 250
-1299,Tienda 131
-1301,Tienda 195
-1305,Tienda 210
-1307,Tienda 162
-1308,Tienda 365
-1309,Tienda 49
-1310,Tienda 247
-1313,Tienda 464
-1317,Tienda 331
-1319,Tienda 251
-1320,Tienda 460
-1323,Tienda 45
-1326,Tienda 51
-1327,Tienda 239
-1328,Tienda 147
-1329,Tienda 246
-1330,Tienda 296
-1331,Tienda 45
-1333,Tienda 239
-1336,Tienda 131
-1341,Tienda 270
-1344,Tienda 307
-1346,Tienda 136
-1349,Tienda 143
-1350,Tienda 267
-1356,Tienda 34
-1361,Tienda 316
-1364,Tienda 402
-1369,Tienda 64
-1375,Tienda 460
-1380,Tienda 412
-1383,Tienda 61
-1385,Tienda 415
-1386,Tienda 92
-1393,Tienda 59
-1394,Tienda 55
-1396,Tienda 376
-1402,Tienda 121
-1404,Tienda 457
-1407,Tienda 298
-1411,Tienda 218
-1413,Tienda 83
-1414,Tienda 279
-1417,Tienda 365
-1427,Tienda 169
-1433,Tienda 233
-1435,Tienda 332
-1437,Tienda 6
-1440,Tienda 57
-1442,Tienda 208
-1445,Tienda 138
-1450,Tienda 329
-1451,Tienda 21
-1457,Tienda 328
-1458,Tienda 111
-1461,Tienda 239
-1468,Tienda 206
-1470,Tienda 474
-1475,Tienda 151
-1476,Tienda 471
-1480,Tienda 466
-1485,Tienda 234
-1486,Tienda 47
-1491,Tienda 143
-1492,Tienda 92
-1497,Tienda 22
-1500,Tienda 97
-1501,Tienda 89
-1503,Tienda 36
-1505,Tienda 63
-1511,Tienda 137
-1513,Tienda 145
-1514,Tienda 424
-1515,Tienda 397
-1518,Tienda 12
-1530,Tienda 59
-1534,Tienda 244
-1538,Tienda 20
-1545,Tienda 87
-1546,Tienda 166
-1548,Tienda 415
-1551,Tienda 17
-1554,Tienda 44
-1555,Tienda 250
-1560,Tienda 224
-1564,Tienda 220
-1573,Tienda 3
-1574,Tienda 463
-1576,Tienda 111
-1577,Tienda 351
-1579,Tienda 397
-1583,Tienda 240
-1584,Tienda 232
-1587,Tienda 495
-1592,Tienda 407
-1596,Tienda 234
-1599,Tienda 157
-1604,Tienda 10
-1605,Tienda 270
-1606,Tienda 38
-1608,Tienda 205
-1611,Tienda 165
-1612,Tienda 456
-1614,Tienda 293
-1617,Tienda 327
-1619,Tienda 374
-1632,Tienda 63
-1635,Tienda 196
-1636,Tienda 168
-1637,Tienda 66
-1638,Tienda 430
-1645,Tienda 144
-1647,Tienda 250
-1652,Tienda 142
-1654,Tienda 361
-1657,Tienda 108
-1659,Tienda 335
-1660,Tienda 338
-1664,Tienda 333
-1666,Tienda 471
-1668,Tienda 224
-1669,Tienda 185
-1671,Tienda 391
-1675,Tienda 71
-1676,Tienda 484
-1677,Tienda 395
-1678,Tienda 57
-1680,Tienda 301
-1688,Tienda 452
-1695,Tienda 127
-1696,Tienda 171
-1701,Tienda 442
-1704,Tienda 224
-1705,Tienda 173
-1714,Tienda 11
-1717,Tienda 411
-1718,Tienda 9
-1719,Tienda 313
-1729,Tienda 18
-1731,Tienda 415
-1733,Tienda 43
-1740,Tienda 275
-1741,Tienda 485
-1743,Tienda 56
-1745,Tienda 495
-1746,Tienda 425
-1748,Tienda 455
-1752,Tienda 237
-1753,Tienda 216
-1759,Tienda 211
-1760,Tienda 139
-1764,Tienda 207
-1769,Tienda 5
-1770,Tienda 247
-1774,Tienda 365
-1777,Tienda 60
-1779,Tienda 221
-1780,Tienda 44
-1783,Tienda 405
-1785,Tienda 228
-1787,Tienda 322
-1789,Tienda 450
-1792,Tienda 365
-1794,Tienda 261
-1795,Tienda 376
-1797,Tienda 254
-1801,Tienda 392
-1802,Tienda 120
-1803,Tienda 110
-1808,Tienda 173
-1812,Tienda 71
-1821,Tienda 34
-1822,Tienda 197
-1823,Tienda 341
-1825,Tienda 399
-1827,Tienda 392
-1829,Tienda 61
-1831,Tienda 114
-1833,Tienda 387
-1834,Tienda 10
-1835,Tienda 165
-1838,Tienda 60
-1839,Tienda 101
-1842,Tienda 96
-1843,Tienda 470
-1844,Tienda 358
-1849,Tienda 261
-1850,Tienda 318
-1854,Tienda 399
-1861,Tienda 447
-1866,Tienda 334
-1868,Tienda 484
-1869,Tienda 115
-1870,Tienda 424
-1873,Tienda 285
-1874,Tienda 106
-1886,Tienda 129
-1887,Tienda 436
-1889,Tienda 344
-1893,Tienda 213
-1902,Tienda 328
-1903,Tienda 138
-1905,Tienda 303
-1906,Tienda 146
-1912,Tienda 48
-1915,Tienda 59
-1917,Tienda 58
-1918,Tienda 487
-1919,Tienda 429
-1922,Tienda 405
-1925,Tienda 92
-1928,Tienda 192
-1929,Tienda 484
-1933,Tienda 305
-1935,Tienda 376
-1936,Tienda 219
-1938,Tienda 105
-1939,Tienda 477
-1941,Tienda 343
-1944,Tienda 34
-1947,Tienda 464
-1950,Tienda 1
-1958,Tienda 467
-1960,Tienda 444
-1961,Tienda 467
-1962,Tienda 415
-1963,Tienda 115
-1964,Tienda 227
-1966,Tienda 343
-1967,Tienda 154
-1971,Tienda 31
-1974,Tienda 139
-1979,Tienda 385
-1980,Tienda 437
-1982,Tienda 327
-1984,Tienda 288
-1990,Tienda 319
-1993,Tienda 124
-1994,Tienda 394
-1995,Tienda 176
-1998,Tienda 414
-2001,Tienda 498
-2004,Tienda 419
-2006,Tienda 410
-2007,Tienda 256
-2008,Tienda 196
-2010,Tienda 381
-2011,Tienda 409
-2014,Tienda 230
-2021,Tienda 391
-2023,Tienda 222
-2025,Tienda 23
-2029,Tienda 481
-2032,Tienda 67
-2034,Tienda 123
-2036,Tienda 15
-2040,Tienda 318
-2041,Tienda 351
-2046,Tienda 316
-2051,Tienda 36
-2053,Tienda 391
-2056,Tienda 171
-2057,Tienda 102
-2058,Tienda 470
-2060,Tienda 86
-2061,Tienda 389
-2064,Tienda 187
-2070,Tienda 197
-2075,Tienda 31
-2077,Tienda 300
-2078,Tienda 150
-2081,Tienda 249
-2084,Tienda 260
-2088,Tienda 233
-2090,Tienda 117
-2093,Tienda 285
-2098,Tienda 438
-2100,Tienda 272
-2102,Tienda 89
-2103,Tienda 338
-2120,Tienda 235
-2121,Tienda 286
-2123,Tienda 154
-2128,Tienda 267
-2133,Tienda 72
-2138,Tienda 130
-2139,Tienda 0
-2143,Tienda 414
-2144,Tienda 206
-2147,Tienda 249
-2150,Tienda 262
-2155,Tienda 328
-2162,Tienda 250
-2164,Tienda 164
-2166,Tienda 321
-2167,Tienda 223
-2172,Tienda 430
-2173,Tienda 372
-2181,Tienda 110
-2185,Tienda 393
-2187,Tienda 234
-2188,Tienda 136
-2190,Tienda 173
-2191,Tienda 273
-2192,Tienda 465
-2193,Tienda 452
-2194,Tienda 168
-2204,Tienda 78
-2207,Tienda 220
-2208,Tienda 204
-2209,Tienda 320
-2213,Tienda 19
-2217,Tienda 162
-2218,Tienda 335
-2221,Tienda 58
-2223,Tienda 9
-2224,Tienda 142
-2226,Tienda 369
-2227,Tienda 366
-2231,Tienda 426
-2232,Tienda 107
-2238,Tienda 47
-2242,Tienda 61
-2243,Tienda 128
-2244,Tienda 465
-2245,Tienda 370
-2246,Tienda 205
-2249,Tienda 8
-2250,Tienda 482
-2260,Tienda 285
-2261,Tienda 226
-2262,Tienda 229
-2265,Tienda 123
-2270,Tienda 247
-2271,Tienda 110
-2273,Tienda 200
-2274,Tienda 26
-2275,Tienda 380
-2279,Tienda 375
-2280,Tienda 163
-2286,Tienda 38
-2288,Tienda 45
-2290,Tienda 390
-2291,Tienda 60
-2295,Tienda 0
-2296,Tienda 465
-2298,Tienda 49
-2305,Tienda 178
-2312,Tienda 244
-2313,Tienda 440
-2315,Tienda 443
-2317,Tienda 379
-2319,Tienda 485
-2322,Tienda 14
-2326,Tienda 444
-2328,Tienda 74
-2335,Tienda 175
-2338,Tienda 53
-2341,Tienda 263
-2342,Tienda 469
-2346,Tienda 141
-2355,Tienda 352
-2357,Tienda 280
-2359,Tienda 134
-2360,Tienda 350
-2361,Tienda 236
-2362,Tienda 438
-2363,Tienda 290
-2365,Tienda 298
-2367,Tienda 314
-2370,Tienda 374
-2371,Tienda 157
-2372,Tienda 290
-2373,Tienda 12
-2376,Tienda 394
-2379,Tienda 324
-2381,Tienda 339
-2382,Tienda 34
-2386,Tienda 189
-2387,Tienda 301
-2389,Tienda 54
-2391,Tienda 357
-2395,Tienda 104
-2398,Tienda 92
-2401,Tienda 157
-2402,Tienda 91
-2403,Tienda 89
-2404,Tienda 390
-2407,Tienda 37
-2408,Tienda 425
-2409,Tienda 361
-2410,Tienda 178
-2411,Tienda 212
-2415,Tienda 439
-2418,Tienda 417
-2424,Tienda 335
-2426,Tienda 427
-2429,Tienda 484
-2432,Tienda 313
-2434,Tienda 412
-2435,Tienda 487
-2442,Tienda 217
-2445,Tienda 457
-2449,Tienda 363
-2450,Tienda 86
-2455,Tienda 402
-2458,Tienda 112
-2461,Tienda 145
-2465,Tienda 121
-2468,Tienda 148
-2474,Tienda 467
-2475,Tienda 212
-2481,Tienda 148
-2493,Tienda 432
-2500,Tienda 149
-2506,Tienda 362
-2507,Tienda 356
-2508,Tienda 223
-2510,Tienda 162
-2515,Tienda 434
-2517,Tienda 230
-2518,Tienda 497
-2522,Tienda 434
-2524,Tienda 45
-2525,Tienda 457
-2530,Tienda 118
-2531,Tienda 439
-2534,Tienda 8
-2536,Tienda 40
-2539,Tienda 98
-2546,Tienda 360
-2548,Tienda 39
-2550,Tienda 363
-2557,Tienda 228
-2560,Tienda 462
-2567,Tienda 142
-2568,Tienda 482
-2574,Tienda 85
-2580,Tienda 300
-2581,Tienda 43
-2582,Tienda 306
-2585,Tienda 241
-2586,Tienda 488
-2588,Tienda 463
-2589,Tienda 237
-2592,Tienda 104
-2595,Tienda 425
-2596,Tienda 254
-2600,Tienda 56
-2602,Tienda 272
-2604,Tienda 281
-2606,Tienda 117
-2608,Tienda 227
-2610,Tienda 354
-2612,Tienda 113
-2614,Tienda 363
-2615,Tienda 140
-2622,Tienda 216
-2623,Tienda 329
-2624,Tienda 434
-2625,Tienda 299
-2629,Tienda 6
-2634,Tienda 307
-2643,Tienda 297
-2650,Tienda 295
-2655,Tienda 136
-2658,Tienda 298
-2662,Tienda 208
-2664,Tienda 451
-2667,Tienda 296
-2668,Tienda 4
-2675,Tienda 78
-2677,Tienda 305
-2680,Tienda 90
-2683,Tienda 154
-2684,Tienda 110
-2685,Tienda 486
-2686,Tienda 319
-2688,Tienda 265
-2689,Tienda 386
-2691,Tienda 319
-2695,Tienda 76
-2699,Tienda 45
-2706,Tienda 464
-2707,Tienda 440
-2708,Tienda 348
-2709,Tienda 75
-2713,Tienda 242
-2714,Tienda 116
-2716,Tienda 277
-2718,Tienda 271
-2721,Tienda 370
-2722,Tienda 316
-2725,Tienda 105
-2727,Tienda 455
-2728,Tienda 339
-2730,Tienda 141
-2732,Tienda 164
-2733,Tienda 455
-2738,Tienda 370
-2739,Tienda 483
-2745,Tienda 487
-2746,Tienda 75
-2748,Tienda 442
-2754,Tienda 133
-2755,Tienda 456
-2756,Tienda 11
-2757,Tienda 281
-2760,Tienda 343
-2768,Tienda 151
-2772,Tienda 270
-2775,Tienda 251
-2779,Tienda 26
-2782,Tienda 493
-2785,Tienda 480
-2804,Tienda 482
-2808,Tienda 472
-2811,Tienda 40
-2813,Tienda 366
-2814,Tienda 175
-2826,Tienda 241
-2830,Tienda 51
-2833,Tienda 122
-2835,Tienda 61
-2836,Tienda 426
-2841,Tienda 7
-2843,Tienda 433
-2844,Tienda 332
-2850,Tienda 303
-2853,Tienda 349
-2866,Tienda 91
-2867,Tienda 201
-2869,Tienda 473
-2879,Tienda 320
-2880,Tienda 484
-2883,Tienda 383
-2884,Tienda 369
-2885,Tienda 29
-2886,Tienda 245
-2890,Tienda 451
-2905,Tienda 301
-2907,Tienda 230
-2919,Tienda 264
-2931,Tienda 324
-2932,Tienda 174
-2939,Tienda 317
-2941,Tienda 400
-2945,Tienda 481
-2954,Tienda 85
-2957,Tienda 321
-2963,Tienda 398
-2966,Tienda 331
-2970,Tienda 24
-2973,Tienda 223
-2977,Tienda 353
-2982,Tienda 256
-2986,Tienda 16
-2988,Tienda 412
-2989,Tienda 69
-2992,Tienda 148
-2993,Tienda 458
-2994,Tienda 100
-2999,Tienda 54
-3004,Tienda 145
-3005,Tienda 16
-3006,Tienda 292
-3016,Tienda 425
-3020,Tienda 164
-3023,Tienda 19
-3025,Tienda 347
-3027,Tienda 174
-3028,Tienda 499
-3030,Tienda 399
-3041,Tienda 43
-3042,Tienda 209
-3049,Tienda 3
-3051,Tienda 2
-3054,Tienda 114
-3055,Tienda 167
-3056,Tienda 314
-3058,Tienda 301
-3059,Tienda 289
-3062,Tienda 73
-3063,Tienda 463
-3074,Tienda 97
-3079,Tienda 29
-3083,Tienda 385
-3085,Tienda 489
-3089,Tienda 14
-3098,Tienda 395
-3100,Tienda 32
-3102,Tienda 90
-3103,Tienda 280
-3105,Tienda 306
-3106,Tienda 173
-3107,Tienda 334
-3111,Tienda 493
-3116,Tienda 481
-3118,Tienda 198
-3119,Tienda 372
-3122,Tienda 94
-3128,Tienda 493
-3130,Tienda 285
-3135,Tienda 202
-3137,Tienda 150
-3139,Tienda 490
-3140,Tienda 272
-3144,Tienda 13
-3145,Tienda 254
-3146,Tienda 407
-3154,Tienda 220
-3157,Tienda 269
-3159,Tienda 321
-3162,Tienda 323
-3167,Tienda 299
-3172,Tienda 259
-3177,Tienda 445
-3183,Tienda 458
-3185,Tienda 371
-3186,Tienda 28
-3187,Tienda 264
-3192,Tienda 452
-3195,Tienda 147
-3196,Tienda 377
-3199,Tienda 51
-3202,Tienda 85
-3205,Tienda 324
-3214,Tienda 461
-3218,Tienda 55
-3219,Tienda 303
-3224,Tienda 382
-3225,Tienda 360
-3229,Tienda 482
-3235,Tienda 61
-3238,Tienda 59
-3240,Tienda 11
-3243,Tienda 83
-3244,Tienda 79
-3247,Tienda 393
-3250,Tienda 140
-3251,Tienda 44
-3252,Tienda 109
-3256,Tienda 448
-3258,Tienda 353
-3263,Tienda 102
-3264,Tienda 84
-3269,Tienda 315
-3273,Tienda 68
-3279,Tienda 227
-3280,Tienda 211
-3284,Tienda 154
-3286,Tienda 220
-3288,Tienda 216
-3289,Tienda 433
-3294,Tienda 491
-3301,Tienda 49
-3303,Tienda 399
-3304,Tienda 257
-3305,Tienda 293
-3307,Tienda 66
-3314,Tienda 222
-3318,Tienda 437
-3323,Tienda 170
-3324,Tienda 128
-3325,Tienda 228
-3330,Tienda 355
-3334,Tienda 82
-3335,Tienda 410
-3340,Tienda 109
-3348,Tienda 379
-3349,Tienda 61
-3350,Tienda 69
-3356,Tienda 199
-3371,Tienda 462
-3372,Tienda 469
-3374,Tienda 404
-3376,Tienda 36
-3380,Tienda 101
-3381,Tienda 70
-3383,Tienda 372
-3387,Tienda 35
-3391,Tienda 173
-3392,Tienda 143
-3393,Tienda 445
-3394,Tienda 74
-3396,Tienda 98
-3401,Tienda 109
-3403,Tienda 136
-3404,Tienda 204
-3406,Tienda 376
-3408,Tienda 440
-3412,Tienda 8
-3414,Tienda 497
-3417,Tienda 436
-3430,Tienda 212
-3432,Tienda 29
-3434,Tienda 292
-3435,Tienda 474
-3442,Tienda 394
-3443,Tienda 195
-3445,Tienda 424
-3446,Tienda 110
-3448,Tienda 391
-3449,Tienda 33
-3450,Tienda 418
-3454,Tienda 390
-3457,Tienda 134
-3460,Tienda 203
-3465,Tienda 486
-3466,Tienda 224
-3469,Tienda 148
-3479,Tienda 224
-3482,Tienda 354
-3486,Tienda 447
-3488,Tienda 355
-3489,Tienda 402
-3491,Tienda 325
-3496,Tienda 96
-3498,Tienda 320
-3504,Tienda 286
-3510,Tienda 0
-3512,Tienda 275
-3514,Tienda 347
-3518,Tienda 17
-3519,Tienda 60
-3521,Tienda 94
-3524,Tienda 248
-3526,Tienda 449
-3527,Tienda 472
-3529,Tienda 66
-3532,Tienda 29
-3533,Tienda 237
-3536,Tienda 448
-3537,Tienda 313
-3538,Tienda 464
-3544,Tienda 380
-3545,Tienda 328
-3549,Tienda 371
-3552,Tienda 485
-3556,Tienda 378
-3557,Tienda 314
-3561,Tienda 413
-3562,Tienda 428
-3567,Tienda 374
-3569,Tienda 266
-3571,Tienda 103
-3576,Tienda 461
-3582,Tienda 197
-3587,Tienda 265
-3590,Tienda 376
-3591,Tienda 276
-3593,Tienda 54
-3594,Tienda 60
-3596,Tienda 242
-3597,Tienda 94
-3598,Tienda 334
-3599,Tienda 456
-3601,Tienda 274
-3602,Tienda 478
-3607,Tienda 210
-3609,Tienda 64
-3612,Tienda 174
-3613,Tienda 355
-3614,Tienda 66
-3615,Tienda 335
-3619,Tienda 410
-3620,Tienda 451
-3621,Tienda 9
-3624,Tienda 366
-3626,Tienda 11
-3631,Tienda 60
-3637,Tienda 333
-3639,Tienda 314
-3644,Tienda 374
-3646,Tienda 437
-3647,Tienda 309
-3648,Tienda 24
-3651,Tienda 387
-3660,Tienda 280
-3665,Tienda 431
-3666,Tienda 99
-3668,Tienda 283
-3678,Tienda 128
-3680,Tienda 36
-3683,Tienda 466
-3684,Tienda 317
-3687,Tienda 82
-3690,Tienda 450
-3695,Tienda 275
-3700,Tienda 245
-3706,Tienda 231
-3709,Tienda 280
-3710,Tienda 389
-3716,Tienda 281
-3717,Tienda 249
-3721,Tienda 306
-3724,Tienda 498
-3725,Tienda 495
-3727,Tienda 446
-3729,Tienda 367
-3731,Tienda 16
-3735,Tienda 461
-3736,Tienda 279
-3740,Tienda 162
-3744,Tienda 302
-3749,Tienda 178
-3751,Tienda 271
-3756,Tienda 16
-3759,Tienda 339
-3762,Tienda 93
-3763,Tienda 26
-3764,Tienda 351
-3774,Tienda 470
-3775,Tienda 35
-3777,Tienda 168
-3778,Tienda 339
-3779,Tienda 482
-3782,Tienda 495
-3790,Tienda 264
-3792,Tienda 70
-3795,Tienda 218
-3800,Tienda 439
-3801,Tienda 280
-3806,Tienda 113
-3807,Tienda 295
-3810,Tienda 453
-3811,Tienda 175
-3812,Tienda 82
-3813,Tienda 438
-3815,Tienda 433
-3823,Tienda 414
-3829,Tienda 452
-3831,Tienda 258
-3833,Tienda 190
-3835,Tienda 134
-3836,Tienda 33
-3839,Tienda 464
-3840,Tienda 187
-3841,Tienda 330
-3842,Tienda 495
-3844,Tienda 394
-3848,Tienda 179
-3851,Tienda 165
-3856,Tienda 171
-3858,Tienda 270
-3860,Tienda 148
-3865,Tienda 456
-3868,Tienda 195
-3871,Tienda 490
-3873,Tienda 350
-3879,Tienda 453
-3880,Tienda 361
-3893,Tienda 248
-3895,Tienda 319
-3896,Tienda 9
-3897,Tienda 134
-3899,Tienda 294
-3900,Tienda 203
-3904,Tienda 155
-3905,Tienda 145
-3906,Tienda 412
-3913,Tienda 226
-3917,Tienda 47
-3919,Tienda 189
-3920,Tienda 165
-3925,Tienda 411
-3926,Tienda 124
-3927,Tienda 460
-3930,Tienda 141
-3935,Tienda 27
-3946,Tienda 240
-3949,Tienda 294
-3953,Tienda 124
-3954,Tienda 48
-3962,Tienda 282
-3963,Tienda 200
-3969,Tienda 84
-3970,Tienda 67
-3972,Tienda 207
-3974,Tienda 133
-3975,Tienda 470
-3982,Tienda 140
-3985,Tienda 153
-3987,Tienda 115
-3991,Tienda 132
-3992,Tienda 168
-3994,Tienda 179
-3996,Tienda 111
-3997,Tienda 419
+documento,tienda,firmadaPor,modalidad,metodoPago
+5,Tienda 336,Jose,Correo Electrónico,Tarjeta de Crédito
+6,Tienda 372,Pedro,Llamada Telefónica,Transferencia Bancaria
+11,Tienda 100,Roberto,Visita presencial,Efectivo
+21,Tienda 421,Carlos,Llamada Telefónica,Efectivo
+25,Tienda 31,Roberto,Visita presencial,Cheque
+31,Tienda 462,Pedro,Llamada Telefónica,Transferencia Bancaria
+33,Tienda 482,Jose,App,Cheque
+42,Tienda 418,Roberto,Llamada Telefónica,Tarjeta de Crédito
+45,Tienda 338,Juan,Correo Electrónico,Transferencia Bancaria
+48,Tienda 32,Carlos,Visita presencial,Cheque
+61,Tienda 483,Roberto,Visita presencial,Efectivo
+62,Tienda 456,Maria,Correo Electrónico,Efectivo
+68,Tienda 166,Luis,App,Efectivo
+71,Tienda 115,Roberto,Correo Electrónico,Cheque
+79,Tienda 256,Ricardo,Visita presencial,Cheque
+83,Tienda 74,Ricardo,Llamada Telefónica,Cheque
+84,Tienda 77,Juan,Llamada Telefónica,Cheque
+95,Tienda 295,Maria,Visita presencial,Transferencia Bancaria
+102,Tienda 4,Pedro,Visita presencial,Efectivo
+108,Tienda 187,Ana,App,Cheque
+112,Tienda 241,Juan,Visita presencial,Cheque
+113,Tienda 41,Pedro,App,Transferencia Bancaria
+117,Tienda 185,Ana,App,Efectivo
+122,Tienda 22,Fernando,Correo Electrónico,Transferencia Bancaria
+126,Tienda 224,Luis,Llamada Telefónica,Cheque
+140,Tienda 462,Carlos,Llamada Telefónica,Cheque
+141,Tienda 123,Fernando,Llamada Telefónica,Transferencia Bancaria
+146,Tienda 336,Fernando,Llamada Telefónica,Tarjeta de Débito
+148,Tienda 347,Fernando,Visita presencial,Efectivo
+149,Tienda 308,Luis,Visita presencial,Tarjeta de Crédito
+151,Tienda 242,Pedro,Correo Electrónico,Tarjeta de Débito
+154,Tienda 382,Pedro,App,Transferencia Bancaria
+161,Tienda 233,Pedro,Llamada Telefónica,Tarjeta de Débito
+166,Tienda 410,Jose,Correo Electrónico,Efectivo
+167,Tienda 458,Carlos,Visita presencial,Tarjeta de Crédito
+175,Tienda 436,Pedro,Correo Electrónico,Tarjeta de Crédito
+178,Tienda 258,Carlos,App,Efectivo
+180,Tienda 95,Ricardo,Correo Electrónico,Transferencia Bancaria
+184,Tienda 415,Ricardo,Llamada Telefónica,Efectivo
+201,Tienda 98,Jose,Llamada Telefónica,Cheque
+209,Tienda 485,Luis,Llamada Telefónica,Cheque
+223,Tienda 451,Luis,Visita presencial,Efectivo
+225,Tienda 239,Ana,Visita presencial,Tarjeta de Crédito
+226,Tienda 368,Ricardo,App,Efectivo
+228,Tienda 104,Ricardo,Llamada Telefónica,Tarjeta de Débito
+230,Tienda 239,Roberto,Llamada Telefónica,Tarjeta de Débito
+235,Tienda 396,Fernando,Llamada Telefónica,Tarjeta de Crédito
+238,Tienda 264,Juan,Correo Electrónico,Tarjeta de Crédito
+249,Tienda 196,Fernando,App,Efectivo
+255,Tienda 20,Pedro,App,Transferencia Bancaria
+284,Tienda 198,Fernando,Llamada Telefónica,Efectivo
+288,Tienda 297,Ana,Correo Electrónico,Efectivo
+289,Tienda 368,Roberto,Llamada Telefónica,Cheque
+290,Tienda 472,Luis,Visita presencial,Tarjeta de Débito
+302,Tienda 241,Fernando,Llamada Telefónica,Tarjeta de Débito
+306,Tienda 489,Ricardo,App,Tarjeta de Crédito
+309,Tienda 160,Ricardo,Llamada Telefónica,Efectivo
+310,Tienda 148,Fernando,Correo Electrónico,Transferencia Bancaria
+316,Tienda 327,Jose,Correo Electrónico,Transferencia Bancaria
+317,Tienda 253,Carlos,Correo Electrónico,Efectivo
+318,Tienda 315,Ricardo,App,Transferencia Bancaria
+319,Tienda 345,Luis,Visita presencial,Tarjeta de Crédito
+320,Tienda 20,Pedro,Visita presencial,Tarjeta de Débito
+323,Tienda 21,Ricardo,Correo Electrónico,Cheque
+337,Tienda 471,Luis,App,Tarjeta de Crédito
+338,Tienda 457,Luis,Llamada Telefónica,Cheque
+344,Tienda 373,Luis,App,Transferencia Bancaria
+350,Tienda 303,Juan,Llamada Telefónica,Tarjeta de Débito
+365,Tienda 167,Roberto,Visita presencial,Tarjeta de Débito
+376,Tienda 103,Ana,App,Cheque
+378,Tienda 474,Carlos,Visita presencial,Cheque
+389,Tienda 196,Maria,Llamada Telefónica,Efectivo
+398,Tienda 220,Fernando,Llamada Telefónica,Tarjeta de Crédito
+399,Tienda 322,Luis,Visita presencial,Tarjeta de Crédito
+400,Tienda 169,Luis,App,Cheque
+406,Tienda 296,Pedro,Llamada Telefónica,Transferencia Bancaria
+414,Tienda 429,Carlos,Llamada Telefónica,Efectivo
+417,Tienda 229,Jose,Llamada Telefónica,Tarjeta de Débito
+418,Tienda 104,Juan,Visita presencial,Tarjeta de Crédito
+432,Tienda 180,Ana,Llamada Telefónica,Cheque
+440,Tienda 326,Carlos,Correo Electrónico,Cheque
+444,Tienda 168,Maria,App,Transferencia Bancaria
+454,Tienda 304,Juan,App,Cheque
+471,Tienda 285,Jose,App,Efectivo
+475,Tienda 409,Carlos,Llamada Telefónica,Tarjeta de Débito
+476,Tienda 165,Ana,Correo Electrónico,Tarjeta de Débito
+478,Tienda 432,Maria,Llamada Telefónica,Efectivo
+483,Tienda 112,Fernando,Visita presencial,Cheque
+484,Tienda 493,Juan,Llamada Telefónica,Efectivo
+486,Tienda 114,Ana,Visita presencial,Cheque
+489,Tienda 80,Carlos,App,Tarjeta de Crédito
+494,Tienda 250,Jose,Correo Electrónico,Tarjeta de Crédito
+504,Tienda 78,Ricardo,Correo Electrónico,Cheque
+505,Tienda 123,Pedro,Visita presencial,Cheque
+521,Tienda 352,Jose,Correo Electrónico,Efectivo
+524,Tienda 337,Ricardo,Visita presencial,Cheque
+529,Tienda 32,Ricardo,Correo Electrónico,Tarjeta de Crédito
+530,Tienda 303,Fernando,Llamada Telefónica,Tarjeta de Crédito
+534,Tienda 335,Fernando,Llamada Telefónica,Tarjeta de Débito
+544,Tienda 172,Juan,Visita presencial,Tarjeta de Débito
+545,Tienda 72,Roberto,Correo Electrónico,Tarjeta de Crédito
+548,Tienda 98,Fernando,App,Cheque
+560,Tienda 263,Maria,App,Transferencia Bancaria
+568,Tienda 237,Jose,Correo Electrónico,Tarjeta de Crédito
+571,Tienda 480,Luis,Correo Electrónico,Tarjeta de Crédito
+576,Tienda 472,Maria,Correo Electrónico,Efectivo
+580,Tienda 286,Fernando,Correo Electrónico,Tarjeta de Débito
+588,Tienda 229,Juan,Visita presencial,Tarjeta de Débito
+590,Tienda 275,Ricardo,App,Transferencia Bancaria
+593,Tienda 92,Juan,Visita presencial,Tarjeta de Crédito
+607,Tienda 42,Luis,App,Tarjeta de Crédito
+610,Tienda 344,Juan,App,Cheque
+611,Tienda 86,Roberto,Visita presencial,Cheque
+615,Tienda 345,Ana,Llamada Telefónica,Cheque
+619,Tienda 188,Fernando,App,Cheque
+629,Tienda 153,Fernando,Correo Electrónico,Transferencia Bancaria
+630,Tienda 396,Ricardo,Visita presencial,Efectivo
+636,Tienda 426,Ricardo,Visita presencial,Transferencia Bancaria
+645,Tienda 10,Ricardo,App,Tarjeta de Crédito
+656,Tienda 215,Jose,App,Tarjeta de Crédito
+662,Tienda 410,Maria,Visita presencial,Tarjeta de Crédito
+683,Tienda 376,Pedro,Llamada Telefónica,Tarjeta de Débito
+692,Tienda 72,Ricardo,Visita presencial,Transferencia Bancaria
+698,Tienda 262,Carlos,Llamada Telefónica,Cheque
+706,Tienda 85,Fernando,App,Tarjeta de Débito
+720,Tienda 123,Juan,App,Tarjeta de Débito
+726,Tienda 230,Roberto,Llamada Telefónica,Cheque
+734,Tienda 468,Ricardo,App,Transferencia Bancaria
+735,Tienda 102,Ana,Correo Electrónico,Cheque
+738,Tienda 404,Jose,Llamada Telefónica,Tarjeta de Crédito
+739,Tienda 295,Roberto,Correo Electrónico,Transferencia Bancaria
+741,Tienda 46,Juan,Correo Electrónico,Tarjeta de Débito
+744,Tienda 72,Ana,Llamada Telefónica,Transferencia Bancaria
+748,Tienda 306,Ana,App,Transferencia Bancaria
+749,Tienda 135,Fernando,Llamada Telefónica,Efectivo
+752,Tienda 38,Roberto,Correo Electrónico,Tarjeta de Débito
+754,Tienda 148,Juan,Correo Electrónico,Tarjeta de Débito
+757,Tienda 338,Fernando,App,Efectivo
+761,Tienda 53,Carlos,App,Tarjeta de Crédito
+772,Tienda 459,Maria,App,Cheque
+781,Tienda 183,Luis,Llamada Telefónica,Transferencia Bancaria
+784,Tienda 456,Ricardo,Correo Electrónico,Tarjeta de Débito
+785,Tienda 171,Pedro,Correo Electrónico,Transferencia Bancaria
+793,Tienda 425,Ricardo,Visita presencial,Tarjeta de Crédito
+802,Tienda 138,Luis,Llamada Telefónica,Tarjeta de Crédito
+815,Tienda 156,Juan,Correo Electrónico,Efectivo
+820,Tienda 149,Pedro,App,Tarjeta de Débito
+824,Tienda 387,Roberto,Correo Electrónico,Tarjeta de Débito
+825,Tienda 147,Carlos,App,Tarjeta de Crédito
+827,Tienda 33,Ricardo,Visita presencial,Efectivo
+834,Tienda 411,Maria,Llamada Telefónica,Transferencia Bancaria
+838,Tienda 227,Jose,App,Efectivo
+839,Tienda 271,Pedro,Visita presencial,Efectivo
+846,Tienda 383,Luis,App,Tarjeta de Débito
+848,Tienda 339,Carlos,App,Tarjeta de Débito
+851,Tienda 172,Jose,App,Cheque
+866,Tienda 410,Maria,Llamada Telefónica,Efectivo
+867,Tienda 121,Luis,Correo Electrónico,Tarjeta de Crédito
+870,Tienda 240,Pedro,Correo Electrónico,Tarjeta de Crédito
+875,Tienda 9,Juan,Visita presencial,Efectivo
+901,Tienda 226,Ricardo,App,Transferencia Bancaria
+907,Tienda 363,Pedro,Correo Electrónico,Transferencia Bancaria
+909,Tienda 139,Pedro,Visita presencial,Tarjeta de Crédito
+910,Tienda 268,Carlos,Correo Electrónico,Efectivo
+914,Tienda 327,Juan,App,Tarjeta de Crédito
+917,Tienda 256,Luis,App,Transferencia Bancaria
+924,Tienda 497,Luis,App,Tarjeta de Crédito
+942,Tienda 139,Juan,Correo Electrónico,Tarjeta de Crédito
+944,Tienda 299,Maria,App,Efectivo
+947,Tienda 442,Ana,Llamada Telefónica,Tarjeta de Crédito
+949,Tienda 75,Luis,Visita presencial,Tarjeta de Débito
+961,Tienda 50,Pedro,Llamada Telefónica,Cheque
+963,Tienda 392,Carlos,Llamada Telefónica,Tarjeta de Crédito
+974,Tienda 337,Pedro,Correo Electrónico,Transferencia Bancaria
+979,Tienda 140,Juan,Llamada Telefónica,Transferencia Bancaria
+982,Tienda 354,Pedro,Visita presencial,Transferencia Bancaria
+984,Tienda 253,Roberto,Correo Electrónico,Efectivo
+991,Tienda 402,Pedro,Llamada Telefónica,Tarjeta de Crédito
+997,Tienda 146,Pedro,Visita presencial,Cheque
+998,Tienda 3,Ana,Correo Electrónico,Efectivo
+1003,Tienda 400,Carlos,Correo Electrónico,Tarjeta de Crédito
+1010,Tienda 77,Fernando,Visita presencial,Cheque
+1038,Tienda 73,Jose,App,Tarjeta de Crédito
+1043,Tienda 27,Carlos,Visita presencial,Cheque
+1047,Tienda 262,Carlos,Visita presencial,Transferencia Bancaria
+1051,Tienda 64,Jose,Visita presencial,Cheque
+1052,Tienda 232,Luis,Visita presencial,Tarjeta de Crédito
+1059,Tienda 210,Juan,Visita presencial,Tarjeta de Débito
+1062,Tienda 48,Jose,Correo Electrónico,Tarjeta de Débito
+1063,Tienda 218,Maria,Correo Electrónico,Cheque
+1068,Tienda 124,Roberto,App,Transferencia Bancaria
+1080,Tienda 330,Roberto,Correo Electrónico,Efectivo
+1083,Tienda 410,Carlos,Llamada Telefónica,Transferencia Bancaria
+1090,Tienda 40,Ricardo,Correo Electrónico,Efectivo
+1091,Tienda 182,Roberto,Visita presencial,Tarjeta de Crédito
+1103,Tienda 2,Pedro,Correo Electrónico,Tarjeta de Crédito
+1105,Tienda 483,Maria,App,Tarjeta de Crédito
+1109,Tienda 193,Roberto,Visita presencial,Tarjeta de Débito
+1114,Tienda 150,Pedro,Llamada Telefónica,Transferencia Bancaria
+1126,Tienda 350,Juan,App,Transferencia Bancaria
+1129,Tienda 34,Carlos,Correo Electrónico,Tarjeta de Débito
+1133,Tienda 103,Carlos,Llamada Telefónica,Cheque
+1139,Tienda 100,Jose,App,Cheque
+1148,Tienda 465,Fernando,App,Efectivo
+1153,Tienda 430,Pedro,Llamada Telefónica,Cheque
+1155,Tienda 391,Ana,Correo Electrónico,Transferencia Bancaria
+1164,Tienda 416,Roberto,Visita presencial,Transferencia Bancaria
+1166,Tienda 482,Juan,Correo Electrónico,Efectivo
+1175,Tienda 30,Jose,Correo Electrónico,Tarjeta de Débito
+1180,Tienda 275,Roberto,App,Tarjeta de Débito
+1193,Tienda 147,Jose,Llamada Telefónica,Transferencia Bancaria
+1196,Tienda 37,Luis,App,Cheque
+1200,Tienda 359,Maria,Llamada Telefónica,Transferencia Bancaria
+1209,Tienda 284,Jose,Llamada Telefónica,Efectivo
+1210,Tienda 375,Jose,Llamada Telefónica,Transferencia Bancaria
+1218,Tienda 230,Maria,Correo Electrónico,Tarjeta de Crédito
+1219,Tienda 303,Ricardo,App,Tarjeta de Crédito
+1224,Tienda 373,Roberto,Llamada Telefónica,Transferencia Bancaria
+1232,Tienda 316,Luis,Llamada Telefónica,Efectivo
+1234,Tienda 386,Pedro,Llamada Telefónica,Tarjeta de Crédito
+1238,Tienda 54,Juan,App,Cheque
+1246,Tienda 250,Fernando,Llamada Telefónica,Tarjeta de Débito
+1248,Tienda 25,Fernando,Visita presencial,Transferencia Bancaria
+1252,Tienda 113,Fernando,Llamada Telefónica,Transferencia Bancaria
+1253,Tienda 461,Fernando,Llamada Telefónica,Efectivo
+1257,Tienda 480,Roberto,Llamada Telefónica,Tarjeta de Crédito
+1266,Tienda 53,Pedro,App,Transferencia Bancaria
+1272,Tienda 312,Ana,App,Transferencia Bancaria
+1280,Tienda 343,Roberto,Visita presencial,Cheque
+1281,Tienda 213,Luis,Llamada Telefónica,Transferencia Bancaria
+1284,Tienda 276,Ricardo,Visita presencial,Tarjeta de Débito
+1286,Tienda 104,Ana,App,Cheque
+1294,Tienda 210,Fernando,Llamada Telefónica,Tarjeta de Crédito
+1301,Tienda 491,Ana,Llamada Telefónica,Tarjeta de Débito
+1315,Tienda 471,Jose,App,Transferencia Bancaria
+1316,Tienda 277,Luis,Llamada Telefónica,Tarjeta de Débito
+1324,Tienda 219,Jose,Visita presencial,Tarjeta de Crédito
+1325,Tienda 95,Ricardo,Llamada Telefónica,Tarjeta de Crédito
+1326,Tienda 476,Juan,App,Tarjeta de Crédito
+1328,Tienda 245,Jose,App,Tarjeta de Crédito
+1337,Tienda 113,Fernando,Llamada Telefónica,Cheque
+1342,Tienda 430,Fernando,Llamada Telefónica,Efectivo
+1343,Tienda 31,Luis,Visita presencial,Tarjeta de Débito
+1345,Tienda 397,Ricardo,Visita presencial,Tarjeta de Crédito
+1347,Tienda 158,Maria,Correo Electrónico,Tarjeta de Débito
+1349,Tienda 181,Ricardo,Visita presencial,Tarjeta de Crédito
+1353,Tienda 302,Carlos,App,Efectivo
+1361,Tienda 84,Fernando,Llamada Telefónica,Efectivo
+1367,Tienda 63,Jose,Llamada Telefónica,Transferencia Bancaria
+1370,Tienda 469,Ricardo,Visita presencial,Tarjeta de Crédito
+1375,Tienda 476,Ana,Correo Electrónico,Efectivo
+1378,Tienda 188,Carlos,Llamada Telefónica,Tarjeta de Crédito
+1381,Tienda 336,Juan,Llamada Telefónica,Tarjeta de Crédito
+1387,Tienda 35,Jose,Llamada Telefónica,Cheque
+1389,Tienda 1,Ricardo,Correo Electrónico,Tarjeta de Crédito
+1394,Tienda 105,Fernando,App,Tarjeta de Débito
+1395,Tienda 122,Pedro,Correo Electrónico,Tarjeta de Crédito
+1397,Tienda 227,Ricardo,Visita presencial,Tarjeta de Débito
+1404,Tienda 70,Luis,Visita presencial,Tarjeta de Crédito
+1409,Tienda 474,Roberto,Correo Electrónico,Transferencia Bancaria
+1411,Tienda 17,Carlos,Correo Electrónico,Cheque
+1415,Tienda 86,Luis,Visita presencial,Tarjeta de Débito
+1419,Tienda 486,Luis,App,Transferencia Bancaria
+1424,Tienda 190,Luis,Correo Electrónico,Cheque
+1429,Tienda 32,Ricardo,App,Efectivo
+1436,Tienda 307,Jose,App,Tarjeta de Crédito
+1437,Tienda 0,Luis,Correo Electrónico,Efectivo
+1438,Tienda 345,Maria,App,Efectivo
+1451,Tienda 169,Juan,Visita presencial,Tarjeta de Débito
+1453,Tienda 332,Roberto,Visita presencial,Tarjeta de Crédito
+1455,Tienda 216,Ricardo,Visita presencial,Tarjeta de Débito
+1459,Tienda 7,Juan,Llamada Telefónica,Tarjeta de Crédito
+1465,Tienda 399,Maria,Llamada Telefónica,Tarjeta de Crédito
+1466,Tienda 189,Jose,Correo Electrónico,Efectivo
+1472,Tienda 208,Luis,Llamada Telefónica,Cheque
+1474,Tienda 270,Ana,Llamada Telefónica,Efectivo
+1477,Tienda 472,Ana,App,Tarjeta de Débito
+1480,Tienda 223,Maria,Visita presencial,Efectivo
+1482,Tienda 11,Ricardo,Correo Electrónico,Tarjeta de Débito
+1486,Tienda 377,Fernando,Correo Electrónico,Efectivo
+1491,Tienda 112,Juan,Visita presencial,Tarjeta de Crédito
+1492,Tienda 315,Luis,Correo Electrónico,Cheque
+1494,Tienda 78,Maria,App,Transferencia Bancaria
+1502,Tienda 493,Carlos,Correo Electrónico,Transferencia Bancaria
+1504,Tienda 329,Fernando,App,Cheque
+1517,Tienda 379,Roberto,App,Tarjeta de Débito
+1518,Tienda 481,Ricardo,Llamada Telefónica,Tarjeta de Crédito
+1524,Tienda 215,Maria,App,Cheque
+1526,Tienda 189,Roberto,App,Cheque
+1527,Tienda 329,Fernando,Visita presencial,Tarjeta de Crédito
+1540,Tienda 30,Ana,App,Tarjeta de Crédito
+1542,Tienda 192,Jose,Llamada Telefónica,Tarjeta de Débito
+1543,Tienda 344,Luis,App,Cheque
+1553,Tienda 65,Jose,App,Tarjeta de Crédito
+1554,Tienda 433,Luis,Visita presencial,Efectivo
+1589,Tienda 359,Ricardo,Llamada Telefónica,Tarjeta de Débito
+1590,Tienda 470,Juan,Visita presencial,Transferencia Bancaria
+1600,Tienda 474,Pedro,Correo Electrónico,Tarjeta de Débito
+1604,Tienda 231,Fernando,Visita presencial,Cheque
+1614,Tienda 112,Pedro,Visita presencial,Tarjeta de Crédito
+1626,Tienda 13,Pedro,Correo Electrónico,Tarjeta de Crédito
+1627,Tienda 381,Juan,Visita presencial,Tarjeta de Débito
+1631,Tienda 80,Jose,App,Tarjeta de Crédito
+1637,Tienda 106,Maria,Correo Electrónico,Tarjeta de Crédito
+1642,Tienda 82,Luis,Correo Electrónico,Efectivo
+1645,Tienda 200,Fernando,App,Tarjeta de Débito
+1646,Tienda 46,Carlos,Correo Electrónico,Transferencia Bancaria
+1647,Tienda 407,Roberto,Llamada Telefónica,Efectivo
+1652,Tienda 479,Maria,Correo Electrónico,Efectivo
+1653,Tienda 222,Ricardo,Visita presencial,Efectivo
+1655,Tienda 15,Jose,Correo Electrónico,Efectivo
+1657,Tienda 171,Ricardo,App,Cheque
+1660,Tienda 30,Roberto,Llamada Telefónica,Efectivo
+1661,Tienda 352,Jose,Correo Electrónico,Tarjeta de Débito
+1662,Tienda 27,Pedro,App,Tarjeta de Débito
+1675,Tienda 258,Fernando,App,Cheque
+1676,Tienda 487,Fernando,App,Cheque
+1682,Tienda 98,Jose,Correo Electrónico,Efectivo
+1684,Tienda 33,Juan,Visita presencial,Tarjeta de Crédito
+1686,Tienda 155,Ana,App,Tarjeta de Débito
+1691,Tienda 50,Roberto,Visita presencial,Cheque
+1702,Tienda 493,Juan,Llamada Telefónica,Cheque
+1706,Tienda 177,Ricardo,Correo Electrónico,Cheque
+1722,Tienda 493,Ana,App,Tarjeta de Crédito
+1733,Tienda 451,Ana,App,Tarjeta de Crédito
+1738,Tienda 218,Fernando,Visita presencial,Efectivo
+1742,Tienda 267,Luis,App,Tarjeta de Crédito
+1756,Tienda 80,Luis,App,Tarjeta de Débito
+1785,Tienda 468,Carlos,App,Transferencia Bancaria
+1786,Tienda 18,Pedro,App,Tarjeta de Crédito
+1793,Tienda 49,Carlos,Visita presencial,Tarjeta de Débito
+1796,Tienda 123,Juan,Visita presencial,Efectivo
+1798,Tienda 415,Luis,Llamada Telefónica,Tarjeta de Crédito
+1811,Tienda 238,Ana,App,Cheque
+1812,Tienda 393,Maria,Correo Electrónico,Cheque
+1815,Tienda 136,Luis,Correo Electrónico,Transferencia Bancaria
+1820,Tienda 448,Ana,App,Efectivo
+1824,Tienda 61,Jose,Visita presencial,Tarjeta de Crédito
+1828,Tienda 428,Luis,App,Tarjeta de Crédito
+1833,Tienda 178,Fernando,Llamada Telefónica,Transferencia Bancaria
+1847,Tienda 284,Roberto,Llamada Telefónica,Tarjeta de Débito
+1853,Tienda 352,Ana,Llamada Telefónica,Cheque
+1857,Tienda 2,Juan,Visita presencial,Tarjeta de Crédito
+1864,Tienda 418,Maria,App,Transferencia Bancaria
+1865,Tienda 240,Juan,Visita presencial,Efectivo
+1870,Tienda 228,Juan,Llamada Telefónica,Cheque
+1899,Tienda 31,Luis,Visita presencial,Tarjeta de Débito
+1900,Tienda 140,Carlos,App,Tarjeta de Débito
+1903,Tienda 73,Ricardo,Llamada Telefónica,Tarjeta de Crédito
+1907,Tienda 453,Ana,Correo Electrónico,Tarjeta de Crédito
+1917,Tienda 111,Juan,Llamada Telefónica,Tarjeta de Débito
+1921,Tienda 81,Roberto,Llamada Telefónica,Tarjeta de Crédito
+1927,Tienda 132,Pedro,App,Transferencia Bancaria
+1932,Tienda 113,Carlos,Llamada Telefónica,Tarjeta de Crédito
+1939,Tienda 411,Ana,Llamada Telefónica,Tarjeta de Crédito
+1951,Tienda 28,Roberto,App,Tarjeta de Crédito
+1955,Tienda 159,Jose,Visita presencial,Tarjeta de Débito
+1956,Tienda 418,Jose,Visita presencial,Transferencia Bancaria
+1959,Tienda 230,Roberto,Visita presencial,Efectivo
+1963,Tienda 40,Fernando,App,Tarjeta de Débito
+1965,Tienda 196,Pedro,Visita presencial,Efectivo
+1969,Tienda 342,Pedro,Correo Electrónico,Tarjeta de Crédito
+1973,Tienda 411,Ana,Visita presencial,Transferencia Bancaria
+1989,Tienda 318,Roberto,Visita presencial,Cheque
+1999,Tienda 474,Ana,Visita presencial,Efectivo
+2005,Tienda 440,Carlos,Llamada Telefónica,Efectivo
+2018,Tienda 184,Roberto,Visita presencial,Cheque
+2020,Tienda 203,Jose,Llamada Telefónica,Efectivo
+2022,Tienda 36,Ricardo,Visita presencial,Efectivo
+2026,Tienda 233,Roberto,Llamada Telefónica,Efectivo
+2029,Tienda 322,Ana,Visita presencial,Efectivo
+2039,Tienda 361,Carlos,Correo Electrónico,Transferencia Bancaria
+2042,Tienda 458,Maria,Visita presencial,Transferencia Bancaria
+2047,Tienda 367,Ricardo,Llamada Telefónica,Efectivo
+2053,Tienda 417,Roberto,Visita presencial,Tarjeta de Débito
+2066,Tienda 415,Carlos,Visita presencial,Tarjeta de Débito
+2083,Tienda 265,Juan,Llamada Telefónica,Tarjeta de Crédito
+2084,Tienda 490,Jose,App,Transferencia Bancaria
+2086,Tienda 376,Ana,App,Efectivo
+2087,Tienda 390,Ana,Visita presencial,Efectivo
+2092,Tienda 144,Maria,Llamada Telefónica,Efectivo
+2102,Tienda 86,Roberto,Correo Electrónico,Cheque
+2118,Tienda 266,Ricardo,Llamada Telefónica,Tarjeta de Débito
+2123,Tienda 239,Juan,Llamada Telefónica,Tarjeta de Crédito
+2134,Tienda 286,Juan,Llamada Telefónica,Tarjeta de Crédito
+2139,Tienda 360,Maria,Correo Electrónico,Cheque
+2141,Tienda 181,Luis,Llamada Telefónica,Efectivo
+2146,Tienda 199,Maria,Correo Electrónico,Efectivo
+2161,Tienda 189,Maria,Correo Electrónico,Transferencia Bancaria
+2163,Tienda 116,Luis,Llamada Telefónica,Tarjeta de Crédito
+2174,Tienda 255,Pedro,Visita presencial,Tarjeta de Débito
+2176,Tienda 319,Jose,Correo Electrónico,Tarjeta de Crédito
+2178,Tienda 73,Pedro,Visita presencial,Cheque
+2179,Tienda 433,Luis,Visita presencial,Transferencia Bancaria
+2191,Tienda 99,Juan,App,Efectivo
+2195,Tienda 487,Juan,Visita presencial,Tarjeta de Crédito
+2196,Tienda 61,Ricardo,App,Transferencia Bancaria
+2200,Tienda 107,Ricardo,Llamada Telefónica,Cheque
+2201,Tienda 55,Maria,Correo Electrónico,Tarjeta de Crédito
+2203,Tienda 311,Maria,App,Tarjeta de Débito
+2205,Tienda 419,Carlos,Llamada Telefónica,Tarjeta de Crédito
+2210,Tienda 385,Ana,Correo Electrónico,Tarjeta de Crédito
+2211,Tienda 224,Luis,Llamada Telefónica,Transferencia Bancaria
+2213,Tienda 192,Fernando,Correo Electrónico,Tarjeta de Débito
+2228,Tienda 461,Roberto,Llamada Telefónica,Efectivo
+2229,Tienda 204,Fernando,Correo Electrónico,Tarjeta de Crédito
+2230,Tienda 26,Juan,Visita presencial,Transferencia Bancaria
+2237,Tienda 480,Carlos,Llamada Telefónica,Transferencia Bancaria
+2240,Tienda 110,Carlos,App,Efectivo
+2242,Tienda 197,Maria,Visita presencial,Transferencia Bancaria
+2249,Tienda 244,Roberto,Correo Electrónico,Efectivo
+2250,Tienda 390,Carlos,Correo Electrónico,Efectivo
+2253,Tienda 55,Carlos,Llamada Telefónica,Transferencia Bancaria
+2257,Tienda 104,Pedro,Visita presencial,Transferencia Bancaria
+2263,Tienda 269,Juan,Correo Electrónico,Efectivo
+2264,Tienda 8,Pedro,Correo Electrónico,Transferencia Bancaria
+2272,Tienda 431,Fernando,Llamada Telefónica,Efectivo
+2280,Tienda 105,Pedro,Visita presencial,Efectivo
+2281,Tienda 305,Roberto,Visita presencial,Cheque
+2283,Tienda 374,Carlos,Visita presencial,Tarjeta de Débito
+2285,Tienda 154,Juan,App,Tarjeta de Débito
+2299,Tienda 213,Luis,Correo Electrónico,Transferencia Bancaria
+2302,Tienda 331,Maria,Visita presencial,Efectivo
+2304,Tienda 326,Luis,Visita presencial,Tarjeta de Débito
+2308,Tienda 278,Ricardo,Llamada Telefónica,Tarjeta de Crédito
+2313,Tienda 37,Ricardo,Visita presencial,Tarjeta de Débito
+2315,Tienda 154,Roberto,Correo Electrónico,Efectivo
+2316,Tienda 160,Maria,Llamada Telefónica,Efectivo
+2341,Tienda 196,Ana,Visita presencial,Tarjeta de Crédito
+2347,Tienda 438,Ana,Visita presencial,Cheque
+2360,Tienda 290,Ricardo,Visita presencial,Cheque
+2363,Tienda 205,Ana,Visita presencial,Tarjeta de Débito
+2369,Tienda 490,Ricardo,Correo Electrónico,Efectivo
+2382,Tienda 126,Pedro,Visita presencial,Efectivo
+2401,Tienda 163,Jose,App,Tarjeta de Débito
+2413,Tienda 243,Juan,Visita presencial,Efectivo
+2428,Tienda 35,Fernando,Llamada Telefónica,Tarjeta de Débito
+2437,Tienda 199,Carlos,Correo Electrónico,Transferencia Bancaria
+2445,Tienda 216,Maria,App,Tarjeta de Débito
+2470,Tienda 378,Ana,Llamada Telefónica,Tarjeta de Crédito
+2473,Tienda 393,Pedro,App,Tarjeta de Débito
+2474,Tienda 410,Fernando,Correo Electrónico,Efectivo
+2475,Tienda 310,Juan,Correo Electrónico,Efectivo
+2481,Tienda 193,Jose,Correo Electrónico,Efectivo
+2489,Tienda 128,Carlos,App,Efectivo
+2498,Tienda 175,Fernando,Correo Electrónico,Tarjeta de Crédito
+2503,Tienda 61,Luis,Visita presencial,Tarjeta de Débito
+2509,Tienda 484,Juan,Llamada Telefónica,Efectivo
+2510,Tienda 164,Maria,Correo Electrónico,Tarjeta de Crédito
+2512,Tienda 194,Juan,Llamada Telefónica,Efectivo
+2545,Tienda 312,Roberto,Visita presencial,Cheque
+2550,Tienda 224,Jose,Visita presencial,Cheque
+2551,Tienda 396,Juan,Llamada Telefónica,Tarjeta de Crédito
+2561,Tienda 298,Carlos,Visita presencial,Tarjeta de Crédito
+2564,Tienda 79,Maria,Correo Electrónico,Tarjeta de Débito
+2569,Tienda 491,Ricardo,Visita presencial,Efectivo
+2570,Tienda 369,Pedro,App,Cheque
+2571,Tienda 240,Carlos,Visita presencial,Efectivo
+2572,Tienda 83,Luis,Correo Electrónico,Efectivo
+2574,Tienda 8,Ricardo,Llamada Telefónica,Cheque
+2584,Tienda 227,Pedro,Visita presencial,Transferencia Bancaria
+2601,Tienda 310,Luis,Llamada Telefónica,Transferencia Bancaria
+2608,Tienda 61,Pedro,App,Transferencia Bancaria
+2619,Tienda 124,Pedro,Visita presencial,Tarjeta de Crédito
+2622,Tienda 490,Pedro,Visita presencial,Tarjeta de Crédito
+2631,Tienda 391,Luis,Correo Electrónico,Tarjeta de Crédito
+2632,Tienda 455,Ricardo,Visita presencial,Transferencia Bancaria
+2633,Tienda 296,Roberto,Visita presencial,Tarjeta de Crédito
+2638,Tienda 361,Luis,Correo Electrónico,Tarjeta de Crédito
+2645,Tienda 412,Ricardo,App,Efectivo
+2648,Tienda 96,Ana,App,Tarjeta de Crédito
+2656,Tienda 441,Maria,Llamada Telefónica,Cheque
+2659,Tienda 106,Ricardo,App,Transferencia Bancaria
+2660,Tienda 45,Juan,Llamada Telefónica,Efectivo
+2663,Tienda 392,Luis,Correo Electrónico,Cheque
+2670,Tienda 287,Ana,Visita presencial,Transferencia Bancaria
+2682,Tienda 52,Fernando,Visita presencial,Transferencia Bancaria
+2691,Tienda 342,Ricardo,Llamada Telefónica,Tarjeta de Débito
+2703,Tienda 7,Fernando,Llamada Telefónica,Cheque
+2706,Tienda 363,Ricardo,Llamada Telefónica,Cheque
+2713,Tienda 77,Ana,Llamada Telefónica,Cheque
+2714,Tienda 370,Juan,Visita presencial,Tarjeta de Débito
+2717,Tienda 119,Pedro,Llamada Telefónica,Cheque
+2719,Tienda 214,Luis,Visita presencial,Transferencia Bancaria
+2720,Tienda 351,Pedro,Correo Electrónico,Tarjeta de Débito
+2721,Tienda 445,Jose,Correo Electrónico,Tarjeta de Débito
+2731,Tienda 92,Jose,Correo Electrónico,Transferencia Bancaria
+2735,Tienda 487,Pedro,Correo Electrónico,Efectivo
+2743,Tienda 377,Maria,Llamada Telefónica,Cheque
+2745,Tienda 409,Roberto,Llamada Telefónica,Tarjeta de Débito
+2749,Tienda 344,Pedro,Llamada Telefónica,Transferencia Bancaria
+2750,Tienda 271,Jose,Correo Electrónico,Tarjeta de Débito
+2757,Tienda 189,Carlos,Correo Electrónico,Transferencia Bancaria
+2759,Tienda 276,Roberto,App,Tarjeta de Crédito
+2771,Tienda 197,Fernando,Llamada Telefónica,Tarjeta de Débito
+2781,Tienda 270,Jose,Visita presencial,Tarjeta de Crédito
+2792,Tienda 52,Carlos,Llamada Telefónica,Cheque
+2804,Tienda 263,Ana,Visita presencial,Tarjeta de Débito
+2811,Tienda 12,Ricardo,Visita presencial,Transferencia Bancaria
+2812,Tienda 402,Ricardo,Visita presencial,Tarjeta de Crédito
+2814,Tienda 38,Fernando,Correo Electrónico,Transferencia Bancaria
+2817,Tienda 331,Ricardo,Correo Electrónico,Tarjeta de Crédito
+2824,Tienda 159,Roberto,Correo Electrónico,Efectivo
+2831,Tienda 382,Pedro,Visita presencial,Tarjeta de Débito
+2841,Tienda 407,Ana,Llamada Telefónica,Cheque
+2842,Tienda 38,Pedro,Llamada Telefónica,Cheque
+2847,Tienda 207,Pedro,App,Cheque
+2848,Tienda 490,Roberto,App,Efectivo
+2852,Tienda 427,Jose,Visita presencial,Cheque
+2854,Tienda 390,Luis,Visita presencial,Transferencia Bancaria
+2857,Tienda 130,Luis,Llamada Telefónica,Cheque
+2860,Tienda 425,Pedro,Correo Electrónico,Cheque
+2862,Tienda 60,Roberto,Llamada Telefónica,Tarjeta de Crédito
+2871,Tienda 324,Juan,Llamada Telefónica,Transferencia Bancaria
+2877,Tienda 134,Maria,Llamada Telefónica,Efectivo
+2879,Tienda 335,Roberto,Llamada Telefónica,Transferencia Bancaria
+2891,Tienda 331,Juan,Llamada Telefónica,Tarjeta de Crédito
+2894,Tienda 62,Pedro,Visita presencial,Tarjeta de Crédito
+2913,Tienda 83,Carlos,Llamada Telefónica,Tarjeta de Crédito
+2918,Tienda 123,Ricardo,Visita presencial,Cheque
+2924,Tienda 236,Jose,Llamada Telefónica,Cheque
+2932,Tienda 153,Pedro,App,Tarjeta de Crédito
+2941,Tienda 393,Ricardo,Visita presencial,Tarjeta de Débito
+2953,Tienda 384,Maria,Visita presencial,Transferencia Bancaria
+2962,Tienda 270,Luis,Llamada Telefónica,Cheque
+2967,Tienda 132,Roberto,Llamada Telefónica,Transferencia Bancaria
+2970,Tienda 62,Jose,Llamada Telefónica,Tarjeta de Crédito
+2975,Tienda 155,Carlos,App,Cheque
+2979,Tienda 15,Pedro,App,Tarjeta de Débito
+2980,Tienda 418,Juan,App,Transferencia Bancaria
+2983,Tienda 358,Maria,Correo Electrónico,Tarjeta de Débito
+2984,Tienda 190,Ana,Llamada Telefónica,Tarjeta de Débito
+2992,Tienda 42,Roberto,Correo Electrónico,Tarjeta de Crédito
+2996,Tienda 303,Jose,Llamada Telefónica,Tarjeta de Débito
+2997,Tienda 159,Roberto,Visita presencial,Tarjeta de Débito
+3004,Tienda 107,Carlos,App,Efectivo
+3011,Tienda 165,Maria,Correo Electrónico,Cheque
+3014,Tienda 446,Jose,Correo Electrónico,Cheque
+3015,Tienda 435,Pedro,Visita presencial,Efectivo
+3028,Tienda 305,Ana,Visita presencial,Tarjeta de Crédito
+3031,Tienda 51,Juan,Correo Electrónico,Cheque
+3032,Tienda 491,Maria,Visita presencial,Cheque
+3033,Tienda 374,Pedro,Llamada Telefónica,Cheque
+3036,Tienda 205,Juan,App,Tarjeta de Crédito
+3044,Tienda 358,Jose,Correo Electrónico,Cheque
+3055,Tienda 53,Pedro,Visita presencial,Tarjeta de Débito
+3060,Tienda 391,Carlos,App,Efectivo
+3061,Tienda 437,Fernando,App,Efectivo
+3066,Tienda 305,Luis,Visita presencial,Transferencia Bancaria
+3068,Tienda 488,Ricardo,App,Transferencia Bancaria
+3073,Tienda 385,Carlos,App,Cheque
+3075,Tienda 139,Fernando,Visita presencial,Tarjeta de Débito
+3082,Tienda 41,Maria,Llamada Telefónica,Tarjeta de Crédito
+3085,Tienda 305,Jose,App,Efectivo
+3090,Tienda 374,Jose,Llamada Telefónica,Transferencia Bancaria
+3091,Tienda 175,Juan,Llamada Telefónica,Cheque
+3107,Tienda 164,Juan,App,Tarjeta de Débito
+3128,Tienda 239,Roberto,Visita presencial,Efectivo
+3136,Tienda 97,Carlos,Visita presencial,Cheque
+3164,Tienda 331,Fernando,App,Efectivo
+3167,Tienda 311,Jose,App,Tarjeta de Débito
+3174,Tienda 6,Ana,Correo Electrónico,Efectivo
+3183,Tienda 90,Fernando,App,Transferencia Bancaria
+3192,Tienda 496,Juan,Visita presencial,Tarjeta de Crédito
+3197,Tienda 47,Fernando,Llamada Telefónica,Transferencia Bancaria
+3200,Tienda 217,Pedro,Llamada Telefónica,Transferencia Bancaria
+3211,Tienda 45,Luis,Llamada Telefónica,Efectivo
+3220,Tienda 421,Ana,Visita presencial,Cheque
+3222,Tienda 65,Carlos,App,Transferencia Bancaria
+3232,Tienda 207,Ricardo,Llamada Telefónica,Transferencia Bancaria
+3241,Tienda 140,Luis,App,Efectivo
+3244,Tienda 120,Jose,App,Cheque
+3250,Tienda 167,Pedro,Correo Electrónico,Cheque
+3252,Tienda 165,Ana,Visita presencial,Transferencia Bancaria
+3254,Tienda 160,Ana,App,Tarjeta de Débito
+3258,Tienda 433,Juan,Correo Electrónico,Tarjeta de Crédito
+3266,Tienda 160,Roberto,App,Efectivo
+3267,Tienda 428,Luis,Correo Electrónico,Cheque
+3276,Tienda 326,Maria,Llamada Telefónica,Efectivo
+3279,Tienda 375,Ricardo,App,Tarjeta de Crédito
+3280,Tienda 480,Jose,App,Transferencia Bancaria
+3285,Tienda 312,Fernando,Correo Electrónico,Efectivo
+3303,Tienda 76,Roberto,Correo Electrónico,Tarjeta de Débito
+3308,Tienda 19,Luis,Visita presencial,Cheque
+3316,Tienda 330,Maria,Llamada Telefónica,Tarjeta de Crédito
+3323,Tienda 461,Ricardo,Correo Electrónico,Transferencia Bancaria
+3326,Tienda 129,Jose,Correo Electrónico,Efectivo
+3327,Tienda 1,Juan,Visita presencial,Transferencia Bancaria
+3331,Tienda 446,Fernando,Llamada Telefónica,Cheque
+3332,Tienda 414,Juan,Visita presencial,Tarjeta de Crédito
+3333,Tienda 155,Jose,App,Efectivo
+3339,Tienda 200,Pedro,Correo Electrónico,Transferencia Bancaria
+3341,Tienda 263,Ricardo,App,Cheque
+3343,Tienda 241,Fernando,App,Cheque
+3344,Tienda 377,Juan,Llamada Telefónica,Cheque
+3357,Tienda 16,Luis,Correo Electrónico,Efectivo
+3361,Tienda 242,Fernando,Llamada Telefónica,Efectivo
+3364,Tienda 220,Ana,Visita presencial,Cheque
+3369,Tienda 133,Ricardo,Visita presencial,Efectivo
+3371,Tienda 146,Carlos,Visita presencial,Efectivo
+3372,Tienda 380,Carlos,Visita presencial,Tarjeta de Débito
+3381,Tienda 496,Juan,Visita presencial,Tarjeta de Crédito
+3403,Tienda 237,Ricardo,Llamada Telefónica,Cheque
+3414,Tienda 474,Ana,Correo Electrónico,Tarjeta de Crédito
+3415,Tienda 100,Pedro,Visita presencial,Tarjeta de Débito
+3420,Tienda 426,Carlos,Llamada Telefónica,Transferencia Bancaria
+3422,Tienda 276,Juan,Visita presencial,Efectivo
+3426,Tienda 401,Pedro,Visita presencial,Efectivo
+3431,Tienda 352,Juan,App,Tarjeta de Crédito
+3434,Tienda 97,Pedro,Correo Electrónico,Cheque
+3443,Tienda 91,Roberto,Visita presencial,Cheque
+3449,Tienda 142,Carlos,Llamada Telefónica,Efectivo
+3467,Tienda 77,Ana,Correo Electrónico,Transferencia Bancaria
+3471,Tienda 329,Carlos,Llamada Telefónica,Efectivo
+3472,Tienda 254,Pedro,Llamada Telefónica,Tarjeta de Crédito
+3474,Tienda 165,Fernando,Llamada Telefónica,Efectivo
+3479,Tienda 204,Carlos,Visita presencial,Efectivo
+3495,Tienda 371,Carlos,Correo Electrónico,Cheque
+3500,Tienda 415,Fernando,Correo Electrónico,Transferencia Bancaria
+3505,Tienda 284,Carlos,App,Tarjeta de Débito
+3527,Tienda 163,Pedro,Llamada Telefónica,Transferencia Bancaria
+3529,Tienda 222,Roberto,App,Tarjeta de Débito
+3532,Tienda 255,Pedro,Visita presencial,Tarjeta de Crédito
+3534,Tienda 295,Pedro,Correo Electrónico,Tarjeta de Crédito
+3552,Tienda 31,Roberto,Correo Electrónico,Cheque
+3555,Tienda 451,Jose,Correo Electrónico,Tarjeta de Crédito
+3558,Tienda 10,Jose,Llamada Telefónica,Efectivo
+3562,Tienda 134,Roberto,App,Efectivo
+3564,Tienda 145,Juan,Llamada Telefónica,Cheque
+3571,Tienda 116,Luis,Correo Electrónico,Cheque
+3575,Tienda 384,Ana,Llamada Telefónica,Efectivo
+3580,Tienda 250,Ricardo,Llamada Telefónica,Efectivo
+3590,Tienda 101,Ricardo,App,Efectivo
+3594,Tienda 62,Fernando,Llamada Telefónica,Efectivo
+3597,Tienda 69,Luis,Llamada Telefónica,Tarjeta de Débito
+3599,Tienda 415,Pedro,Visita presencial,Tarjeta de Débito
+3607,Tienda 80,Luis,App,Tarjeta de Débito
+3611,Tienda 397,Pedro,Visita presencial,Efectivo
+3612,Tienda 353,Ana,Llamada Telefónica,Transferencia Bancaria
+3625,Tienda 470,Ricardo,Correo Electrónico,Tarjeta de Débito
+3628,Tienda 123,Pedro,Correo Electrónico,Transferencia Bancaria
+3629,Tienda 27,Luis,App,Cheque
+3634,Tienda 168,Carlos,Correo Electrónico,Transferencia Bancaria
+3638,Tienda 234,Roberto,Llamada Telefónica,Tarjeta de Débito
+3645,Tienda 435,Juan,Llamada Telefónica,Tarjeta de Débito
+3646,Tienda 406,Maria,Visita presencial,Tarjeta de Crédito
+3647,Tienda 482,Maria,Llamada Telefónica,Transferencia Bancaria
+3652,Tienda 459,Carlos,Llamada Telefónica,Efectivo
+3712,Tienda 410,Juan,Visita presencial,Tarjeta de Débito
+3728,Tienda 216,Ricardo,App,Cheque
+3739,Tienda 357,Juan,Visita presencial,Efectivo
+3740,Tienda 289,Jose,Visita presencial,Transferencia Bancaria
+3744,Tienda 89,Roberto,Visita presencial,Efectivo
+3745,Tienda 56,Juan,App,Tarjeta de Crédito
+3747,Tienda 133,Juan,Llamada Telefónica,Cheque
+3749,Tienda 483,Luis,Visita presencial,Transferencia Bancaria
+3755,Tienda 209,Juan,Correo Electrónico,Cheque
+3757,Tienda 356,Ana,App,Tarjeta de Débito
+3762,Tienda 105,Ricardo,Visita presencial,Efectivo
+3772,Tienda 258,Pedro,Visita presencial,Efectivo
+3774,Tienda 52,Roberto,Llamada Telefónica,Efectivo
+3785,Tienda 453,Carlos,Llamada Telefónica,Efectivo
+3792,Tienda 186,Jose,Llamada Telefónica,Efectivo
+3795,Tienda 472,Pedro,Visita presencial,Cheque
+3796,Tienda 451,Carlos,Llamada Telefónica,Efectivo
+3799,Tienda 96,Juan,Correo Electrónico,Cheque
+3800,Tienda 492,Jose,Correo Electrónico,Transferencia Bancaria
+3811,Tienda 167,Maria,Visita presencial,Tarjeta de Débito
+3813,Tienda 185,Ana,Visita presencial,Efectivo
+3818,Tienda 358,Fernando,Llamada Telefónica,Efectivo
+3827,Tienda 99,Carlos,App,Tarjeta de Débito
+3840,Tienda 167,Luis,Correo Electrónico,Tarjeta de Débito
+3841,Tienda 293,Ricardo,Correo Electrónico,Cheque
+3843,Tienda 382,Maria,Visita presencial,Cheque
+3850,Tienda 383,Jose,Correo Electrónico,Tarjeta de Crédito
+3852,Tienda 58,Roberto,Correo Electrónico,Tarjeta de Crédito
+3855,Tienda 449,Jose,Llamada Telefónica,Cheque
+3892,Tienda 275,Ricardo,Correo Electrónico,Transferencia Bancaria
+3896,Tienda 335,Ana,Llamada Telefónica,Cheque
+3897,Tienda 237,Ana,Visita presencial,Tarjeta de Débito
+3903,Tienda 121,Ana,Visita presencial,Efectivo
+3905,Tienda 270,Ana,Visita presencial,Tarjeta de Crédito
+3906,Tienda 367,Fernando,App,Transferencia Bancaria
+3908,Tienda 118,Fernando,Correo Electrónico,Efectivo
+3909,Tienda 220,Juan,Correo Electrónico,Transferencia Bancaria
+3912,Tienda 143,Carlos,Visita presencial,Tarjeta de Débito
+3913,Tienda 376,Juan,Correo Electrónico,Tarjeta de Débito
+3914,Tienda 60,Fernando,Correo Electrónico,Tarjeta de Crédito
+3915,Tienda 273,Jose,Visita presencial,Tarjeta de Débito
+3916,Tienda 341,Luis,Correo Electrónico,Tarjeta de Débito
+3918,Tienda 234,Ana,Visita presencial,Efectivo
+3919,Tienda 30,Ana,App,Transferencia Bancaria
+3920,Tienda 182,Jose,Visita presencial,Cheque
+3925,Tienda 444,Ricardo,App,Tarjeta de Débito
+3930,Tienda 126,Fernando,App,Efectivo
+3938,Tienda 253,Ana,App,Cheque
+3940,Tienda 362,Fernando,App,Cheque
+3943,Tienda 496,Fernando,Correo Electrónico,Transferencia Bancaria
+3960,Tienda 182,Ana,Visita presencial,Tarjeta de Crédito
+3964,Tienda 403,Maria,Correo Electrónico,Transferencia Bancaria
+3966,Tienda 450,Juan,Visita presencial,Transferencia Bancaria
+3974,Tienda 488,Pedro,Llamada Telefónica,Transferencia Bancaria
+3975,Tienda 349,Maria,Correo Electrónico,Efectivo
+3985,Tienda 244,Ana,App,Tarjeta de Crédito
+3987,Tienda 159,Roberto,App,Efectivo
+3991,Tienda 445,Pedro,Correo Electrónico,Tarjeta de Débito
+3999,Tienda 336,Maria,Correo Electrónico,Tarjeta de Débito

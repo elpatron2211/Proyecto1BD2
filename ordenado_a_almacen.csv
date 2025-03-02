@@ -1,1343 +1,1384 @@
-0,1
-documento,almacen
-2,Almacen 35
-4,Almacen 14
-7,Almacen 21
-8,Almacen 39
-9,Almacen 49
-10,Almacen 11
-12,Almacen 38
-14,Almacen 3
-16,Almacen 41
-18,Almacen 9
-19,Almacen 5
-20,Almacen 12
-21,Almacen 44
-25,Almacen 4
-33,Almacen 19
-34,Almacen 20
-46,Almacen 45
-47,Almacen 18
-53,Almacen 4
-59,Almacen 46
-60,Almacen 31
-62,Almacen 15
-64,Almacen 47
-65,Almacen 12
-66,Almacen 13
-67,Almacen 23
-71,Almacen 29
-72,Almacen 14
-75,Almacen 21
-79,Almacen 13
-80,Almacen 35
-83,Almacen 14
-85,Almacen 45
-91,Almacen 15
-95,Almacen 3
-97,Almacen 15
-102,Almacen 13
-103,Almacen 40
-108,Almacen 6
-112,Almacen 5
-113,Almacen 39
-118,Almacen 7
-119,Almacen 8
-120,Almacen 7
-121,Almacen 17
-123,Almacen 39
-127,Almacen 19
-128,Almacen 43
-130,Almacen 5
-131,Almacen 27
-135,Almacen 2
-136,Almacen 8
-137,Almacen 46
-142,Almacen 48
-153,Almacen 26
-155,Almacen 30
-156,Almacen 43
-161,Almacen 21
-166,Almacen 32
-171,Almacen 16
-183,Almacen 36
-185,Almacen 13
-186,Almacen 45
-191,Almacen 32
-196,Almacen 2
-197,Almacen 18
-199,Almacen 46
-202,Almacen 29
-203,Almacen 27
-206,Almacen 5
-213,Almacen 6
-215,Almacen 30
-217,Almacen 43
-222,Almacen 5
-228,Almacen 35
-229,Almacen 19
-231,Almacen 20
-232,Almacen 19
-233,Almacen 7
-236,Almacen 47
-238,Almacen 15
-240,Almacen 36
-242,Almacen 23
-247,Almacen 49
-253,Almacen 19
-262,Almacen 5
-265,Almacen 20
-267,Almacen 25
-268,Almacen 26
-275,Almacen 16
-277,Almacen 24
-281,Almacen 49
-288,Almacen 38
-291,Almacen 11
-303,Almacen 30
-304,Almacen 24
-307,Almacen 28
-317,Almacen 42
-325,Almacen 13
-326,Almacen 7
-328,Almacen 11
-329,Almacen 23
-330,Almacen 36
-333,Almacen 2
-339,Almacen 9
-342,Almacen 9
-343,Almacen 19
-352,Almacen 39
-354,Almacen 47
-355,Almacen 30
-360,Almacen 48
-362,Almacen 47
-364,Almacen 14
-365,Almacen 3
-372,Almacen 10
-373,Almacen 10
-374,Almacen 22
-380,Almacen 3
-384,Almacen 4
-388,Almacen 7
-389,Almacen 43
-390,Almacen 15
-391,Almacen 3
-393,Almacen 23
-394,Almacen 25
-404,Almacen 3
-406,Almacen 41
-412,Almacen 29
-414,Almacen 22
-415,Almacen 12
-419,Almacen 48
-422,Almacen 46
-428,Almacen 46
-430,Almacen 33
-433,Almacen 36
-439,Almacen 40
-442,Almacen 37
-445,Almacen 18
-449,Almacen 39
-451,Almacen 28
-452,Almacen 28
-454,Almacen 4
-460,Almacen 30
-464,Almacen 48
-468,Almacen 46
-474,Almacen 17
-476,Almacen 6
-481,Almacen 39
-485,Almacen 4
-486,Almacen 11
-487,Almacen 13
-488,Almacen 48
-489,Almacen 15
-492,Almacen 48
-496,Almacen 29
-497,Almacen 31
-506,Almacen 34
-508,Almacen 41
-509,Almacen 15
-515,Almacen 24
-517,Almacen 22
-518,Almacen 34
-524,Almacen 38
-534,Almacen 31
-535,Almacen 5
-536,Almacen 36
-542,Almacen 46
-543,Almacen 1
-547,Almacen 49
-548,Almacen 3
-550,Almacen 13
-554,Almacen 35
-558,Almacen 49
-561,Almacen 8
-564,Almacen 3
-565,Almacen 23
-567,Almacen 1
-568,Almacen 19
-572,Almacen 11
-575,Almacen 20
-577,Almacen 49
-578,Almacen 0
-579,Almacen 3
-582,Almacen 14
-584,Almacen 47
-586,Almacen 13
-587,Almacen 48
-590,Almacen 22
-595,Almacen 14
-596,Almacen 5
-597,Almacen 16
-601,Almacen 0
-603,Almacen 23
-607,Almacen 0
-608,Almacen 16
-609,Almacen 20
-613,Almacen 39
-615,Almacen 49
-616,Almacen 1
-619,Almacen 40
-620,Almacen 14
-621,Almacen 14
-623,Almacen 3
-625,Almacen 4
-627,Almacen 10
-629,Almacen 19
-638,Almacen 3
-639,Almacen 23
-640,Almacen 21
-642,Almacen 48
-645,Almacen 15
-651,Almacen 0
-656,Almacen 27
-661,Almacen 28
-662,Almacen 28
-666,Almacen 9
-667,Almacen 45
-670,Almacen 49
-671,Almacen 39
-672,Almacen 9
-673,Almacen 39
-676,Almacen 12
-682,Almacen 16
-684,Almacen 43
-688,Almacen 27
-692,Almacen 29
-696,Almacen 6
-700,Almacen 15
-704,Almacen 3
-711,Almacen 49
-713,Almacen 14
-717,Almacen 46
-725,Almacen 38
-726,Almacen 14
-729,Almacen 37
-730,Almacen 14
-734,Almacen 38
-736,Almacen 11
-747,Almacen 27
-748,Almacen 8
-756,Almacen 43
-757,Almacen 8
-766,Almacen 46
-769,Almacen 12
-771,Almacen 36
-779,Almacen 26
-785,Almacen 20
-786,Almacen 13
-788,Almacen 18
-792,Almacen 3
-794,Almacen 12
-795,Almacen 30
-796,Almacen 27
-806,Almacen 17
-808,Almacen 10
-809,Almacen 3
-810,Almacen 31
-811,Almacen 46
-812,Almacen 32
-817,Almacen 32
-818,Almacen 39
-821,Almacen 34
-823,Almacen 15
-827,Almacen 41
-829,Almacen 2
-830,Almacen 0
-831,Almacen 11
-833,Almacen 14
-837,Almacen 23
-844,Almacen 46
-849,Almacen 48
-851,Almacen 23
-854,Almacen 41
-855,Almacen 30
-860,Almacen 10
-861,Almacen 16
-863,Almacen 20
-865,Almacen 9
-868,Almacen 44
-871,Almacen 19
-872,Almacen 20
-875,Almacen 10
-877,Almacen 37
-878,Almacen 4
-880,Almacen 28
-883,Almacen 11
-885,Almacen 0
-895,Almacen 31
-897,Almacen 16
-898,Almacen 34
-900,Almacen 33
-903,Almacen 39
-908,Almacen 48
-909,Almacen 32
-911,Almacen 29
-915,Almacen 7
-918,Almacen 30
-919,Almacen 24
-920,Almacen 45
-923,Almacen 28
-925,Almacen 39
-926,Almacen 40
-927,Almacen 30
-928,Almacen 38
-929,Almacen 14
-931,Almacen 17
-933,Almacen 29
-934,Almacen 9
-938,Almacen 30
-941,Almacen 13
-946,Almacen 26
-947,Almacen 39
-948,Almacen 42
-949,Almacen 31
-950,Almacen 42
-955,Almacen 44
-957,Almacen 42
-963,Almacen 1
-964,Almacen 48
-967,Almacen 38
-971,Almacen 1
-973,Almacen 11
-975,Almacen 5
-976,Almacen 14
-978,Almacen 13
-981,Almacen 39
-990,Almacen 2
-991,Almacen 23
-992,Almacen 44
-993,Almacen 19
-998,Almacen 22
-1003,Almacen 1
-1007,Almacen 38
-1012,Almacen 12
-1013,Almacen 12
-1015,Almacen 7
-1016,Almacen 41
-1018,Almacen 5
-1019,Almacen 22
-1021,Almacen 45
-1023,Almacen 19
-1025,Almacen 24
-1027,Almacen 6
-1031,Almacen 30
-1034,Almacen 0
-1035,Almacen 21
-1037,Almacen 40
-1039,Almacen 20
-1041,Almacen 48
-1043,Almacen 27
-1047,Almacen 41
-1049,Almacen 10
-1052,Almacen 43
-1055,Almacen 46
-1059,Almacen 44
-1062,Almacen 32
-1065,Almacen 48
-1071,Almacen 34
-1073,Almacen 39
-1078,Almacen 43
-1080,Almacen 25
-1081,Almacen 49
-1083,Almacen 18
-1085,Almacen 42
-1092,Almacen 28
-1093,Almacen 37
-1097,Almacen 26
-1101,Almacen 19
-1103,Almacen 25
-1106,Almacen 40
-1108,Almacen 12
-1110,Almacen 14
-1115,Almacen 16
-1119,Almacen 31
-1122,Almacen 35
-1123,Almacen 5
-1131,Almacen 43
-1132,Almacen 42
-1133,Almacen 33
-1135,Almacen 21
-1137,Almacen 27
-1138,Almacen 20
-1143,Almacen 24
-1149,Almacen 41
-1150,Almacen 19
-1155,Almacen 22
-1156,Almacen 21
-1158,Almacen 7
-1164,Almacen 39
-1166,Almacen 24
-1167,Almacen 32
-1168,Almacen 2
-1171,Almacen 25
-1175,Almacen 12
-1176,Almacen 6
-1178,Almacen 17
-1184,Almacen 24
-1185,Almacen 46
-1190,Almacen 24
-1193,Almacen 13
-1194,Almacen 22
-1195,Almacen 30
-1198,Almacen 44
-1203,Almacen 11
-1206,Almacen 39
-1213,Almacen 33
-1214,Almacen 15
-1217,Almacen 46
-1218,Almacen 45
-1220,Almacen 0
-1226,Almacen 47
-1228,Almacen 31
-1231,Almacen 37
-1232,Almacen 9
-1233,Almacen 2
-1237,Almacen 27
-1239,Almacen 16
-1242,Almacen 31
-1243,Almacen 44
-1248,Almacen 5
-1252,Almacen 28
-1255,Almacen 43
-1258,Almacen 28
-1260,Almacen 37
-1263,Almacen 32
-1268,Almacen 40
-1271,Almacen 38
-1277,Almacen 49
-1279,Almacen 28
-1282,Almacen 22
-1291,Almacen 17
-1297,Almacen 0
-1300,Almacen 10
-1302,Almacen 37
-1306,Almacen 4
-1312,Almacen 7
-1315,Almacen 27
-1316,Almacen 11
-1321,Almacen 25
-1322,Almacen 18
-1324,Almacen 33
-1332,Almacen 4
-1338,Almacen 35
-1340,Almacen 47
-1342,Almacen 9
-1345,Almacen 21
-1351,Almacen 47
-1352,Almacen 41
-1353,Almacen 20
-1358,Almacen 32
-1360,Almacen 29
-1362,Almacen 33
-1365,Almacen 8
-1366,Almacen 20
-1370,Almacen 19
-1372,Almacen 2
-1376,Almacen 37
-1378,Almacen 18
-1379,Almacen 38
-1381,Almacen 44
-1387,Almacen 24
-1390,Almacen 41
-1392,Almacen 34
-1395,Almacen 22
-1397,Almacen 45
-1398,Almacen 32
-1399,Almacen 9
-1400,Almacen 29
-1401,Almacen 4
-1403,Almacen 31
-1408,Almacen 47
-1409,Almacen 31
-1410,Almacen 34
-1422,Almacen 30
-1423,Almacen 12
-1428,Almacen 42
-1429,Almacen 9
-1431,Almacen 48
-1434,Almacen 18
-1438,Almacen 7
-1439,Almacen 41
-1443,Almacen 42
-1444,Almacen 21
-1446,Almacen 30
-1447,Almacen 17
-1448,Almacen 45
-1449,Almacen 47
-1452,Almacen 30
-1454,Almacen 36
-1455,Almacen 5
-1456,Almacen 35
-1462,Almacen 36
-1464,Almacen 40
-1467,Almacen 38
-1469,Almacen 22
-1471,Almacen 45
-1474,Almacen 7
-1490,Almacen 36
-1493,Almacen 40
-1496,Almacen 17
-1498,Almacen 31
-1499,Almacen 20
-1506,Almacen 3
-1519,Almacen 28
-1522,Almacen 24
-1524,Almacen 32
-1527,Almacen 27
-1528,Almacen 10
-1529,Almacen 10
-1531,Almacen 30
-1535,Almacen 36
-1536,Almacen 41
-1537,Almacen 47
-1539,Almacen 15
-1540,Almacen 44
-1541,Almacen 12
-1542,Almacen 9
-1549,Almacen 14
-1550,Almacen 10
-1552,Almacen 38
-1553,Almacen 25
-1558,Almacen 10
-1559,Almacen 5
-1563,Almacen 23
-1565,Almacen 38
-1566,Almacen 26
-1567,Almacen 25
-1568,Almacen 6
-1571,Almacen 36
-1572,Almacen 22
-1575,Almacen 15
-1589,Almacen 25
-1590,Almacen 9
-1591,Almacen 19
-1593,Almacen 3
-1595,Almacen 37
-1597,Almacen 37
-1598,Almacen 49
-1600,Almacen 39
-1601,Almacen 38
-1602,Almacen 47
-1603,Almacen 49
-1609,Almacen 35
-1610,Almacen 41
-1613,Almacen 44
-1615,Almacen 13
-1620,Almacen 43
-1621,Almacen 10
-1623,Almacen 29
-1624,Almacen 31
-1625,Almacen 44
-1627,Almacen 17
-1628,Almacen 45
-1631,Almacen 35
-1633,Almacen 17
-1634,Almacen 0
-1640,Almacen 30
-1641,Almacen 33
-1649,Almacen 9
-1651,Almacen 8
-1656,Almacen 4
-1658,Almacen 47
-1662,Almacen 31
-1663,Almacen 0
-1665,Almacen 13
-1670,Almacen 43
-1672,Almacen 11
-1674,Almacen 38
-1682,Almacen 38
-1683,Almacen 25
-1686,Almacen 40
-1687,Almacen 40
-1689,Almacen 40
-1690,Almacen 3
-1691,Almacen 27
-1699,Almacen 9
-1700,Almacen 41
-1703,Almacen 44
-1706,Almacen 24
-1707,Almacen 40
-1712,Almacen 3
-1715,Almacen 14
-1724,Almacen 44
-1725,Almacen 7
-1728,Almacen 15
-1732,Almacen 11
-1737,Almacen 22
-1739,Almacen 48
-1747,Almacen 1
-1750,Almacen 35
-1751,Almacen 16
-1756,Almacen 40
-1761,Almacen 10
-1763,Almacen 24
-1771,Almacen 12
-1772,Almacen 48
-1775,Almacen 15
-1778,Almacen 12
-1782,Almacen 1
-1786,Almacen 22
-1790,Almacen 35
-1793,Almacen 24
-1804,Almacen 13
-1810,Almacen 11
-1811,Almacen 15
-1814,Almacen 49
-1817,Almacen 23
-1818,Almacen 4
-1820,Almacen 8
-1824,Almacen 11
-1828,Almacen 5
-1832,Almacen 30
-1836,Almacen 18
-1837,Almacen 36
-1841,Almacen 27
-1845,Almacen 38
-1851,Almacen 33
-1855,Almacen 38
-1860,Almacen 43
-1862,Almacen 48
-1865,Almacen 28
-1871,Almacen 13
-1877,Almacen 48
-1878,Almacen 25
-1879,Almacen 1
-1881,Almacen 26
-1882,Almacen 19
-1883,Almacen 1
-1888,Almacen 18
-1891,Almacen 28
-1894,Almacen 2
-1899,Almacen 43
-1900,Almacen 40
-1907,Almacen 42
-1910,Almacen 24
-1911,Almacen 23
-1921,Almacen 32
-1927,Almacen 44
-1932,Almacen 38
-1937,Almacen 11
-1942,Almacen 46
-1949,Almacen 4
-1951,Almacen 45
-1952,Almacen 17
-1955,Almacen 15
-1956,Almacen 26
-1959,Almacen 33
-1965,Almacen 26
-1968,Almacen 44
-1973,Almacen 1
-1975,Almacen 20
-1977,Almacen 4
-1981,Almacen 11
-1983,Almacen 41
-1986,Almacen 24
-1988,Almacen 27
-1996,Almacen 11
-1999,Almacen 24
-2003,Almacen 29
-2005,Almacen 7
-2009,Almacen 13
-2013,Almacen 7
-2015,Almacen 2
-2016,Almacen 41
-2018,Almacen 22
-2019,Almacen 11
-2024,Almacen 14
-2026,Almacen 37
-2027,Almacen 7
-2028,Almacen 29
-2031,Almacen 47
-2033,Almacen 48
-2035,Almacen 35
-2038,Almacen 7
-2042,Almacen 35
-2047,Almacen 19
-2050,Almacen 14
-2054,Almacen 9
-2059,Almacen 31
-2062,Almacen 20
-2063,Almacen 9
-2065,Almacen 14
-2066,Almacen 10
-2067,Almacen 5
-2068,Almacen 32
-2069,Almacen 44
-2071,Almacen 21
-2076,Almacen 13
-2083,Almacen 20
-2085,Almacen 2
-2086,Almacen 32
-2089,Almacen 15
-2091,Almacen 42
-2092,Almacen 11
-2096,Almacen 5
-2099,Almacen 5
-2105,Almacen 19
-2107,Almacen 43
-2111,Almacen 7
-2115,Almacen 2
-2117,Almacen 0
-2118,Almacen 48
-2130,Almacen 35
-2131,Almacen 40
-2141,Almacen 42
-2145,Almacen 42
-2148,Almacen 29
-2149,Almacen 42
-2153,Almacen 24
-2154,Almacen 44
-2156,Almacen 43
-2157,Almacen 49
-2158,Almacen 3
-2160,Almacen 22
-2163,Almacen 23
-2165,Almacen 30
-2168,Almacen 13
-2170,Almacen 27
-2175,Almacen 13
-2178,Almacen 38
-2179,Almacen 26
-2182,Almacen 34
-2184,Almacen 18
-2186,Almacen 27
-2205,Almacen 6
-2206,Almacen 3
-2211,Almacen 39
-2214,Almacen 1
-2215,Almacen 14
-2216,Almacen 18
-2225,Almacen 20
-2228,Almacen 44
-2229,Almacen 10
-2233,Almacen 11
-2234,Almacen 10
-2241,Almacen 10
-2251,Almacen 26
-2253,Almacen 4
-2255,Almacen 24
-2258,Almacen 31
-2267,Almacen 11
-2268,Almacen 27
-2277,Almacen 47
-2278,Almacen 28
-2281,Almacen 9
-2287,Almacen 47
-2289,Almacen 16
-2293,Almacen 37
-2297,Almacen 27
-2304,Almacen 39
-2306,Almacen 31
-2307,Almacen 38
-2308,Almacen 41
-2318,Almacen 9
-2321,Almacen 46
-2323,Almacen 49
-2324,Almacen 48
-2330,Almacen 20
-2331,Almacen 4
-2332,Almacen 19
-2333,Almacen 35
-2336,Almacen 13
-2344,Almacen 13
-2345,Almacen 8
-2347,Almacen 8
-2348,Almacen 19
-2349,Almacen 41
-2350,Almacen 14
-2351,Almacen 21
-2354,Almacen 13
-2366,Almacen 5
-2368,Almacen 13
-2369,Almacen 24
-2380,Almacen 19
-2385,Almacen 4
-2388,Almacen 4
-2390,Almacen 13
-2392,Almacen 11
-2394,Almacen 30
-2396,Almacen 26
-2400,Almacen 37
-2405,Almacen 19
-2412,Almacen 15
-2413,Almacen 40
-2419,Almacen 37
-2420,Almacen 4
-2421,Almacen 7
-2423,Almacen 28
-2425,Almacen 43
-2428,Almacen 18
-2430,Almacen 21
-2431,Almacen 33
-2433,Almacen 21
-2437,Almacen 9
-2438,Almacen 38
-2439,Almacen 28
-2443,Almacen 39
-2444,Almacen 32
-2448,Almacen 8
-2453,Almacen 40
-2459,Almacen 46
-2463,Almacen 31
-2466,Almacen 29
-2467,Almacen 34
-2469,Almacen 30
-2472,Almacen 8
-2476,Almacen 2
-2478,Almacen 4
-2479,Almacen 19
-2485,Almacen 31
-2486,Almacen 12
-2487,Almacen 49
-2488,Almacen 4
-2492,Almacen 0
-2494,Almacen 23
-2496,Almacen 28
-2499,Almacen 33
-2501,Almacen 40
-2502,Almacen 24
-2503,Almacen 27
-2512,Almacen 8
-2514,Almacen 42
-2516,Almacen 16
-2519,Almacen 45
-2528,Almacen 19
-2538,Almacen 14
-2542,Almacen 2
-2545,Almacen 9
-2547,Almacen 35
-2551,Almacen 27
-2552,Almacen 39
-2554,Almacen 0
-2561,Almacen 10
-2562,Almacen 41
-2565,Almacen 13
-2569,Almacen 37
-2571,Almacen 14
-2572,Almacen 13
-2576,Almacen 1
-2577,Almacen 26
-2579,Almacen 11
-2584,Almacen 11
-2587,Almacen 45
-2590,Almacen 49
-2591,Almacen 12
-2597,Almacen 42
-2603,Almacen 36
-2605,Almacen 35
-2607,Almacen 0
-2609,Almacen 18
-2611,Almacen 39
-2613,Almacen 1
-2616,Almacen 31
-2617,Almacen 12
-2619,Almacen 22
-2621,Almacen 20
-2626,Almacen 8
-2628,Almacen 31
-2630,Almacen 1
-2633,Almacen 6
-2640,Almacen 24
-2644,Almacen 0
-2647,Almacen 28
-2648,Almacen 33
-2652,Almacen 36
-2653,Almacen 22
-2654,Almacen 24
-2656,Almacen 18
-2659,Almacen 7
-2663,Almacen 28
-2665,Almacen 44
-2666,Almacen 45
-2670,Almacen 14
-2671,Almacen 30
-2673,Almacen 33
-2674,Almacen 0
-2676,Almacen 1
-2678,Almacen 21
-2687,Almacen 29
-2690,Almacen 37
-2694,Almacen 7
-2698,Almacen 11
-2700,Almacen 3
-2704,Almacen 22
-2705,Almacen 28
-2715,Almacen 18
-2717,Almacen 38
-2719,Almacen 26
-2723,Almacen 10
-2729,Almacen 43
-2731,Almacen 2
-2735,Almacen 9
-2737,Almacen 41
-2740,Almacen 29
-2741,Almacen 8
-2751,Almacen 28
-2752,Almacen 12
-2753,Almacen 4
-2761,Almacen 48
-2762,Almacen 44
-2763,Almacen 11
-2767,Almacen 4
-2769,Almacen 49
-2771,Almacen 26
-2773,Almacen 36
-2777,Almacen 32
-2778,Almacen 31
-2781,Almacen 38
-2783,Almacen 5
-2787,Almacen 32
-2788,Almacen 48
-2790,Almacen 18
-2791,Almacen 34
-2793,Almacen 11
-2794,Almacen 29
-2795,Almacen 16
-2797,Almacen 5
-2799,Almacen 32
-2801,Almacen 46
-2803,Almacen 37
-2805,Almacen 11
-2806,Almacen 35
-2807,Almacen 42
-2809,Almacen 21
-2810,Almacen 42
-2815,Almacen 35
-2816,Almacen 40
-2818,Almacen 47
-2823,Almacen 46
-2825,Almacen 26
-2829,Almacen 24
-2831,Almacen 39
-2837,Almacen 48
-2839,Almacen 41
-2845,Almacen 39
-2846,Almacen 23
-2847,Almacen 16
-2851,Almacen 41
-2852,Almacen 36
-2854,Almacen 7
-2855,Almacen 15
-2856,Almacen 18
-2858,Almacen 1
-2859,Almacen 45
-2860,Almacen 46
-2861,Almacen 19
-2863,Almacen 33
-2865,Almacen 8
-2868,Almacen 12
-2873,Almacen 43
-2874,Almacen 6
-2877,Almacen 12
-2878,Almacen 49
-2881,Almacen 3
-2887,Almacen 33
-2892,Almacen 3
-2894,Almacen 17
-2898,Almacen 4
-2899,Almacen 24
-2901,Almacen 18
-2903,Almacen 37
-2904,Almacen 1
-2906,Almacen 24
-2910,Almacen 5
-2913,Almacen 49
-2914,Almacen 45
-2916,Almacen 33
-2917,Almacen 34
-2918,Almacen 8
-2920,Almacen 38
-2923,Almacen 27
-2924,Almacen 5
-2926,Almacen 35
-2928,Almacen 28
-2933,Almacen 7
-2935,Almacen 38
-2936,Almacen 16
-2938,Almacen 15
-2940,Almacen 36
-2942,Almacen 37
-2944,Almacen 48
-2946,Almacen 31
-2953,Almacen 14
-2961,Almacen 24
-2962,Almacen 5
-2968,Almacen 24
-2971,Almacen 31
-2972,Almacen 21
-2974,Almacen 43
-2976,Almacen 12
-2979,Almacen 30
-2981,Almacen 41
-2987,Almacen 3
-2990,Almacen 9
-2991,Almacen 18
-2997,Almacen 25
-3000,Almacen 39
-3001,Almacen 0
-3007,Almacen 3
-3008,Almacen 38
-3011,Almacen 47
-3012,Almacen 34
-3014,Almacen 2
-3018,Almacen 48
-3024,Almacen 45
-3029,Almacen 35
-3035,Almacen 30
-3038,Almacen 25
-3039,Almacen 5
-3044,Almacen 6
-3045,Almacen 8
-3048,Almacen 34
-3053,Almacen 4
-3061,Almacen 41
-3068,Almacen 49
-3071,Almacen 31
-3073,Almacen 8
-3075,Almacen 15
-3076,Almacen 0
-3078,Almacen 19
-3080,Almacen 42
-3081,Almacen 5
-3082,Almacen 8
-3087,Almacen 39
-3090,Almacen 15
-3091,Almacen 27
-3093,Almacen 47
-3094,Almacen 34
-3095,Almacen 6
-3096,Almacen 20
-3097,Almacen 26
-3099,Almacen 14
-3110,Almacen 7
-3112,Almacen 5
-3113,Almacen 2
-3115,Almacen 12
-3121,Almacen 21
-3123,Almacen 2
-3125,Almacen 43
-3126,Almacen 2
-3129,Almacen 17
-3131,Almacen 23
-3134,Almacen 30
-3142,Almacen 48
-3147,Almacen 6
-3148,Almacen 37
-3150,Almacen 47
-3155,Almacen 4
-3156,Almacen 30
-3160,Almacen 36
-3161,Almacen 2
-3163,Almacen 2
-3164,Almacen 5
-3165,Almacen 0
-3173,Almacen 23
-3174,Almacen 8
-3176,Almacen 6
-3184,Almacen 29
-3189,Almacen 47
-3190,Almacen 48
-3191,Almacen 30
-3193,Almacen 16
-3197,Almacen 38
-3198,Almacen 8
-3200,Almacen 29
-3204,Almacen 22
-3206,Almacen 41
-3209,Almacen 9
-3211,Almacen 23
-3212,Almacen 32
-3213,Almacen 46
-3215,Almacen 23
-3216,Almacen 8
-3217,Almacen 42
-3220,Almacen 32
-3222,Almacen 7
-3226,Almacen 15
-3232,Almacen 40
-3233,Almacen 14
-3246,Almacen 2
-3249,Almacen 9
-3253,Almacen 12
-3254,Almacen 16
-3257,Almacen 33
-3259,Almacen 32
-3261,Almacen 39
-3265,Almacen 37
-3266,Almacen 46
-3267,Almacen 24
-3268,Almacen 39
-3270,Almacen 40
-3271,Almacen 31
-3272,Almacen 2
-3274,Almacen 25
-3275,Almacen 25
-3277,Almacen 31
-3278,Almacen 31
-3291,Almacen 42
-3298,Almacen 13
-3299,Almacen 28
-3300,Almacen 9
-3302,Almacen 43
-3308,Almacen 32
-3310,Almacen 31
-3311,Almacen 8
-3313,Almacen 36
-3315,Almacen 5
-3320,Almacen 7
-3322,Almacen 7
-3326,Almacen 2
-3327,Almacen 26
-3328,Almacen 13
-3336,Almacen 28
-3337,Almacen 37
-3339,Almacen 29
-3341,Almacen 9
-3342,Almacen 22
-3344,Almacen 9
-3345,Almacen 14
-3346,Almacen 19
-3347,Almacen 38
-3351,Almacen 45
-3354,Almacen 4
-3358,Almacen 48
-3359,Almacen 33
-3361,Almacen 43
-3362,Almacen 41
-3364,Almacen 41
-3366,Almacen 8
-3368,Almacen 15
-3369,Almacen 19
-3373,Almacen 41
-3375,Almacen 47
-3377,Almacen 34
-3378,Almacen 33
-3384,Almacen 20
-3385,Almacen 35
-3390,Almacen 38
-3397,Almacen 42
-3398,Almacen 37
-3399,Almacen 0
-3400,Almacen 44
-3402,Almacen 44
-3405,Almacen 22
-3407,Almacen 25
-3411,Almacen 28
-3413,Almacen 41
-3415,Almacen 48
-3422,Almacen 20
-3423,Almacen 13
-3425,Almacen 11
-3441,Almacen 49
-3447,Almacen 12
-3452,Almacen 27
-3453,Almacen 22
-3456,Almacen 42
-3458,Almacen 35
-3459,Almacen 1
-3462,Almacen 37
-3464,Almacen 6
-3467,Almacen 26
-3471,Almacen 27
-3472,Almacen 26
-3480,Almacen 3
-3481,Almacen 46
-3484,Almacen 5
-3487,Almacen 34
-3493,Almacen 1
-3495,Almacen 20
-3499,Almacen 36
-3500,Almacen 45
-3501,Almacen 19
-3502,Almacen 20
-3503,Almacen 26
-3505,Almacen 33
-3506,Almacen 8
-3507,Almacen 13
-3509,Almacen 4
-3511,Almacen 38
-3515,Almacen 45
-3523,Almacen 18
-3530,Almacen 17
-3534,Almacen 22
-3539,Almacen 39
-3541,Almacen 23
-3547,Almacen 32
-3550,Almacen 18
-3554,Almacen 32
-3555,Almacen 18
-3560,Almacen 3
-3564,Almacen 14
-3570,Almacen 5
-3573,Almacen 11
-3574,Almacen 37
-3575,Almacen 10
-3577,Almacen 21
-3580,Almacen 7
-3581,Almacen 16
-3583,Almacen 22
-3585,Almacen 32
-3589,Almacen 33
-3603,Almacen 39
-3604,Almacen 29
-3610,Almacen 46
-3617,Almacen 4
-3618,Almacen 23
-3623,Almacen 45
-3625,Almacen 9
-3627,Almacen 24
-3628,Almacen 44
-3629,Almacen 49
-3632,Almacen 17
-3634,Almacen 16
-3640,Almacen 44
-3645,Almacen 47
-3650,Almacen 20
-3652,Almacen 8
-3654,Almacen 16
-3657,Almacen 24
-3661,Almacen 14
-3663,Almacen 14
-3670,Almacen 20
-3671,Almacen 10
-3672,Almacen 25
-3673,Almacen 7
-3676,Almacen 48
-3679,Almacen 9
-3682,Almacen 33
-3688,Almacen 36
-3689,Almacen 6
-3691,Almacen 13
-3692,Almacen 49
-3694,Almacen 33
-3698,Almacen 11
-3699,Almacen 19
-3702,Almacen 41
-3703,Almacen 29
-3704,Almacen 12
-3705,Almacen 36
-3707,Almacen 47
-3708,Almacen 0
-3711,Almacen 49
-3712,Almacen 2
-3714,Almacen 1
-3715,Almacen 35
-3718,Almacen 29
-3726,Almacen 35
-3728,Almacen 44
-3732,Almacen 39
-3733,Almacen 5
-3734,Almacen 48
-3738,Almacen 3
-3739,Almacen 7
-3741,Almacen 6
-3745,Almacen 43
-3746,Almacen 26
-3747,Almacen 30
-3750,Almacen 44
-3752,Almacen 13
-3753,Almacen 1
-3754,Almacen 3
-3755,Almacen 37
-3757,Almacen 44
-3758,Almacen 1
-3760,Almacen 0
-3765,Almacen 21
-3766,Almacen 21
-3767,Almacen 10
-3769,Almacen 36
-3770,Almacen 10
-3771,Almacen 30
-3772,Almacen 42
-3773,Almacen 8
-3776,Almacen 14
-3785,Almacen 13
-3786,Almacen 24
-3788,Almacen 30
-3789,Almacen 4
-3791,Almacen 15
-3794,Almacen 0
-3804,Almacen 46
-3805,Almacen 49
-3808,Almacen 22
-3809,Almacen 5
-3817,Almacen 19
-3819,Almacen 34
-3822,Almacen 47
-3827,Almacen 21
-3828,Almacen 3
-3837,Almacen 20
-3838,Almacen 6
-3846,Almacen 38
-3849,Almacen 12
-3850,Almacen 17
-3854,Almacen 39
-3857,Almacen 34
-3859,Almacen 29
-3861,Almacen 14
-3864,Almacen 3
-3866,Almacen 17
-3875,Almacen 39
-3878,Almacen 47
-3882,Almacen 19
-3883,Almacen 37
-3885,Almacen 32
-3886,Almacen 45
-3890,Almacen 41
-3891,Almacen 49
-3898,Almacen 43
-3901,Almacen 41
-3903,Almacen 49
-3907,Almacen 16
-3910,Almacen 30
-3912,Almacen 42
-3914,Almacen 18
-3915,Almacen 7
-3916,Almacen 14
-3921,Almacen 9
-3922,Almacen 12
-3923,Almacen 17
-3924,Almacen 42
-3929,Almacen 9
-3931,Almacen 42
-3932,Almacen 44
-3936,Almacen 31
-3941,Almacen 37
-3942,Almacen 2
-3943,Almacen 2
-3950,Almacen 33
-3952,Almacen 1
-3956,Almacen 20
-3957,Almacen 40
-3959,Almacen 49
-3960,Almacen 21
-3964,Almacen 8
-3968,Almacen 44
-3979,Almacen 27
-3981,Almacen 14
-3984,Almacen 40
-3995,Almacen 21
-3998,Almacen 39
+documento,almacen,administrador,numeroConfirmacion,prioridad
+0,Almacen 28,Administrador 8,686434,Alta
+3,Almacen 37,Administrador 16,598757,Media
+10,Almacen 8,Administrador 5,331850,Baja
+15,Almacen 40,Administrador 8,900080,Baja
+19,Almacen 16,Administrador 14,320617,Media
+20,Almacen 28,Administrador 19,605786,Media
+24,Almacen 34,Administrador 9,166038,Media
+26,Almacen 9,Administrador 14,524303,Media
+27,Almacen 41,Administrador 17,143385,Baja
+28,Almacen 41,Administrador 22,131460,Alta
+32,Almacen 11,Administrador 17,806857,Alta
+36,Almacen 35,Administrador 3,343756,Baja
+41,Almacen 44,Administrador 12,432018,Media
+43,Almacen 38,Administrador 14,272536,Baja
+46,Almacen 12,Administrador 2,876896,Media
+47,Almacen 32,Administrador 24,826820,Baja
+50,Almacen 5,Administrador 4,257990,Media
+55,Almacen 7,Administrador 11,362629,Media
+56,Almacen 22,Administrador 6,384833,Alta
+57,Almacen 13,Administrador 7,941211,Alta
+58,Almacen 14,Administrador 20,104381,Baja
+59,Almacen 28,Administrador 3,329968,Baja
+63,Almacen 34,Administrador 22,710930,Alta
+64,Almacen 20,Administrador 19,195424,Alta
+65,Almacen 19,Administrador 25,200715,Media
+67,Almacen 47,Administrador 19,230344,Media
+69,Almacen 27,Administrador 17,839816,Baja
+72,Almacen 44,Administrador 18,331006,Alta
+74,Almacen 24,Administrador 12,837374,Media
+76,Almacen 29,Administrador 25,497484,Alta
+77,Almacen 19,Administrador 12,674430,Baja
+82,Almacen 14,Administrador 4,722085,Baja
+85,Almacen 49,Administrador 21,387778,Media
+88,Almacen 14,Administrador 11,671509,Media
+89,Almacen 38,Administrador 13,269530,Alta
+92,Almacen 33,Administrador 18,928197,Alta
+99,Almacen 42,Administrador 25,424081,Media
+100,Almacen 8,Administrador 18,688300,Media
+109,Almacen 38,Administrador 5,543874,Baja
+111,Almacen 35,Administrador 24,731355,Baja
+118,Almacen 7,Administrador 12,882176,Baja
+119,Almacen 33,Administrador 13,851737,Alta
+124,Almacen 26,Administrador 7,456587,Media
+128,Almacen 42,Administrador 20,674133,Baja
+129,Almacen 6,Administrador 25,507024,Alta
+132,Almacen 29,Administrador 15,193945,Alta
+133,Almacen 24,Administrador 6,136731,Alta
+134,Almacen 15,Administrador 23,188769,Alta
+136,Almacen 18,Administrador 20,577673,Alta
+137,Almacen 10,Administrador 5,309351,Baja
+139,Almacen 36,Administrador 18,588593,Alta
+142,Almacen 21,Administrador 6,585373,Alta
+143,Almacen 7,Administrador 21,983532,Baja
+150,Almacen 11,Administrador 18,951416,Baja
+153,Almacen 46,Administrador 24,917853,Media
+155,Almacen 38,Administrador 10,172296,Baja
+158,Almacen 15,Administrador 25,187429,Alta
+160,Almacen 17,Administrador 17,349521,Alta
+162,Almacen 5,Administrador 23,370069,Alta
+163,Almacen 36,Administrador 12,992350,Alta
+164,Almacen 28,Administrador 23,587171,Media
+168,Almacen 13,Administrador 12,995256,Baja
+172,Almacen 43,Administrador 2,343265,Media
+174,Almacen 8,Administrador 22,958384,Media
+176,Almacen 44,Administrador 22,800544,Media
+181,Almacen 12,Administrador 23,394602,Alta
+185,Almacen 33,Administrador 20,289701,Baja
+186,Almacen 23,Administrador 9,379594,Media
+188,Almacen 25,Administrador 4,323341,Baja
+189,Almacen 0,Administrador 2,816460,Baja
+190,Almacen 24,Administrador 24,219900,Alta
+192,Almacen 24,Administrador 7,956459,Baja
+193,Almacen 10,Administrador 3,733119,Media
+197,Almacen 19,Administrador 7,503807,Baja
+198,Almacen 39,Administrador 6,540046,Baja
+199,Almacen 20,Administrador 15,975616,Alta
+200,Almacen 42,Administrador 20,600247,Alta
+202,Almacen 2,Administrador 20,659711,Alta
+204,Almacen 34,Administrador 21,642484,Baja
+205,Almacen 15,Administrador 23,647506,Alta
+210,Almacen 24,Administrador 13,863408,Media
+214,Almacen 25,Administrador 8,662043,Media
+218,Almacen 16,Administrador 3,866676,Alta
+219,Almacen 27,Administrador 12,306437,Media
+220,Almacen 49,Administrador 5,402648,Media
+222,Almacen 31,Administrador 16,754221,Media
+229,Almacen 11,Administrador 14,463414,Alta
+233,Almacen 10,Administrador 10,181140,Alta
+234,Almacen 22,Administrador 18,170101,Media
+236,Almacen 40,Administrador 8,432905,Media
+239,Almacen 24,Administrador 13,947950,Alta
+240,Almacen 39,Administrador 2,227926,Media
+241,Almacen 45,Administrador 24,807188,Baja
+246,Almacen 47,Administrador 13,531522,Baja
+247,Almacen 4,Administrador 2,387226,Baja
+248,Almacen 0,Administrador 15,359220,Alta
+251,Almacen 34,Administrador 4,860556,Alta
+252,Almacen 7,Administrador 15,177823,Media
+253,Almacen 36,Administrador 18,951501,Alta
+254,Almacen 7,Administrador 23,261707,Baja
+258,Almacen 24,Administrador 23,973443,Alta
+259,Almacen 35,Administrador 19,391581,Baja
+260,Almacen 48,Administrador 1,174880,Alta
+261,Almacen 30,Administrador 1,875988,Baja
+262,Almacen 14,Administrador 3,944625,Media
+266,Almacen 0,Administrador 1,632250,Baja
+267,Almacen 16,Administrador 10,369510,Media
+268,Almacen 45,Administrador 3,867569,Media
+270,Almacen 10,Administrador 21,110203,Alta
+275,Almacen 4,Administrador 1,578744,Alta
+277,Almacen 40,Administrador 18,540965,Media
+278,Almacen 41,Administrador 8,801578,Baja
+280,Almacen 0,Administrador 1,191673,Alta
+281,Almacen 36,Administrador 2,704346,Alta
+283,Almacen 32,Administrador 22,552481,Media
+299,Almacen 0,Administrador 17,665589,Baja
+311,Almacen 47,Administrador 1,358475,Baja
+313,Almacen 44,Administrador 1,538714,Alta
+314,Almacen 42,Administrador 6,665647,Baja
+315,Almacen 1,Administrador 22,670985,Alta
+321,Almacen 10,Administrador 16,166101,Alta
+324,Almacen 17,Administrador 5,504839,Alta
+325,Almacen 0,Administrador 15,903889,Media
+326,Almacen 3,Administrador 20,228499,Baja
+327,Almacen 12,Administrador 25,877852,Media
+332,Almacen 6,Administrador 11,104624,Media
+334,Almacen 23,Administrador 7,991489,Media
+340,Almacen 43,Administrador 15,420914,Baja
+342,Almacen 19,Administrador 4,927255,Baja
+352,Almacen 16,Administrador 2,528570,Alta
+353,Almacen 3,Administrador 24,148254,Media
+354,Almacen 3,Administrador 19,783830,Baja
+357,Almacen 15,Administrador 17,763085,Baja
+358,Almacen 32,Administrador 9,738962,Alta
+362,Almacen 25,Administrador 23,700906,Baja
+377,Almacen 27,Administrador 20,482353,Alta
+379,Almacen 39,Administrador 5,554168,Baja
+388,Almacen 41,Administrador 17,757954,Baja
+391,Almacen 49,Administrador 20,846781,Baja
+394,Almacen 36,Administrador 8,292379,Alta
+401,Almacen 36,Administrador 6,883807,Media
+402,Almacen 31,Administrador 19,816516,Baja
+407,Almacen 4,Administrador 3,354631,Media
+409,Almacen 12,Administrador 4,716685,Alta
+419,Almacen 6,Administrador 5,555651,Alta
+422,Almacen 47,Administrador 2,625971,Media
+423,Almacen 7,Administrador 4,418341,Media
+424,Almacen 14,Administrador 16,732274,Media
+426,Almacen 1,Administrador 14,437618,Alta
+434,Almacen 25,Administrador 9,964995,Alta
+435,Almacen 23,Administrador 15,422551,Media
+442,Almacen 5,Administrador 3,235516,Media
+443,Almacen 0,Administrador 20,613901,Alta
+447,Almacen 17,Administrador 9,263053,Baja
+448,Almacen 5,Administrador 20,201575,Baja
+449,Almacen 14,Administrador 5,867845,Media
+450,Almacen 11,Administrador 8,370072,Alta
+451,Almacen 14,Administrador 13,577803,Baja
+453,Almacen 10,Administrador 4,478103,Baja
+462,Almacen 0,Administrador 3,781923,Baja
+468,Almacen 12,Administrador 11,957997,Baja
+477,Almacen 26,Administrador 9,498331,Alta
+481,Almacen 8,Administrador 4,957168,Media
+482,Almacen 34,Administrador 2,441426,Alta
+488,Almacen 13,Administrador 18,736432,Baja
+490,Almacen 26,Administrador 6,169722,Baja
+491,Almacen 38,Administrador 3,475112,Media
+493,Almacen 24,Administrador 8,437221,Alta
+496,Almacen 36,Administrador 11,632861,Media
+497,Almacen 33,Administrador 9,940408,Baja
+502,Almacen 19,Administrador 14,895740,Baja
+506,Almacen 7,Administrador 23,110532,Baja
+508,Almacen 5,Administrador 23,522929,Media
+511,Almacen 46,Administrador 3,533856,Alta
+512,Almacen 41,Administrador 11,657967,Media
+514,Almacen 1,Administrador 21,395647,Baja
+515,Almacen 40,Administrador 3,214716,Media
+516,Almacen 49,Administrador 4,392280,Media
+519,Almacen 34,Administrador 13,423567,Alta
+520,Almacen 31,Administrador 2,282924,Media
+522,Almacen 5,Administrador 1,334366,Media
+523,Almacen 47,Administrador 9,731432,Alta
+526,Almacen 1,Administrador 8,268797,Baja
+527,Almacen 14,Administrador 13,221561,Media
+535,Almacen 34,Administrador 7,620902,Baja
+536,Almacen 46,Administrador 18,633054,Alta
+540,Almacen 37,Administrador 15,355859,Baja
+541,Almacen 16,Administrador 6,744191,Media
+542,Almacen 15,Administrador 14,507635,Media
+543,Almacen 44,Administrador 13,851258,Media
+549,Almacen 34,Administrador 5,259161,Media
+551,Almacen 39,Administrador 24,718566,Baja
+554,Almacen 34,Administrador 24,532224,Media
+555,Almacen 25,Administrador 6,573333,Media
+557,Almacen 36,Administrador 16,129052,Alta
+565,Almacen 7,Administrador 23,123896,Baja
+567,Almacen 41,Administrador 1,255202,Media
+575,Almacen 40,Administrador 14,781282,Media
+577,Almacen 24,Administrador 22,616925,Baja
+584,Almacen 3,Administrador 1,142513,Media
+585,Almacen 18,Administrador 14,189725,Media
+586,Almacen 13,Administrador 19,864429,Media
+589,Almacen 12,Administrador 12,390196,Baja
+591,Almacen 21,Administrador 8,526688,Baja
+594,Almacen 24,Administrador 4,522507,Media
+595,Almacen 20,Administrador 14,178527,Baja
+596,Almacen 24,Administrador 23,933479,Alta
+608,Almacen 20,Administrador 13,462652,Baja
+613,Almacen 42,Administrador 3,569649,Alta
+614,Almacen 26,Administrador 7,959499,Baja
+616,Almacen 32,Administrador 1,962006,Alta
+621,Almacen 28,Administrador 8,167734,Alta
+624,Almacen 13,Administrador 13,781165,Media
+631,Almacen 0,Administrador 22,689584,Baja
+632,Almacen 2,Administrador 11,410718,Baja
+634,Almacen 21,Administrador 3,565624,Media
+635,Almacen 33,Administrador 21,416482,Media
+639,Almacen 36,Administrador 23,469203,Alta
+640,Almacen 45,Administrador 2,506069,Alta
+641,Almacen 48,Administrador 2,992395,Media
+647,Almacen 9,Administrador 21,133363,Alta
+650,Almacen 34,Administrador 6,152302,Media
+651,Almacen 5,Administrador 15,502126,Baja
+653,Almacen 26,Administrador 15,529274,Alta
+654,Almacen 19,Administrador 1,378838,Media
+660,Almacen 8,Administrador 19,695522,Media
+663,Almacen 13,Administrador 10,143585,Alta
+665,Almacen 29,Administrador 15,625068,Media
+666,Almacen 10,Administrador 14,228871,Media
+669,Almacen 2,Administrador 22,346160,Media
+673,Almacen 34,Administrador 25,575838,Alta
+674,Almacen 37,Administrador 9,825322,Alta
+675,Almacen 44,Administrador 1,275346,Baja
+676,Almacen 8,Administrador 23,137258,Media
+677,Almacen 9,Administrador 5,663978,Alta
+680,Almacen 39,Administrador 2,689583,Alta
+681,Almacen 6,Administrador 14,707922,Media
+684,Almacen 43,Administrador 2,439319,Alta
+686,Almacen 5,Administrador 16,519295,Baja
+690,Almacen 41,Administrador 13,911703,Alta
+691,Almacen 2,Administrador 24,251521,Baja
+694,Almacen 2,Administrador 13,972389,Media
+696,Almacen 2,Administrador 22,123232,Alta
+697,Almacen 30,Administrador 12,242279,Alta
+699,Almacen 21,Administrador 1,368247,Baja
+700,Almacen 18,Administrador 5,814580,Baja
+705,Almacen 48,Administrador 5,846390,Media
+708,Almacen 3,Administrador 25,189632,Baja
+710,Almacen 25,Administrador 13,654277,Media
+711,Almacen 0,Administrador 23,207325,Media
+715,Almacen 22,Administrador 15,659452,Baja
+716,Almacen 30,Administrador 3,655727,Baja
+723,Almacen 12,Administrador 2,221508,Alta
+724,Almacen 13,Administrador 23,552398,Alta
+725,Almacen 31,Administrador 1,993436,Baja
+728,Almacen 32,Administrador 9,443146,Baja
+732,Almacen 42,Administrador 11,721447,Baja
+733,Almacen 3,Administrador 6,525633,Alta
+736,Almacen 14,Administrador 24,906334,Alta
+743,Almacen 38,Administrador 19,617945,Baja
+746,Almacen 11,Administrador 25,179062,Baja
+747,Almacen 29,Administrador 11,172874,Baja
+756,Almacen 42,Administrador 15,444054,Baja
+762,Almacen 29,Administrador 11,383389,Alta
+767,Almacen 49,Administrador 13,170349,Media
+769,Almacen 7,Administrador 12,230245,Baja
+770,Almacen 42,Administrador 20,689334,Media
+771,Almacen 19,Administrador 15,163232,Media
+774,Almacen 30,Administrador 2,127838,Baja
+775,Almacen 12,Administrador 3,962467,Alta
+776,Almacen 31,Administrador 17,270305,Alta
+783,Almacen 20,Administrador 4,823085,Alta
+788,Almacen 7,Administrador 6,578469,Alta
+789,Almacen 39,Administrador 4,796455,Alta
+795,Almacen 31,Administrador 1,950522,Baja
+796,Almacen 20,Administrador 18,263370,Alta
+799,Almacen 24,Administrador 8,981084,Alta
+803,Almacen 31,Administrador 17,900808,Alta
+804,Almacen 18,Administrador 12,501846,Alta
+806,Almacen 19,Administrador 8,473152,Alta
+807,Almacen 18,Administrador 4,578326,Media
+810,Almacen 30,Administrador 5,586755,Baja
+811,Almacen 24,Administrador 20,653220,Media
+813,Almacen 43,Administrador 3,429210,Media
+817,Almacen 27,Administrador 14,518876,Alta
+822,Almacen 12,Administrador 17,301827,Media
+828,Almacen 43,Administrador 5,781954,Media
+829,Almacen 43,Administrador 8,369612,Media
+831,Almacen 35,Administrador 14,834521,Baja
+832,Almacen 9,Administrador 3,298774,Alta
+835,Almacen 43,Administrador 23,845158,Baja
+836,Almacen 39,Administrador 8,812938,Baja
+837,Almacen 37,Administrador 21,757934,Baja
+841,Almacen 7,Administrador 7,986876,Media
+842,Almacen 26,Administrador 14,661635,Baja
+843,Almacen 4,Administrador 6,610590,Alta
+844,Almacen 37,Administrador 20,118563,Baja
+849,Almacen 7,Administrador 12,166829,Alta
+850,Almacen 41,Administrador 15,809440,Alta
+856,Almacen 24,Administrador 9,993075,Media
+862,Almacen 38,Administrador 13,593016,Alta
+863,Almacen 48,Administrador 13,330407,Alta
+868,Almacen 41,Administrador 8,578769,Alta
+869,Almacen 47,Administrador 25,816911,Alta
+871,Almacen 11,Administrador 23,366869,Media
+872,Almacen 49,Administrador 8,138793,Alta
+873,Almacen 4,Administrador 2,801609,Baja
+874,Almacen 34,Administrador 18,302611,Baja
+876,Almacen 29,Administrador 19,468216,Alta
+878,Almacen 44,Administrador 8,969558,Baja
+879,Almacen 13,Administrador 8,848281,Baja
+880,Almacen 4,Administrador 22,274645,Alta
+881,Almacen 12,Administrador 3,300987,Alta
+887,Almacen 14,Administrador 9,461045,Baja
+890,Almacen 33,Administrador 19,255641,Media
+894,Almacen 0,Administrador 16,700626,Alta
+895,Almacen 34,Administrador 12,993637,Alta
+898,Almacen 18,Administrador 20,790030,Media
+899,Almacen 27,Administrador 18,895396,Alta
+900,Almacen 20,Administrador 14,534895,Baja
+902,Almacen 19,Administrador 4,976344,Media
+903,Almacen 39,Administrador 13,957445,Alta
+904,Almacen 46,Administrador 15,199313,Baja
+908,Almacen 18,Administrador 15,187188,Media
+911,Almacen 1,Administrador 12,581989,Media
+912,Almacen 21,Administrador 13,678262,Media
+913,Almacen 49,Administrador 10,462160,Alta
+915,Almacen 12,Administrador 5,858712,Media
+916,Almacen 20,Administrador 4,583820,Alta
+922,Almacen 11,Administrador 3,809975,Baja
+926,Almacen 20,Administrador 23,744038,Alta
+927,Almacen 22,Administrador 15,203300,Alta
+934,Almacen 15,Administrador 3,491826,Alta
+935,Almacen 21,Administrador 10,296528,Media
+936,Almacen 20,Administrador 2,425746,Alta
+939,Almacen 26,Administrador 5,116343,Baja
+940,Almacen 29,Administrador 7,804370,Baja
+955,Almacen 8,Administrador 23,213562,Baja
+956,Almacen 40,Administrador 8,569810,Baja
+957,Almacen 2,Administrador 22,486379,Alta
+959,Almacen 42,Administrador 12,335614,Baja
+965,Almacen 5,Administrador 12,295029,Baja
+966,Almacen 26,Administrador 2,384167,Media
+967,Almacen 42,Administrador 1,487989,Media
+969,Almacen 46,Administrador 19,758294,Media
+970,Almacen 23,Administrador 8,568585,Alta
+971,Almacen 12,Administrador 21,772603,Alta
+972,Almacen 44,Administrador 19,154651,Baja
+975,Almacen 37,Administrador 15,288616,Alta
+976,Almacen 28,Administrador 12,437360,Media
+980,Almacen 10,Administrador 23,478890,Baja
+981,Almacen 37,Administrador 7,171278,Baja
+983,Almacen 49,Administrador 11,741641,Baja
+987,Almacen 29,Administrador 4,651617,Alta
+988,Almacen 45,Administrador 14,411927,Media
+993,Almacen 15,Administrador 13,923946,Media
+994,Almacen 8,Administrador 17,889752,Media
+995,Almacen 6,Administrador 4,505729,Alta
+999,Almacen 16,Administrador 6,811852,Alta
+1001,Almacen 16,Administrador 3,365065,Alta
+1004,Almacen 41,Administrador 18,108732,Alta
+1009,Almacen 2,Administrador 3,406869,Media
+1011,Almacen 23,Administrador 13,403832,Baja
+1012,Almacen 18,Administrador 17,586792,Alta
+1013,Almacen 34,Administrador 13,184811,Alta
+1022,Almacen 0,Administrador 5,638277,Baja
+1025,Almacen 28,Administrador 21,254032,Baja
+1030,Almacen 10,Administrador 17,705049,Alta
+1031,Almacen 9,Administrador 12,770701,Baja
+1032,Almacen 35,Administrador 10,867321,Media
+1034,Almacen 33,Administrador 15,171643,Alta
+1041,Almacen 10,Administrador 12,345585,Baja
+1044,Almacen 17,Administrador 17,844045,Alta
+1045,Almacen 11,Administrador 7,613825,Media
+1046,Almacen 34,Administrador 15,521588,Baja
+1065,Almacen 9,Administrador 16,426493,Baja
+1066,Almacen 26,Administrador 8,355169,Media
+1069,Almacen 47,Administrador 20,613309,Baja
+1077,Almacen 32,Administrador 1,678949,Media
+1078,Almacen 6,Administrador 11,162224,Baja
+1082,Almacen 4,Administrador 10,767252,Alta
+1099,Almacen 8,Administrador 18,202168,Baja
+1100,Almacen 29,Administrador 4,868177,Alta
+1104,Almacen 29,Administrador 18,931407,Media
+1110,Almacen 37,Administrador 25,705086,Baja
+1112,Almacen 10,Administrador 16,787578,Media
+1116,Almacen 10,Administrador 21,830376,Alta
+1118,Almacen 38,Administrador 10,927836,Baja
+1120,Almacen 6,Administrador 8,811620,Baja
+1123,Almacen 14,Administrador 13,798298,Alta
+1125,Almacen 33,Administrador 16,724133,Media
+1127,Almacen 12,Administrador 6,642521,Alta
+1130,Almacen 24,Administrador 15,342997,Alta
+1141,Almacen 31,Administrador 7,352039,Alta
+1143,Almacen 49,Administrador 1,134786,Baja
+1146,Almacen 33,Administrador 14,717839,Baja
+1149,Almacen 22,Administrador 17,344613,Baja
+1151,Almacen 48,Administrador 6,844761,Baja
+1152,Almacen 33,Administrador 1,534016,Media
+1154,Almacen 41,Administrador 14,684375,Baja
+1157,Almacen 24,Administrador 12,564670,Media
+1159,Almacen 27,Administrador 2,871180,Baja
+1160,Almacen 3,Administrador 20,482453,Alta
+1163,Almacen 43,Administrador 13,601269,Media
+1170,Almacen 42,Administrador 24,368681,Alta
+1171,Almacen 35,Administrador 8,355291,Baja
+1173,Almacen 27,Administrador 14,323126,Alta
+1176,Almacen 15,Administrador 12,904503,Baja
+1177,Almacen 7,Administrador 7,979775,Alta
+1179,Almacen 40,Administrador 19,844745,Media
+1182,Almacen 30,Administrador 2,380903,Media
+1183,Almacen 36,Administrador 9,726451,Media
+1186,Almacen 28,Administrador 19,374548,Alta
+1189,Almacen 29,Administrador 4,551944,Alta
+1195,Almacen 38,Administrador 4,645914,Alta
+1199,Almacen 1,Administrador 17,724375,Media
+1203,Almacen 33,Administrador 13,765886,Alta
+1204,Almacen 10,Administrador 7,836774,Alta
+1206,Almacen 4,Administrador 16,515957,Media
+1208,Almacen 44,Administrador 12,639102,Media
+1212,Almacen 13,Administrador 24,903283,Alta
+1214,Almacen 28,Administrador 22,409483,Baja
+1217,Almacen 16,Administrador 24,887003,Baja
+1221,Almacen 2,Administrador 4,192837,Alta
+1222,Almacen 33,Administrador 14,827827,Media
+1226,Almacen 33,Administrador 25,775713,Baja
+1227,Almacen 34,Administrador 9,729842,Media
+1229,Almacen 42,Administrador 9,440656,Alta
+1230,Almacen 17,Administrador 18,441042,Alta
+1231,Almacen 0,Administrador 19,610133,Baja
+1235,Almacen 25,Administrador 16,124074,Alta
+1236,Almacen 0,Administrador 3,153726,Alta
+1237,Almacen 6,Administrador 11,270214,Alta
+1241,Almacen 20,Administrador 17,633012,Baja
+1243,Almacen 9,Administrador 16,582982,Baja
+1249,Almacen 26,Administrador 8,739116,Alta
+1250,Almacen 10,Administrador 1,699000,Media
+1259,Almacen 25,Administrador 10,579486,Alta
+1260,Almacen 13,Administrador 23,294631,Media
+1261,Almacen 10,Administrador 23,854767,Baja
+1263,Almacen 12,Administrador 11,522994,Alta
+1264,Almacen 16,Administrador 14,422188,Alta
+1265,Almacen 3,Administrador 13,523011,Baja
+1267,Almacen 49,Administrador 23,978755,Baja
+1268,Almacen 37,Administrador 19,828151,Media
+1274,Almacen 39,Administrador 20,204395,Baja
+1277,Almacen 49,Administrador 24,253316,Baja
+1282,Almacen 31,Administrador 24,383687,Baja
+1285,Almacen 3,Administrador 20,802286,Media
+1287,Almacen 2,Administrador 7,753206,Media
+1289,Almacen 29,Administrador 3,667879,Media
+1291,Almacen 43,Administrador 9,507216,Alta
+1292,Almacen 47,Administrador 13,199107,Baja
+1293,Almacen 6,Administrador 7,489581,Media
+1296,Almacen 19,Administrador 11,578636,Media
+1299,Almacen 33,Administrador 3,120455,Media
+1303,Almacen 41,Administrador 10,646494,Media
+1313,Almacen 49,Administrador 4,554945,Media
+1314,Almacen 26,Administrador 23,727858,Baja
+1317,Almacen 34,Administrador 9,859620,Alta
+1318,Almacen 4,Administrador 18,112335,Baja
+1322,Almacen 23,Administrador 14,969708,Media
+1333,Almacen 47,Administrador 6,705839,Baja
+1336,Almacen 25,Administrador 24,610807,Media
+1339,Almacen 20,Administrador 1,651805,Alta
+1356,Almacen 45,Administrador 23,398237,Baja
+1358,Almacen 30,Administrador 1,829050,Baja
+1359,Almacen 3,Administrador 15,652967,Alta
+1363,Almacen 2,Administrador 7,867866,Alta
+1364,Almacen 24,Administrador 21,509254,Media
+1368,Almacen 8,Administrador 14,481692,Media
+1369,Almacen 36,Administrador 20,776574,Alta
+1371,Almacen 49,Administrador 5,262039,Baja
+1372,Almacen 11,Administrador 2,757876,Alta
+1373,Almacen 49,Administrador 24,714841,Baja
+1374,Almacen 33,Administrador 2,271068,Baja
+1376,Almacen 37,Administrador 12,423752,Baja
+1379,Almacen 36,Administrador 2,865917,Alta
+1383,Almacen 26,Administrador 19,506590,Media
+1386,Almacen 1,Administrador 11,115258,Alta
+1393,Almacen 36,Administrador 25,876226,Baja
+1398,Almacen 36,Administrador 4,940561,Media
+1401,Almacen 22,Administrador 16,936231,Baja
+1408,Almacen 6,Administrador 10,471361,Baja
+1417,Almacen 32,Administrador 5,598890,Alta
+1422,Almacen 27,Administrador 11,825313,Baja
+1426,Almacen 15,Administrador 13,638497,Media
+1430,Almacen 41,Administrador 22,319932,Media
+1433,Almacen 12,Administrador 23,752453,Baja
+1434,Almacen 28,Administrador 17,867041,Baja
+1441,Almacen 45,Administrador 13,500266,Media
+1444,Almacen 30,Administrador 20,168460,Media
+1446,Almacen 16,Administrador 14,860670,Media
+1447,Almacen 37,Administrador 17,549216,Media
+1448,Almacen 46,Administrador 17,781254,Media
+1456,Almacen 27,Administrador 16,437726,Media
+1461,Almacen 22,Administrador 10,489565,Media
+1462,Almacen 5,Administrador 2,785953,Media
+1464,Almacen 22,Administrador 19,737396,Alta
+1467,Almacen 30,Administrador 1,396884,Baja
+1468,Almacen 19,Administrador 17,235972,Media
+1469,Almacen 41,Administrador 25,256224,Media
+1473,Almacen 33,Administrador 14,176679,Media
+1476,Almacen 3,Administrador 23,842927,Alta
+1479,Almacen 4,Administrador 22,984017,Baja
+1481,Almacen 39,Administrador 12,258554,Alta
+1483,Almacen 7,Administrador 1,949099,Baja
+1489,Almacen 35,Administrador 4,177418,Baja
+1490,Almacen 21,Administrador 11,873597,Media
+1493,Almacen 6,Administrador 6,403667,Alta
+1496,Almacen 15,Administrador 4,213099,Baja
+1499,Almacen 42,Administrador 25,963862,Media
+1501,Almacen 4,Administrador 17,629829,Media
+1503,Almacen 42,Administrador 2,364650,Alta
+1506,Almacen 39,Administrador 1,888628,Baja
+1511,Almacen 27,Administrador 11,320653,Media
+1514,Almacen 41,Administrador 13,288915,Baja
+1521,Almacen 32,Administrador 25,346534,Media
+1534,Almacen 6,Administrador 10,496467,Media
+1539,Almacen 6,Administrador 13,700882,Alta
+1541,Almacen 31,Administrador 13,507731,Alta
+1545,Almacen 31,Administrador 6,936499,Alta
+1547,Almacen 28,Administrador 5,568944,Media
+1549,Almacen 6,Administrador 20,639324,Media
+1550,Almacen 17,Administrador 3,819910,Alta
+1551,Almacen 7,Administrador 25,819835,Media
+1555,Almacen 13,Administrador 5,828200,Alta
+1559,Almacen 41,Administrador 9,241035,Media
+1560,Almacen 1,Administrador 19,968068,Media
+1563,Almacen 12,Administrador 19,320090,Media
+1566,Almacen 44,Administrador 16,346082,Baja
+1568,Almacen 30,Administrador 19,388161,Alta
+1569,Almacen 32,Administrador 8,953607,Media
+1571,Almacen 5,Administrador 18,878918,Media
+1572,Almacen 37,Administrador 20,185050,Alta
+1576,Almacen 16,Administrador 12,581021,Alta
+1577,Almacen 41,Administrador 13,768904,Baja
+1578,Almacen 40,Administrador 1,981481,Alta
+1579,Almacen 6,Administrador 17,953536,Media
+1580,Almacen 49,Administrador 25,155650,Baja
+1581,Almacen 49,Administrador 7,415225,Baja
+1582,Almacen 15,Administrador 4,690882,Baja
+1583,Almacen 1,Administrador 23,323001,Alta
+1584,Almacen 27,Administrador 3,267659,Media
+1585,Almacen 30,Administrador 18,846230,Baja
+1586,Almacen 44,Administrador 23,738556,Baja
+1591,Almacen 48,Administrador 23,751650,Baja
+1595,Almacen 11,Administrador 5,311583,Baja
+1596,Almacen 1,Administrador 16,412802,Baja
+1597,Almacen 13,Administrador 23,299893,Baja
+1601,Almacen 35,Administrador 23,907985,Media
+1602,Almacen 23,Administrador 15,494483,Baja
+1605,Almacen 0,Administrador 1,938739,Baja
+1606,Almacen 44,Administrador 12,681652,Baja
+1611,Almacen 3,Administrador 24,310954,Baja
+1613,Almacen 22,Administrador 22,216662,Baja
+1617,Almacen 42,Administrador 7,115746,Media
+1618,Almacen 21,Administrador 8,357365,Media
+1621,Almacen 24,Administrador 17,532822,Baja
+1624,Almacen 39,Administrador 8,170792,Alta
+1625,Almacen 15,Administrador 5,441252,Baja
+1633,Almacen 39,Administrador 24,848257,Media
+1635,Almacen 38,Administrador 6,124836,Media
+1640,Almacen 29,Administrador 9,659038,Alta
+1641,Almacen 31,Administrador 14,797604,Alta
+1649,Almacen 40,Administrador 2,628865,Media
+1654,Almacen 1,Administrador 9,174952,Alta
+1656,Almacen 44,Administrador 23,134235,Alta
+1659,Almacen 30,Administrador 22,851600,Alta
+1664,Almacen 17,Administrador 4,236446,Baja
+1665,Almacen 18,Administrador 13,586383,Baja
+1667,Almacen 5,Administrador 17,115619,Alta
+1668,Almacen 7,Administrador 16,876710,Media
+1669,Almacen 49,Administrador 15,136619,Alta
+1672,Almacen 3,Administrador 1,192943,Baja
+1673,Almacen 9,Administrador 21,736688,Alta
+1677,Almacen 5,Administrador 2,793963,Baja
+1679,Almacen 8,Administrador 9,321828,Alta
+1683,Almacen 37,Administrador 5,927790,Media
+1688,Almacen 25,Administrador 9,220833,Baja
+1689,Almacen 2,Administrador 15,524577,Media
+1690,Almacen 37,Administrador 7,749958,Baja
+1692,Almacen 40,Administrador 23,516143,Media
+1693,Almacen 10,Administrador 8,487231,Alta
+1694,Almacen 4,Administrador 16,134910,Baja
+1696,Almacen 17,Administrador 16,313872,Baja
+1697,Almacen 4,Administrador 20,941479,Media
+1698,Almacen 1,Administrador 9,834515,Alta
+1701,Almacen 6,Administrador 12,949036,Baja
+1703,Almacen 10,Administrador 2,588723,Alta
+1704,Almacen 41,Administrador 23,158427,Media
+1705,Almacen 27,Administrador 22,703574,Media
+1707,Almacen 43,Administrador 9,144637,Media
+1714,Almacen 39,Administrador 12,391285,Baja
+1715,Almacen 34,Administrador 21,765808,Alta
+1720,Almacen 10,Administrador 20,512666,Media
+1721,Almacen 13,Administrador 15,581981,Alta
+1723,Almacen 1,Administrador 5,986605,Alta
+1724,Almacen 14,Administrador 9,851864,Baja
+1725,Almacen 13,Administrador 2,393501,Media
+1727,Almacen 17,Administrador 24,160480,Baja
+1731,Almacen 35,Administrador 18,262241,Baja
+1732,Almacen 21,Administrador 6,590043,Media
+1740,Almacen 21,Administrador 6,234038,Media
+1743,Almacen 39,Administrador 15,898553,Baja
+1746,Almacen 31,Administrador 2,804210,Media
+1749,Almacen 10,Administrador 7,131912,Baja
+1750,Almacen 38,Administrador 25,239703,Alta
+1752,Almacen 35,Administrador 22,350518,Alta
+1753,Almacen 44,Administrador 24,472040,Baja
+1754,Almacen 49,Administrador 21,427000,Media
+1755,Almacen 48,Administrador 12,661638,Baja
+1758,Almacen 31,Administrador 18,733397,Alta
+1759,Almacen 31,Administrador 21,208924,Baja
+1760,Almacen 46,Administrador 9,705395,Media
+1761,Almacen 18,Administrador 9,689697,Alta
+1764,Almacen 34,Administrador 6,179546,Alta
+1767,Almacen 2,Administrador 25,415175,Alta
+1768,Almacen 33,Administrador 20,708095,Media
+1770,Almacen 41,Administrador 21,512179,Alta
+1771,Almacen 47,Administrador 14,435007,Baja
+1775,Almacen 46,Administrador 15,238181,Media
+1776,Almacen 38,Administrador 12,458623,Alta
+1777,Almacen 30,Administrador 9,462291,Media
+1781,Almacen 6,Administrador 11,330587,Media
+1784,Almacen 23,Administrador 12,721515,Alta
+1788,Almacen 6,Administrador 15,335731,Baja
+1790,Almacen 6,Administrador 14,864630,Baja
+1791,Almacen 49,Administrador 21,209257,Baja
+1792,Almacen 20,Administrador 14,723610,Baja
+1795,Almacen 30,Administrador 5,858231,Alta
+1799,Almacen 17,Administrador 17,677577,Baja
+1801,Almacen 36,Administrador 24,512313,Media
+1802,Almacen 17,Administrador 8,649750,Baja
+1803,Almacen 3,Administrador 3,457361,Media
+1804,Almacen 0,Administrador 4,347597,Media
+1805,Almacen 2,Administrador 19,532609,Alta
+1816,Almacen 15,Administrador 21,942602,Media
+1818,Almacen 23,Administrador 10,400648,Baja
+1821,Almacen 48,Administrador 1,200032,Media
+1825,Almacen 49,Administrador 8,196583,Alta
+1826,Almacen 18,Administrador 11,483609,Alta
+1827,Almacen 8,Administrador 8,276455,Alta
+1836,Almacen 9,Administrador 2,147473,Alta
+1839,Almacen 20,Administrador 20,932362,Alta
+1844,Almacen 18,Administrador 2,309242,Media
+1845,Almacen 42,Administrador 16,868784,Alta
+1848,Almacen 16,Administrador 16,227910,Alta
+1849,Almacen 41,Administrador 13,695539,Alta
+1850,Almacen 33,Administrador 24,691075,Alta
+1851,Almacen 20,Administrador 24,459390,Baja
+1852,Almacen 21,Administrador 1,477050,Alta
+1854,Almacen 42,Administrador 10,463022,Alta
+1855,Almacen 47,Administrador 14,113098,Baja
+1856,Almacen 46,Administrador 23,190597,Media
+1859,Almacen 42,Administrador 4,516065,Media
+1860,Almacen 7,Administrador 6,774151,Alta
+1861,Almacen 8,Administrador 14,765449,Alta
+1863,Almacen 35,Administrador 7,638538,Baja
+1866,Almacen 34,Administrador 4,510841,Baja
+1872,Almacen 3,Administrador 16,870694,Alta
+1873,Almacen 16,Administrador 15,606517,Media
+1883,Almacen 26,Administrador 18,113739,Baja
+1885,Almacen 35,Administrador 2,972593,Baja
+1886,Almacen 25,Administrador 3,535165,Alta
+1887,Almacen 9,Administrador 17,667328,Baja
+1888,Almacen 22,Administrador 16,154018,Alta
+1893,Almacen 13,Administrador 23,837129,Alta
+1894,Almacen 0,Administrador 9,652942,Alta
+1896,Almacen 33,Administrador 8,806280,Alta
+1901,Almacen 34,Administrador 21,446987,Baja
+1902,Almacen 45,Administrador 3,255894,Media
+1909,Almacen 17,Administrador 22,488248,Media
+1914,Almacen 37,Administrador 18,245983,Alta
+1922,Almacen 0,Administrador 14,881395,Alta
+1925,Almacen 24,Administrador 6,140059,Baja
+1926,Almacen 33,Administrador 2,405157,Alta
+1931,Almacen 1,Administrador 15,697849,Baja
+1935,Almacen 7,Administrador 10,927021,Media
+1936,Almacen 9,Administrador 25,522248,Baja
+1937,Almacen 18,Administrador 20,899273,Alta
+1938,Almacen 15,Administrador 25,634301,Media
+1941,Almacen 43,Administrador 8,810199,Baja
+1942,Almacen 3,Administrador 17,320082,Baja
+1945,Almacen 23,Administrador 15,152486,Media
+1950,Almacen 49,Administrador 6,777532,Media
+1966,Almacen 46,Administrador 5,199236,Media
+1967,Almacen 14,Administrador 24,457285,Baja
+1972,Almacen 12,Administrador 3,742609,Alta
+1975,Almacen 14,Administrador 13,814462,Alta
+1983,Almacen 34,Administrador 18,389076,Baja
+1984,Almacen 2,Administrador 8,647331,Alta
+1985,Almacen 30,Administrador 12,972079,Alta
+1993,Almacen 17,Administrador 12,435175,Alta
+1996,Almacen 41,Administrador 1,384366,Alta
+1998,Almacen 13,Administrador 12,430589,Alta
+2001,Almacen 6,Administrador 9,630535,Media
+2003,Almacen 49,Administrador 7,956352,Alta
+2007,Almacen 28,Administrador 21,747393,Media
+2009,Almacen 40,Administrador 11,501480,Baja
+2013,Almacen 41,Administrador 8,905946,Alta
+2014,Almacen 17,Administrador 16,435613,Media
+2017,Almacen 3,Administrador 9,236259,Alta
+2019,Almacen 48,Administrador 12,766982,Baja
+2024,Almacen 43,Administrador 11,345020,Media
+2025,Almacen 49,Administrador 18,421636,Alta
+2028,Almacen 4,Administrador 24,707635,Alta
+2031,Almacen 29,Administrador 8,807273,Media
+2033,Almacen 11,Administrador 2,775440,Alta
+2034,Almacen 45,Administrador 12,279090,Media
+2036,Almacen 12,Administrador 4,476271,Alta
+2037,Almacen 43,Administrador 8,386417,Media
+2038,Almacen 47,Administrador 4,414597,Alta
+2041,Almacen 42,Administrador 24,507806,Baja
+2045,Almacen 35,Administrador 2,859190,Alta
+2049,Almacen 38,Administrador 4,276404,Baja
+2054,Almacen 25,Administrador 11,627286,Media
+2056,Almacen 43,Administrador 11,937139,Media
+2060,Almacen 33,Administrador 24,969583,Alta
+2062,Almacen 18,Administrador 7,397458,Media
+2063,Almacen 19,Administrador 20,669999,Alta
+2064,Almacen 30,Administrador 1,288104,Alta
+2070,Almacen 20,Administrador 5,531991,Baja
+2071,Almacen 46,Administrador 24,959131,Media
+2075,Almacen 27,Administrador 2,609410,Media
+2076,Almacen 35,Administrador 19,767756,Baja
+2079,Almacen 21,Administrador 2,502868,Media
+2080,Almacen 34,Administrador 3,248802,Media
+2081,Almacen 3,Administrador 11,173605,Alta
+2082,Almacen 15,Administrador 4,887575,Alta
+2090,Almacen 9,Administrador 4,699438,Media
+2095,Almacen 3,Administrador 19,600754,Media
+2106,Almacen 32,Administrador 8,454434,Media
+2109,Almacen 46,Administrador 8,292923,Baja
+2110,Almacen 47,Administrador 14,777923,Media
+2111,Almacen 42,Administrador 7,853218,Baja
+2115,Almacen 24,Administrador 6,901115,Baja
+2116,Almacen 43,Administrador 21,173406,Baja
+2117,Almacen 8,Administrador 11,483067,Alta
+2120,Almacen 12,Administrador 20,120594,Alta
+2125,Almacen 40,Administrador 11,154974,Baja
+2128,Almacen 41,Administrador 5,295745,Media
+2130,Almacen 17,Administrador 23,797820,Alta
+2131,Almacen 7,Administrador 7,137889,Baja
+2135,Almacen 40,Administrador 19,941318,Alta
+2136,Almacen 37,Administrador 17,242379,Media
+2137,Almacen 13,Administrador 19,323295,Alta
+2138,Almacen 42,Administrador 10,735126,Alta
+2142,Almacen 8,Administrador 5,400768,Alta
+2147,Almacen 13,Administrador 13,395221,Media
+2148,Almacen 40,Administrador 21,301951,Baja
+2149,Almacen 25,Administrador 3,826277,Alta
+2152,Almacen 20,Administrador 6,663528,Baja
+2158,Almacen 31,Administrador 7,217563,Media
+2159,Almacen 49,Administrador 24,777571,Alta
+2162,Almacen 49,Administrador 11,493530,Baja
+2164,Almacen 3,Administrador 11,832900,Media
+2167,Almacen 15,Administrador 13,835203,Baja
+2172,Almacen 36,Administrador 1,258598,Media
+2173,Almacen 16,Administrador 8,585154,Alta
+2177,Almacen 37,Administrador 13,311737,Baja
+2180,Almacen 34,Administrador 15,637681,Alta
+2181,Almacen 34,Administrador 15,143153,Alta
+2184,Almacen 3,Administrador 18,794165,Baja
+2185,Almacen 33,Administrador 6,652370,Baja
+2193,Almacen 30,Administrador 18,547813,Alta
+2194,Almacen 9,Administrador 19,894646,Media
+2197,Almacen 3,Administrador 5,207410,Media
+2202,Almacen 3,Administrador 17,710152,Baja
+2208,Almacen 5,Administrador 3,891572,Baja
+2212,Almacen 18,Administrador 3,667098,Baja
+2215,Almacen 20,Administrador 6,631730,Media
+2219,Almacen 44,Administrador 7,351630,Media
+2220,Almacen 8,Administrador 16,761338,Baja
+2221,Almacen 36,Administrador 20,102175,Media
+2222,Almacen 21,Administrador 11,540073,Media
+2224,Almacen 43,Administrador 20,154803,Alta
+2227,Almacen 4,Administrador 10,431411,Alta
+2235,Almacen 2,Administrador 22,474213,Alta
+2239,Almacen 12,Administrador 21,266207,Baja
+2243,Almacen 38,Administrador 9,841962,Media
+2245,Almacen 43,Administrador 17,426851,Alta
+2252,Almacen 6,Administrador 18,567039,Alta
+2255,Almacen 46,Administrador 24,496678,Alta
+2258,Almacen 1,Administrador 6,934503,Media
+2260,Almacen 7,Administrador 15,766709,Baja
+2262,Almacen 21,Administrador 18,957277,Baja
+2268,Almacen 35,Administrador 12,918884,Media
+2274,Almacen 17,Administrador 11,489674,Baja
+2277,Almacen 31,Administrador 1,153632,Baja
+2278,Almacen 11,Administrador 14,264509,Alta
+2279,Almacen 28,Administrador 1,455887,Alta
+2286,Almacen 31,Administrador 10,990689,Media
+2287,Almacen 40,Administrador 1,621054,Alta
+2290,Almacen 19,Administrador 21,948847,Alta
+2291,Almacen 28,Administrador 13,965730,Baja
+2292,Almacen 7,Administrador 23,106563,Alta
+2294,Almacen 23,Administrador 14,739980,Baja
+2296,Almacen 6,Administrador 23,116586,Alta
+2301,Almacen 28,Administrador 10,649378,Alta
+2303,Almacen 42,Administrador 12,645895,Media
+2307,Almacen 29,Administrador 1,333109,Alta
+2309,Almacen 27,Administrador 3,387137,Media
+2311,Almacen 41,Administrador 11,504772,Baja
+2312,Almacen 29,Administrador 4,951264,Media
+2327,Almacen 17,Administrador 1,683419,Baja
+2328,Almacen 47,Administrador 16,735403,Alta
+2330,Almacen 8,Administrador 18,500239,Baja
+2331,Almacen 38,Administrador 17,712047,Media
+2333,Almacen 36,Administrador 3,125154,Alta
+2335,Almacen 35,Administrador 17,127734,Alta
+2336,Almacen 10,Administrador 7,644597,Baja
+2339,Almacen 34,Administrador 21,187654,Alta
+2340,Almacen 0,Administrador 2,599897,Media
+2342,Almacen 37,Administrador 18,499878,Alta
+2350,Almacen 40,Administrador 4,441901,Alta
+2354,Almacen 42,Administrador 20,289307,Alta
+2359,Almacen 46,Administrador 14,195502,Alta
+2361,Almacen 31,Administrador 9,939867,Media
+2362,Almacen 18,Administrador 8,130040,Baja
+2364,Almacen 4,Administrador 2,865540,Baja
+2365,Almacen 38,Administrador 10,271107,Alta
+2368,Almacen 2,Administrador 6,933386,Baja
+2376,Almacen 26,Administrador 11,965356,Baja
+2377,Almacen 27,Administrador 5,651616,Alta
+2378,Almacen 35,Administrador 2,851801,Baja
+2379,Almacen 26,Administrador 17,531328,Baja
+2387,Almacen 15,Administrador 23,466460,Media
+2390,Almacen 2,Administrador 6,980611,Baja
+2391,Almacen 1,Administrador 24,427818,Alta
+2400,Almacen 3,Administrador 21,158049,Baja
+2403,Almacen 27,Administrador 9,977534,Alta
+2404,Almacen 35,Administrador 20,785926,Alta
+2407,Almacen 37,Administrador 20,222568,Baja
+2410,Almacen 25,Administrador 6,549785,Media
+2411,Almacen 1,Administrador 20,577596,Media
+2416,Almacen 1,Administrador 19,210151,Baja
+2419,Almacen 17,Administrador 11,504642,Alta
+2421,Almacen 20,Administrador 1,557537,Baja
+2423,Almacen 43,Administrador 21,609325,Baja
+2432,Almacen 38,Administrador 1,455607,Media
+2434,Almacen 40,Administrador 2,773584,Baja
+2435,Almacen 47,Administrador 10,257306,Baja
+2438,Almacen 15,Administrador 1,549604,Media
+2443,Almacen 24,Administrador 24,431850,Alta
+2447,Almacen 32,Administrador 4,554902,Media
+2448,Almacen 26,Administrador 18,227405,Baja
+2450,Almacen 0,Administrador 3,257281,Media
+2451,Almacen 6,Administrador 2,639140,Media
+2453,Almacen 36,Administrador 18,708905,Alta
+2454,Almacen 12,Administrador 6,774553,Baja
+2455,Almacen 22,Administrador 8,239122,Alta
+2457,Almacen 22,Administrador 3,541564,Baja
+2459,Almacen 7,Administrador 16,568815,Alta
+2461,Almacen 23,Administrador 10,177212,Baja
+2464,Almacen 20,Administrador 2,836212,Media
+2467,Almacen 4,Administrador 6,806617,Alta
+2471,Almacen 35,Administrador 20,447981,Alta
+2476,Almacen 14,Administrador 21,402491,Alta
+2482,Almacen 31,Administrador 12,903965,Baja
+2483,Almacen 8,Administrador 11,453130,Media
+2485,Almacen 16,Administrador 19,951898,Baja
+2487,Almacen 28,Administrador 18,239997,Media
+2488,Almacen 24,Administrador 8,857417,Alta
+2490,Almacen 41,Administrador 23,703104,Alta
+2492,Almacen 37,Administrador 22,685059,Alta
+2494,Almacen 32,Administrador 2,647910,Alta
+2499,Almacen 13,Administrador 20,277693,Media
+2501,Almacen 48,Administrador 24,107077,Media
+2502,Almacen 12,Administrador 10,686403,Alta
+2516,Almacen 24,Administrador 1,378692,Alta
+2517,Almacen 44,Administrador 4,853129,Media
+2519,Almacen 13,Administrador 2,455496,Media
+2521,Almacen 29,Administrador 5,862121,Media
+2523,Almacen 20,Administrador 24,543000,Media
+2524,Almacen 30,Administrador 16,468843,Media
+2525,Almacen 48,Administrador 22,709988,Alta
+2526,Almacen 11,Administrador 23,553195,Alta
+2529,Almacen 47,Administrador 16,507557,Alta
+2531,Almacen 12,Administrador 8,793134,Media
+2532,Almacen 44,Administrador 20,316584,Alta
+2535,Almacen 7,Administrador 16,482163,Media
+2538,Almacen 22,Administrador 9,321834,Media
+2540,Almacen 33,Administrador 17,766808,Media
+2542,Almacen 26,Administrador 16,603551,Baja
+2543,Almacen 0,Administrador 2,816327,Alta
+2544,Almacen 23,Administrador 9,159281,Media
+2546,Almacen 36,Administrador 4,111486,Media
+2548,Almacen 8,Administrador 11,473322,Baja
+2552,Almacen 11,Administrador 24,111819,Baja
+2555,Almacen 48,Administrador 21,116386,Media
+2557,Almacen 1,Administrador 10,652920,Baja
+2566,Almacen 27,Administrador 15,652062,Alta
+2567,Almacen 3,Administrador 3,266777,Media
+2575,Almacen 17,Administrador 24,226882,Baja
+2578,Almacen 29,Administrador 14,603733,Alta
+2580,Almacen 42,Administrador 5,634652,Media
+2582,Almacen 35,Administrador 13,956691,Alta
+2587,Almacen 38,Administrador 13,489402,Baja
+2588,Almacen 27,Administrador 24,885189,Media
+2589,Almacen 34,Administrador 17,649595,Media
+2591,Almacen 42,Administrador 25,695782,Media
+2592,Almacen 41,Administrador 19,646642,Alta
+2593,Almacen 23,Administrador 3,157065,Media
+2598,Almacen 8,Administrador 22,258932,Alta
+2599,Almacen 3,Administrador 5,248635,Media
+2602,Almacen 35,Administrador 21,549874,Alta
+2603,Almacen 28,Administrador 11,740508,Alta
+2611,Almacen 42,Administrador 10,412795,Media
+2616,Almacen 34,Administrador 12,415589,Alta
+2621,Almacen 45,Administrador 19,198069,Media
+2623,Almacen 33,Administrador 10,759788,Alta
+2634,Almacen 28,Administrador 5,940570,Media
+2637,Almacen 29,Administrador 19,502287,Baja
+2639,Almacen 39,Administrador 14,114402,Baja
+2640,Almacen 47,Administrador 24,848185,Media
+2641,Almacen 26,Administrador 13,201769,Media
+2642,Almacen 25,Administrador 2,349024,Media
+2644,Almacen 44,Administrador 12,939612,Media
+2647,Almacen 21,Administrador 3,850728,Baja
+2653,Almacen 29,Administrador 19,300974,Alta
+2654,Almacen 49,Administrador 13,637640,Alta
+2657,Almacen 37,Administrador 21,667909,Alta
+2662,Almacen 27,Administrador 2,352717,Media
+2664,Almacen 42,Administrador 20,324283,Alta
+2667,Almacen 28,Administrador 21,727404,Baja
+2668,Almacen 37,Administrador 5,867673,Alta
+2672,Almacen 0,Administrador 20,728018,Media
+2673,Almacen 43,Administrador 24,259516,Alta
+2675,Almacen 27,Administrador 21,878035,Baja
+2676,Almacen 39,Administrador 23,569325,Media
+2679,Almacen 36,Administrador 25,760796,Alta
+2681,Almacen 48,Administrador 25,681232,Baja
+2683,Almacen 20,Administrador 24,663798,Baja
+2684,Almacen 13,Administrador 6,435355,Media
+2686,Almacen 43,Administrador 25,472456,Baja
+2694,Almacen 33,Administrador 3,110529,Media
+2700,Almacen 35,Administrador 17,249351,Media
+2702,Almacen 17,Administrador 7,676733,Alta
+2705,Almacen 3,Administrador 18,846613,Alta
+2707,Almacen 23,Administrador 25,619450,Baja
+2708,Almacen 8,Administrador 12,263831,Alta
+2710,Almacen 25,Administrador 7,551837,Baja
+2718,Almacen 19,Administrador 1,246028,Baja
+2723,Almacen 31,Administrador 3,165881,Baja
+2724,Almacen 34,Administrador 12,822224,Media
+2725,Almacen 36,Administrador 14,951553,Baja
+2727,Almacen 48,Administrador 23,125156,Alta
+2728,Almacen 47,Administrador 8,678048,Media
+2729,Almacen 26,Administrador 9,143275,Alta
+2734,Almacen 7,Administrador 5,609082,Media
+2737,Almacen 34,Administrador 18,317958,Alta
+2739,Almacen 45,Administrador 2,660716,Alta
+2741,Almacen 14,Administrador 1,856885,Media
+2753,Almacen 28,Administrador 13,945034,Baja
+2755,Almacen 2,Administrador 1,633870,Alta
+2760,Almacen 9,Administrador 9,621200,Alta
+2761,Almacen 33,Administrador 4,530055,Media
+2765,Almacen 31,Administrador 1,747873,Media
+2768,Almacen 16,Administrador 13,118759,Media
+2769,Almacen 26,Administrador 21,890404,Media
+2772,Almacen 5,Administrador 20,838770,Alta
+2775,Almacen 44,Administrador 14,481554,Alta
+2776,Almacen 14,Administrador 25,348628,Alta
+2779,Almacen 24,Administrador 12,815081,Media
+2780,Almacen 7,Administrador 9,127618,Media
+2782,Almacen 35,Administrador 2,122936,Alta
+2783,Almacen 23,Administrador 24,130988,Alta
+2784,Almacen 29,Administrador 21,493847,Baja
+2785,Almacen 0,Administrador 3,949227,Baja
+2787,Almacen 14,Administrador 14,135782,Media
+2788,Almacen 40,Administrador 5,561589,Alta
+2790,Almacen 5,Administrador 5,812665,Alta
+2796,Almacen 11,Administrador 11,751464,Media
+2799,Almacen 40,Administrador 18,186849,Baja
+2802,Almacen 17,Administrador 14,746097,Alta
+2809,Almacen 47,Administrador 22,284662,Alta
+2818,Almacen 9,Administrador 12,227620,Baja
+2821,Almacen 34,Administrador 6,902969,Media
+2825,Almacen 0,Administrador 24,977016,Baja
+2827,Almacen 7,Administrador 14,890949,Media
+2834,Almacen 7,Administrador 21,525982,Alta
+2836,Almacen 4,Administrador 8,741951,Baja
+2837,Almacen 25,Administrador 6,142964,Media
+2840,Almacen 6,Administrador 11,628683,Baja
+2844,Almacen 44,Administrador 12,615652,Media
+2849,Almacen 0,Administrador 4,515547,Baja
+2850,Almacen 9,Administrador 4,569374,Baja
+2851,Almacen 5,Administrador 22,821015,Media
+2863,Almacen 33,Administrador 13,757522,Media
+2864,Almacen 12,Administrador 1,494222,Baja
+2865,Almacen 36,Administrador 4,615690,Baja
+2869,Almacen 48,Administrador 22,678838,Media
+2870,Almacen 3,Administrador 17,756111,Alta
+2873,Almacen 23,Administrador 11,346915,Baja
+2890,Almacen 24,Administrador 22,416370,Media
+2892,Almacen 3,Administrador 4,966674,Media
+2896,Almacen 20,Administrador 10,319744,Media
+2897,Almacen 43,Administrador 6,391487,Baja
+2899,Almacen 28,Administrador 2,581268,Alta
+2902,Almacen 44,Administrador 23,735333,Alta
+2906,Almacen 29,Administrador 1,811739,Baja
+2908,Almacen 0,Administrador 7,113502,Alta
+2912,Almacen 15,Administrador 21,211831,Media
+2916,Almacen 28,Administrador 12,373726,Media
+2917,Almacen 42,Administrador 13,786990,Alta
+2919,Almacen 18,Administrador 6,935699,Alta
+2922,Almacen 5,Administrador 8,858125,Media
+2923,Almacen 22,Administrador 13,152635,Media
+2925,Almacen 28,Administrador 6,214704,Baja
+2926,Almacen 39,Administrador 6,175314,Alta
+2927,Almacen 36,Administrador 23,878098,Baja
+2931,Almacen 47,Administrador 2,488330,Media
+2934,Almacen 24,Administrador 4,160276,Media
+2936,Almacen 9,Administrador 23,935072,Baja
+2938,Almacen 47,Administrador 23,962785,Baja
+2942,Almacen 40,Administrador 3,339977,Alta
+2944,Almacen 27,Administrador 13,797681,Media
+2946,Almacen 37,Administrador 8,876330,Alta
+2947,Almacen 16,Administrador 23,578810,Alta
+2948,Almacen 17,Administrador 1,960034,Alta
+2949,Almacen 15,Administrador 25,484103,Alta
+2950,Almacen 7,Administrador 25,281761,Media
+2951,Almacen 23,Administrador 8,938236,Media
+2952,Almacen 8,Administrador 11,602934,Media
+2956,Almacen 17,Administrador 2,875899,Alta
+2957,Almacen 6,Administrador 23,913293,Baja
+2958,Almacen 44,Administrador 3,235987,Baja
+2959,Almacen 12,Administrador 4,587685,Alta
+2960,Almacen 4,Administrador 4,879587,Media
+2961,Almacen 14,Administrador 23,575740,Media
+2963,Almacen 0,Administrador 13,181795,Alta
+2968,Almacen 22,Administrador 9,151301,Alta
+2969,Almacen 21,Administrador 4,254468,Baja
+2971,Almacen 48,Administrador 6,236073,Baja
+2974,Almacen 6,Administrador 20,762943,Baja
+2977,Almacen 7,Administrador 3,554864,Alta
+2982,Almacen 19,Administrador 5,765970,Baja
+2989,Almacen 7,Administrador 16,278486,Baja
+2999,Almacen 35,Administrador 25,718813,Media
+3001,Almacen 49,Administrador 18,345533,Media
+3002,Almacen 25,Administrador 11,658865,Media
+3007,Almacen 37,Administrador 4,333373,Baja
+3008,Almacen 23,Administrador 18,361590,Baja
+3009,Almacen 21,Administrador 25,852401,Media
+3010,Almacen 2,Administrador 11,966118,Alta
+3018,Almacen 4,Administrador 25,697797,Media
+3020,Almacen 34,Administrador 11,840230,Alta
+3026,Almacen 48,Administrador 24,669256,Baja
+3030,Almacen 5,Administrador 24,867242,Media
+3035,Almacen 12,Administrador 6,763663,Alta
+3037,Almacen 36,Administrador 19,794974,Alta
+3039,Almacen 13,Administrador 23,655144,Alta
+3042,Almacen 18,Administrador 13,892129,Alta
+3043,Almacen 47,Administrador 5,876905,Media
+3047,Almacen 19,Administrador 9,323598,Media
+3052,Almacen 39,Administrador 2,960758,Alta
+3057,Almacen 12,Administrador 17,222502,Media
+3058,Almacen 21,Administrador 4,686765,Baja
+3062,Almacen 24,Administrador 5,661176,Baja
+3063,Almacen 22,Administrador 6,472128,Baja
+3065,Almacen 5,Administrador 14,563761,Baja
+3070,Almacen 9,Administrador 11,494140,Media
+3071,Almacen 0,Administrador 4,124606,Alta
+3074,Almacen 0,Administrador 20,112585,Baja
+3076,Almacen 44,Administrador 17,620747,Alta
+3078,Almacen 43,Administrador 20,924493,Alta
+3080,Almacen 38,Administrador 23,416520,Baja
+3081,Almacen 4,Administrador 9,273767,Alta
+3083,Almacen 19,Administrador 15,473102,Media
+3087,Almacen 7,Administrador 13,668512,Alta
+3088,Almacen 44,Administrador 20,862962,Alta
+3089,Almacen 25,Administrador 17,771202,Baja
+3094,Almacen 46,Administrador 14,873650,Media
+3095,Almacen 49,Administrador 12,356628,Media
+3096,Almacen 33,Administrador 13,621261,Baja
+3097,Almacen 34,Administrador 8,520635,Baja
+3098,Almacen 31,Administrador 17,531944,Alta
+3100,Almacen 37,Administrador 18,122662,Alta
+3101,Almacen 36,Administrador 20,906891,Baja
+3102,Almacen 10,Administrador 10,757763,Alta
+3109,Almacen 41,Administrador 21,615293,Media
+3111,Almacen 25,Administrador 1,523686,Media
+3113,Almacen 18,Administrador 23,879587,Alta
+3116,Almacen 44,Administrador 24,860973,Alta
+3117,Almacen 5,Administrador 9,904674,Baja
+3120,Almacen 10,Administrador 10,705613,Media
+3121,Almacen 22,Administrador 13,636377,Media
+3122,Almacen 40,Administrador 5,995818,Media
+3123,Almacen 7,Administrador 11,429743,Alta
+3127,Almacen 21,Administrador 11,819506,Alta
+3130,Almacen 36,Administrador 20,508944,Alta
+3132,Almacen 28,Administrador 11,204144,Baja
+3134,Almacen 40,Administrador 22,609388,Media
+3137,Almacen 32,Administrador 6,890158,Alta
+3138,Almacen 6,Administrador 23,349244,Alta
+3140,Almacen 22,Administrador 3,196625,Baja
+3142,Almacen 13,Administrador 21,499897,Alta
+3148,Almacen 37,Administrador 19,306044,Media
+3151,Almacen 37,Administrador 11,353415,Media
+3153,Almacen 10,Administrador 15,608989,Baja
+3154,Almacen 42,Administrador 9,964421,Media
+3159,Almacen 43,Administrador 5,946877,Baja
+3166,Almacen 10,Administrador 9,642814,Media
+3168,Almacen 9,Administrador 10,734547,Media
+3170,Almacen 32,Administrador 17,582782,Media
+3172,Almacen 44,Administrador 1,818188,Media
+3173,Almacen 48,Administrador 25,428074,Alta
+3175,Almacen 45,Administrador 11,665093,Baja
+3180,Almacen 47,Administrador 25,609852,Media
+3184,Almacen 8,Administrador 15,686330,Alta
+3185,Almacen 22,Administrador 6,288402,Alta
+3187,Almacen 28,Administrador 20,864620,Baja
+3189,Almacen 18,Administrador 15,950345,Baja
+3191,Almacen 18,Administrador 22,677570,Alta
+3194,Almacen 29,Administrador 11,630079,Media
+3195,Almacen 39,Administrador 4,711417,Baja
+3198,Almacen 30,Administrador 8,555491,Baja
+3201,Almacen 11,Administrador 2,356635,Baja
+3202,Almacen 22,Administrador 25,746827,Baja
+3203,Almacen 48,Administrador 25,341133,Media
+3206,Almacen 40,Administrador 1,986431,Media
+3207,Almacen 3,Administrador 24,176031,Media
+3210,Almacen 22,Administrador 21,438302,Baja
+3216,Almacen 41,Administrador 24,624193,Baja
+3219,Almacen 28,Administrador 11,958823,Alta
+3221,Almacen 10,Administrador 19,967942,Baja
+3224,Almacen 32,Administrador 5,357730,Alta
+3226,Almacen 32,Administrador 5,114108,Alta
+3228,Almacen 25,Administrador 19,473192,Alta
+3230,Almacen 16,Administrador 7,891086,Alta
+3235,Almacen 1,Administrador 23,707310,Media
+3239,Almacen 40,Administrador 14,531967,Baja
+3242,Almacen 1,Administrador 1,128022,Media
+3245,Almacen 49,Administrador 2,103951,Media
+3248,Almacen 31,Administrador 20,988507,Alta
+3256,Almacen 49,Administrador 7,630481,Media
+3257,Almacen 12,Administrador 4,415985,Media
+3259,Almacen 45,Administrador 1,578697,Baja
+3260,Almacen 17,Administrador 10,626483,Media
+3263,Almacen 0,Administrador 12,858587,Media
+3281,Almacen 37,Administrador 18,606369,Alta
+3283,Almacen 19,Administrador 24,574097,Media
+3284,Almacen 1,Administrador 17,505725,Alta
+3290,Almacen 48,Administrador 20,353889,Alta
+3298,Almacen 23,Administrador 25,853767,Media
+3299,Almacen 28,Administrador 18,897314,Baja
+3307,Almacen 41,Administrador 18,517379,Media
+3310,Almacen 39,Administrador 18,414042,Media
+3311,Almacen 29,Administrador 7,507452,Alta
+3314,Almacen 15,Administrador 13,118072,Media
+3321,Almacen 16,Administrador 19,546261,Media
+3322,Almacen 43,Administrador 23,500506,Alta
+3329,Almacen 37,Administrador 23,474471,Media
+3336,Almacen 38,Administrador 13,623674,Alta
+3340,Almacen 16,Administrador 14,982218,Alta
+3347,Almacen 36,Administrador 13,783519,Baja
+3348,Almacen 10,Administrador 20,850523,Alta
+3349,Almacen 23,Administrador 16,856716,Media
+3351,Almacen 46,Administrador 25,922207,Media
+3353,Almacen 40,Administrador 5,736857,Media
+3354,Almacen 25,Administrador 12,874377,Media
+3356,Almacen 1,Administrador 24,923723,Baja
+3359,Almacen 22,Administrador 9,145772,Baja
+3365,Almacen 49,Administrador 15,335152,Media
+3367,Almacen 45,Administrador 4,141116,Media
+3375,Almacen 0,Administrador 10,961740,Baja
+3380,Almacen 13,Administrador 19,528198,Alta
+3382,Almacen 35,Administrador 5,181619,Alta
+3386,Almacen 39,Administrador 23,849466,Media
+3387,Almacen 16,Administrador 19,252558,Baja
+3389,Almacen 9,Administrador 1,368494,Baja
+3393,Almacen 28,Administrador 16,525087,Media
+3394,Almacen 19,Administrador 16,873420,Alta
+3397,Almacen 41,Administrador 19,641211,Media
+3401,Almacen 29,Administrador 10,362357,Alta
+3404,Almacen 42,Administrador 2,654617,Baja
+3406,Almacen 40,Administrador 17,805125,Media
+3407,Almacen 10,Administrador 8,734355,Media
+3410,Almacen 32,Administrador 25,237063,Alta
+3413,Almacen 6,Administrador 15,475577,Alta
+3416,Almacen 24,Administrador 10,308665,Media
+3418,Almacen 41,Administrador 5,698574,Media
+3419,Almacen 13,Administrador 8,606063,Baja
+3423,Almacen 15,Administrador 2,561991,Baja
+3427,Almacen 3,Administrador 9,991647,Media
+3429,Almacen 29,Administrador 20,888908,Alta
+3432,Almacen 12,Administrador 23,304705,Alta
+3433,Almacen 47,Administrador 23,234335,Baja
+3437,Almacen 24,Administrador 25,213973,Baja
+3438,Almacen 46,Administrador 9,110258,Baja
+3440,Almacen 47,Administrador 9,660727,Baja
+3442,Almacen 43,Administrador 9,103141,Baja
+3446,Almacen 12,Administrador 3,770536,Media
+3451,Almacen 36,Administrador 8,653891,Media
+3452,Almacen 15,Administrador 11,163479,Media
+3453,Almacen 5,Administrador 23,799931,Baja
+3456,Almacen 24,Administrador 9,880874,Media
+3459,Almacen 25,Administrador 15,406722,Media
+3464,Almacen 9,Administrador 18,840745,Alta
+3470,Almacen 42,Administrador 9,432610,Media
+3478,Almacen 11,Administrador 2,692064,Alta
+3484,Almacen 19,Administrador 10,584543,Media
+3485,Almacen 43,Administrador 18,186665,Media
+3487,Almacen 36,Administrador 25,692711,Media
+3488,Almacen 20,Administrador 24,381235,Alta
+3496,Almacen 31,Administrador 25,591931,Media
+3497,Almacen 49,Administrador 8,691081,Alta
+3498,Almacen 35,Administrador 23,839207,Alta
+3503,Almacen 34,Administrador 14,538480,Alta
+3504,Almacen 19,Administrador 13,941678,Baja
+3507,Almacen 26,Administrador 16,196482,Baja
+3515,Almacen 10,Administrador 21,745243,Baja
+3516,Almacen 15,Administrador 9,256382,Alta
+3518,Almacen 34,Administrador 23,910609,Alta
+3523,Almacen 6,Administrador 14,295189,Alta
+3530,Almacen 42,Administrador 22,145796,Baja
+3531,Almacen 40,Administrador 22,316363,Media
+3538,Almacen 4,Administrador 18,102800,Baja
+3539,Almacen 46,Administrador 17,530890,Alta
+3540,Almacen 32,Administrador 15,143548,Alta
+3543,Almacen 44,Administrador 25,253279,Media
+3550,Almacen 23,Administrador 12,951345,Media
+3553,Almacen 25,Administrador 14,327687,Media
+3572,Almacen 19,Administrador 3,476733,Baja
+3574,Almacen 39,Administrador 16,489086,Alta
+3576,Almacen 25,Administrador 6,164131,Alta
+3578,Almacen 4,Administrador 2,421717,Baja
+3579,Almacen 15,Administrador 10,914397,Baja
+3582,Almacen 45,Administrador 22,281708,Media
+3585,Almacen 29,Administrador 12,637478,Baja
+3587,Almacen 14,Administrador 25,773117,Baja
+3591,Almacen 48,Administrador 25,256871,Baja
+3592,Almacen 44,Administrador 25,446157,Alta
+3593,Almacen 15,Administrador 4,288839,Baja
+3598,Almacen 13,Administrador 1,805494,Alta
+3601,Almacen 39,Administrador 2,502042,Media
+3604,Almacen 34,Administrador 22,220205,Media
+3609,Almacen 25,Administrador 5,286849,Baja
+3610,Almacen 45,Administrador 23,350367,Alta
+3613,Almacen 4,Administrador 25,826016,Media
+3614,Almacen 4,Administrador 23,821259,Alta
+3615,Almacen 7,Administrador 22,163790,Alta
+3616,Almacen 14,Administrador 22,136064,Baja
+3617,Almacen 7,Administrador 22,681387,Media
+3618,Almacen 4,Administrador 7,267884,Media
+3620,Almacen 11,Administrador 23,715912,Baja
+3624,Almacen 9,Administrador 8,320486,Alta
+3626,Almacen 10,Administrador 13,794578,Alta
+3631,Almacen 0,Administrador 15,674669,Media
+3632,Almacen 5,Administrador 1,869025,Media
+3633,Almacen 20,Administrador 14,103670,Media
+3639,Almacen 28,Administrador 9,269020,Alta
+3642,Almacen 12,Administrador 20,330923,Media
+3649,Almacen 46,Administrador 21,420662,Baja
+3653,Almacen 46,Administrador 11,422924,Baja
+3654,Almacen 34,Administrador 12,166193,Alta
+3658,Almacen 13,Administrador 20,223805,Baja
+3659,Almacen 7,Administrador 8,433474,Baja
+3661,Almacen 43,Administrador 19,796749,Media
+3664,Almacen 17,Administrador 23,561333,Alta
+3668,Almacen 42,Administrador 11,534526,Media
+3670,Almacen 40,Administrador 10,556973,Baja
+3674,Almacen 27,Administrador 17,106465,Alta
+3676,Almacen 31,Administrador 4,981279,Baja
+3681,Almacen 21,Administrador 11,617844,Media
+3682,Almacen 38,Administrador 20,890199,Media
+3683,Almacen 39,Administrador 10,208075,Baja
+3684,Almacen 16,Administrador 14,710835,Media
+3685,Almacen 40,Administrador 2,271788,Alta
+3686,Almacen 13,Administrador 9,238207,Baja
+3688,Almacen 23,Administrador 16,323505,Media
+3692,Almacen 9,Administrador 6,853691,Alta
+3695,Almacen 27,Administrador 12,291920,Baja
+3697,Almacen 41,Administrador 24,288631,Baja
+3700,Almacen 16,Administrador 25,187054,Baja
+3701,Almacen 2,Administrador 3,932279,Baja
+3702,Almacen 10,Administrador 19,569913,Alta
+3703,Almacen 35,Administrador 15,680522,Alta
+3705,Almacen 0,Administrador 8,231475,Alta
+3706,Almacen 3,Administrador 5,108418,Baja
+3707,Almacen 37,Administrador 2,607030,Baja
+3710,Almacen 23,Administrador 11,285166,Media
+3716,Almacen 44,Administrador 22,295907,Baja
+3718,Almacen 42,Administrador 10,417152,Alta
+3720,Almacen 26,Administrador 8,830430,Media
+3721,Almacen 39,Administrador 6,286672,Baja
+3724,Almacen 45,Administrador 14,798238,Media
+3725,Almacen 41,Administrador 1,962023,Media
+3727,Almacen 28,Administrador 10,560963,Baja
+3732,Almacen 7,Administrador 24,777298,Baja
+3733,Almacen 29,Administrador 13,729657,Media
+3735,Almacen 15,Administrador 15,170489,Baja
+3736,Almacen 31,Administrador 1,564829,Baja
+3741,Almacen 37,Administrador 17,550077,Media
+3742,Almacen 39,Administrador 23,558245,Media
+3743,Almacen 47,Administrador 6,159932,Media
+3748,Almacen 22,Administrador 6,740804,Alta
+3750,Almacen 37,Administrador 20,781188,Media
+3752,Almacen 48,Administrador 24,966771,Baja
+3759,Almacen 29,Administrador 14,781321,Alta
+3760,Almacen 14,Administrador 5,643008,Baja
+3761,Almacen 32,Administrador 23,683834,Alta
+3767,Almacen 40,Administrador 4,417004,Baja
+3769,Almacen 11,Administrador 19,879357,Media
+3773,Almacen 42,Administrador 14,592169,Baja
+3776,Almacen 36,Administrador 22,370644,Media
+3777,Almacen 43,Administrador 18,574542,Media
+3783,Almacen 7,Administrador 19,186573,Alta
+3786,Almacen 14,Administrador 6,595433,Alta
+3787,Almacen 24,Administrador 23,423156,Media
+3790,Almacen 37,Administrador 6,451971,Media
+3791,Almacen 21,Administrador 20,784508,Alta
+3797,Almacen 43,Administrador 8,235898,Media
+3802,Almacen 9,Administrador 25,819660,Media
+3809,Almacen 18,Administrador 11,549557,Alta
+3810,Almacen 22,Administrador 13,488895,Baja
+3815,Almacen 2,Administrador 23,529270,Media
+3817,Almacen 2,Administrador 8,139918,Alta
+3819,Almacen 48,Administrador 1,172282,Alta
+3821,Almacen 26,Administrador 13,797202,Media
+3822,Almacen 38,Administrador 20,232676,Baja
+3824,Almacen 40,Administrador 3,290293,Alta
+3826,Almacen 17,Administrador 11,983536,Media
+3830,Almacen 17,Administrador 19,221601,Baja
+3832,Almacen 20,Administrador 23,252343,Media
+3836,Almacen 14,Administrador 17,771467,Media
+3838,Almacen 36,Administrador 4,298961,Media
+3842,Almacen 17,Administrador 25,879093,Baja
+3853,Almacen 17,Administrador 9,388375,Alta
+3854,Almacen 11,Administrador 11,186778,Baja
+3859,Almacen 44,Administrador 24,178056,Media
+3860,Almacen 27,Administrador 17,933275,Alta
+3861,Almacen 33,Administrador 10,126055,Alta
+3864,Almacen 29,Administrador 15,392703,Media
+3865,Almacen 46,Administrador 3,979703,Baja
+3868,Almacen 26,Administrador 21,362996,Media
+3870,Almacen 33,Administrador 8,138036,Baja
+3872,Almacen 14,Administrador 9,453971,Baja
+3873,Almacen 5,Administrador 10,581002,Alta
+3877,Almacen 2,Administrador 21,482457,Alta
+3879,Almacen 21,Administrador 18,260720,Alta
+3881,Almacen 36,Administrador 23,569372,Alta
+3883,Almacen 14,Administrador 15,557602,Alta
+3887,Almacen 43,Administrador 21,807293,Baja
+3888,Almacen 48,Administrador 1,541503,Alta
+3889,Almacen 13,Administrador 10,139560,Baja
+3890,Almacen 15,Administrador 18,293013,Alta
+3893,Almacen 29,Administrador 6,321811,Media
+3899,Almacen 38,Administrador 24,858394,Baja
+3901,Almacen 15,Administrador 21,189456,Alta
+3902,Almacen 20,Administrador 11,644085,Alta
+3904,Almacen 12,Administrador 10,816061,Alta
+3907,Almacen 20,Administrador 12,407688,Media
+3910,Almacen 49,Administrador 19,476580,Alta
+3911,Almacen 37,Administrador 14,526541,Media
+3917,Almacen 21,Administrador 19,491120,Baja
+3921,Almacen 16,Administrador 24,628913,Baja
+3924,Almacen 1,Administrador 5,639525,Media
+3931,Almacen 34,Administrador 17,756204,Alta
+3932,Almacen 0,Administrador 11,337671,Media
+3934,Almacen 8,Administrador 12,710141,Alta
+3936,Almacen 1,Administrador 24,543565,Alta
+3939,Almacen 32,Administrador 14,558813,Alta
+3942,Almacen 47,Administrador 2,692536,Media
+3944,Almacen 14,Administrador 9,251830,Alta
+3946,Almacen 7,Administrador 4,179483,Media
+3947,Almacen 32,Administrador 13,918052,Baja
+3955,Almacen 4,Administrador 6,145669,Media
+3958,Almacen 31,Administrador 6,821328,Baja
+3961,Almacen 39,Administrador 4,739630,Baja
+3962,Almacen 18,Administrador 2,369974,Alta
+3963,Almacen 25,Administrador 25,598802,Baja
+3968,Almacen 39,Administrador 12,685604,Alta
+3970,Almacen 1,Administrador 11,506504,Media
+3973,Almacen 12,Administrador 8,646764,Alta
+3980,Almacen 31,Administrador 6,643882,Alta
+3981,Almacen 19,Administrador 9,211941,Alta
+3982,Almacen 46,Administrador 21,290716,Baja
+3986,Almacen 29,Administrador 16,760720,Alta
+3995,Almacen 38,Administrador 9,302898,Media
+3996,Almacen 25,Administrador 9,860320,Alta
+3997,Almacen 28,Administrador 18,659711,Baja

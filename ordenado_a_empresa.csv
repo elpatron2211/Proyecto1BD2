@@ -1,1356 +1,1312 @@
-0,1
-documento,empresa
-1,Empresa 1
-5,Empresa 143
-11,Empresa 185
-13,Empresa 177
-15,Empresa 110
-22,Empresa 171
-23,Empresa 57
-26,Empresa 148
-27,Empresa 134
-28,Empresa 20
-32,Empresa 41
-35,Empresa 195
-36,Empresa 61
-41,Empresa 138
-42,Empresa 91
-45,Empresa 10
-48,Empresa 69
-49,Empresa 87
-51,Empresa 72
-52,Empresa 109
-55,Empresa 142
-56,Empresa 66
-61,Empresa 54
-63,Empresa 107
-68,Empresa 135
-70,Empresa 69
-73,Empresa 91
-77,Empresa 65
-78,Empresa 195
-84,Empresa 199
-88,Empresa 109
-89,Empresa 144
-94,Empresa 130
-98,Empresa 177
-99,Empresa 154
-100,Empresa 37
-101,Empresa 65
-104,Empresa 56
-109,Empresa 76
-115,Empresa 144
-116,Empresa 86
-117,Empresa 76
-126,Empresa 177
-129,Empresa 1
-133,Empresa 132
-134,Empresa 70
-140,Empresa 100
-141,Empresa 7
-144,Empresa 54
-145,Empresa 155
-146,Empresa 17
-147,Empresa 16
-148,Empresa 135
-149,Empresa 79
-152,Empresa 191
-154,Empresa 157
-158,Empresa 46
-160,Empresa 108
-162,Empresa 37
-164,Empresa 119
-167,Empresa 142
-168,Empresa 135
-169,Empresa 33
-176,Empresa 151
-188,Empresa 107
-190,Empresa 108
-200,Empresa 91
-201,Empresa 93
-214,Empresa 198
-216,Empresa 48
-218,Empresa 106
-220,Empresa 129
-221,Empresa 93
-224,Empresa 162
-225,Empresa 57
-226,Empresa 164
-230,Empresa 37
-241,Empresa 62
-243,Empresa 1
-248,Empresa 191
-250,Empresa 107
-252,Empresa 11
-256,Empresa 154
-257,Empresa 75
-263,Empresa 57
-270,Empresa 28
-271,Empresa 119
-273,Empresa 166
-274,Empresa 7
-276,Empresa 11
-278,Empresa 75
-280,Empresa 51
-285,Empresa 14
-286,Empresa 64
-287,Empresa 106
-289,Empresa 22
-290,Empresa 157
-295,Empresa 91
-296,Empresa 129
-297,Empresa 149
-298,Empresa 185
-301,Empresa 66
-302,Empresa 136
-305,Empresa 20
-306,Empresa 46
-310,Empresa 89
-311,Empresa 133
-312,Empresa 191
-313,Empresa 109
-316,Empresa 119
-318,Empresa 177
-319,Empresa 7
-320,Empresa 134
-321,Empresa 7
-322,Empresa 137
-323,Empresa 57
-324,Empresa 72
-331,Empresa 187
-332,Empresa 62
-334,Empresa 125
-336,Empresa 15
-341,Empresa 66
-344,Empresa 89
-345,Empresa 5
-346,Empresa 176
-349,Empresa 133
-351,Empresa 187
-353,Empresa 165
-356,Empresa 134
-358,Empresa 177
-363,Empresa 187
-366,Empresa 134
-367,Empresa 177
-369,Empresa 132
-375,Empresa 5
-376,Empresa 185
-378,Empresa 41
-379,Empresa 70
-381,Empresa 131
-382,Empresa 5
-386,Empresa 134
-392,Empresa 24
-395,Empresa 72
-400,Empresa 171
-401,Empresa 129
-402,Empresa 100
-405,Empresa 76
-407,Empresa 175
-416,Empresa 187
-417,Empresa 6
-420,Empresa 58
-423,Empresa 9
-424,Empresa 123
-425,Empresa 113
-426,Empresa 133
-429,Empresa 110
-434,Empresa 135
-436,Empresa 162
-440,Empresa 89
-444,Empresa 136
-446,Empresa 37
-447,Empresa 17
-448,Empresa 69
-455,Empresa 28
-458,Empresa 16
-459,Empresa 22
-461,Empresa 192
-463,Empresa 187
-467,Empresa 91
-470,Empresa 15
-472,Empresa 66
-473,Empresa 46
-475,Empresa 125
-477,Empresa 185
-478,Empresa 91
-482,Empresa 47
-484,Empresa 133
-490,Empresa 79
-494,Empresa 176
-495,Empresa 129
-498,Empresa 28
-499,Empresa 91
-500,Empresa 56
-501,Empresa 191
-503,Empresa 171
-504,Empresa 9
-507,Empresa 64
-510,Empresa 176
-513,Empresa 89
-514,Empresa 68
-516,Empresa 38
-519,Empresa 15
-523,Empresa 25
-527,Empresa 100
-528,Empresa 175
-539,Empresa 142
-540,Empresa 95
-541,Empresa 165
-544,Empresa 38
-549,Empresa 194
-551,Empresa 48
-556,Empresa 79
-560,Empresa 128
-562,Empresa 143
-569,Empresa 68
-570,Empresa 72
-576,Empresa 87
-580,Empresa 135
-581,Empresa 142
-588,Empresa 130
-589,Empresa 157
-591,Empresa 199
-592,Empresa 131
-593,Empresa 108
-594,Empresa 143
-605,Empresa 143
-606,Empresa 104
-610,Empresa 119
-611,Empresa 195
-618,Empresa 119
-622,Empresa 131
-624,Empresa 132
-628,Empresa 133
-633,Empresa 1
-635,Empresa 159
-637,Empresa 49
-643,Empresa 49
-644,Empresa 192
-647,Empresa 110
-648,Empresa 131
-649,Empresa 54
-650,Empresa 22
-653,Empresa 109
-655,Empresa 51
-657,Empresa 72
-658,Empresa 143
-659,Empresa 142
-678,Empresa 100
-679,Empresa 14
-680,Empresa 194
-681,Empresa 149
-686,Empresa 17
-687,Empresa 1
-690,Empresa 187
-695,Empresa 69
-701,Empresa 154
-702,Empresa 109
-705,Empresa 75
-707,Empresa 129
-710,Empresa 155
-712,Empresa 142
-714,Empresa 143
-715,Empresa 136
-716,Empresa 68
-719,Empresa 59
-720,Empresa 71
-721,Empresa 56
-722,Empresa 175
-723,Empresa 38
-731,Empresa 57
-732,Empresa 57
-733,Empresa 9
-739,Empresa 16
-745,Empresa 14
-749,Empresa 61
-750,Empresa 184
-751,Empresa 141
-753,Empresa 142
-754,Empresa 166
-755,Empresa 1
-761,Empresa 104
-762,Empresa 198
-763,Empresa 29
-764,Empresa 71
-765,Empresa 14
-767,Empresa 159
-775,Empresa 1
-776,Empresa 46
-777,Empresa 144
-778,Empresa 132
-780,Empresa 142
-787,Empresa 25
-789,Empresa 154
-790,Empresa 93
-798,Empresa 134
-799,Empresa 16
-800,Empresa 107
-804,Empresa 138
-807,Empresa 199
-815,Empresa 194
-819,Empresa 195
-822,Empresa 15
-824,Empresa 22
-825,Empresa 10
-832,Empresa 113
-838,Empresa 1
-839,Empresa 109
-840,Empresa 15
-845,Empresa 49
-846,Empresa 54
-847,Empresa 91
-848,Empresa 25
-853,Empresa 86
-856,Empresa 154
-857,Empresa 149
-858,Empresa 165
-867,Empresa 68
-870,Empresa 141
-874,Empresa 192
-882,Empresa 79
-884,Empresa 159
-886,Empresa 59
-887,Empresa 16
-888,Empresa 7
-889,Empresa 176
-890,Empresa 41
-891,Empresa 65
-892,Empresa 57
-893,Empresa 76
-901,Empresa 29
-902,Empresa 164
-904,Empresa 157
-905,Empresa 175
-906,Empresa 104
-907,Empresa 46
-910,Empresa 143
-914,Empresa 199
-917,Empresa 185
-924,Empresa 64
-932,Empresa 198
-935,Empresa 119
-942,Empresa 154
-943,Empresa 64
-953,Empresa 125
-954,Empresa 192
-959,Empresa 165
-961,Empresa 17
-974,Empresa 134
-977,Empresa 164
-982,Empresa 56
-985,Empresa 110
-987,Empresa 11
-988,Empresa 185
-989,Empresa 142
-994,Empresa 141
-1001,Empresa 41
-1002,Empresa 187
-1005,Empresa 65
-1006,Empresa 106
-1009,Empresa 20
-1011,Empresa 16
-1017,Empresa 89
-1020,Empresa 25
-1024,Empresa 113
-1026,Empresa 133
-1028,Empresa 185
-1029,Empresa 75
-1032,Empresa 64
-1033,Empresa 66
-1038,Empresa 157
-1042,Empresa 9
-1044,Empresa 38
-1050,Empresa 151
-1051,Empresa 141
-1054,Empresa 113
-1058,Empresa 143
-1063,Empresa 100
-1066,Empresa 17
-1069,Empresa 157
-1070,Empresa 149
-1076,Empresa 144
-1084,Empresa 113
-1087,Empresa 7
-1089,Empresa 185
-1091,Empresa 166
-1098,Empresa 11
-1102,Empresa 61
-1105,Empresa 76
-1109,Empresa 9
-1111,Empresa 109
-1113,Empresa 194
-1118,Empresa 171
-1120,Empresa 143
-1121,Empresa 185
-1126,Empresa 137
-1127,Empresa 10
-1129,Empresa 104
-1130,Empresa 49
-1134,Empresa 38
-1140,Empresa 15
-1142,Empresa 91
-1145,Empresa 69
-1146,Empresa 33
-1147,Empresa 64
-1151,Empresa 157
-1152,Empresa 148
-1153,Empresa 37
-1154,Empresa 70
-1160,Empresa 48
-1161,Empresa 108
-1162,Empresa 175
-1169,Empresa 49
-1170,Empresa 49
-1173,Empresa 70
-1174,Empresa 57
-1177,Empresa 166
-1179,Empresa 194
-1183,Empresa 162
-1186,Empresa 144
-1187,Empresa 165
-1188,Empresa 162
-1189,Empresa 143
-1196,Empresa 37
-1200,Empresa 119
-1201,Empresa 87
-1205,Empresa 148
-1208,Empresa 15
-1221,Empresa 87
-1222,Empresa 22
-1223,Empresa 106
-1225,Empresa 195
-1227,Empresa 166
-1229,Empresa 143
-1234,Empresa 58
-1235,Empresa 171
-1236,Empresa 129
-1238,Empresa 25
-1240,Empresa 22
-1241,Empresa 198
-1244,Empresa 61
-1250,Empresa 91
-1251,Empresa 20
-1253,Empresa 166
-1254,Empresa 5
-1256,Empresa 157
-1259,Empresa 119
-1261,Empresa 59
-1264,Empresa 135
-1266,Empresa 57
-1267,Empresa 131
-1269,Empresa 108
-1270,Empresa 37
-1272,Empresa 59
-1273,Empresa 132
-1278,Empresa 109
-1283,Empresa 129
-1284,Empresa 187
-1287,Empresa 154
-1288,Empresa 100
-1293,Empresa 165
-1294,Empresa 134
-1303,Empresa 28
-1304,Empresa 110
-1311,Empresa 184
-1314,Empresa 133
-1318,Empresa 65
-1325,Empresa 61
-1334,Empresa 48
-1335,Empresa 69
-1337,Empresa 41
-1339,Empresa 185
-1343,Empresa 134
-1347,Empresa 24
-1348,Empresa 106
-1354,Empresa 135
-1355,Empresa 130
-1357,Empresa 22
-1359,Empresa 86
-1363,Empresa 25
-1367,Empresa 48
-1368,Empresa 7
-1371,Empresa 164
-1373,Empresa 151
-1374,Empresa 6
-1377,Empresa 130
-1382,Empresa 141
-1384,Empresa 79
-1388,Empresa 91
-1389,Empresa 128
-1391,Empresa 54
-1405,Empresa 195
-1406,Empresa 69
-1412,Empresa 129
-1415,Empresa 110
-1416,Empresa 144
-1418,Empresa 135
-1419,Empresa 109
-1420,Empresa 86
-1421,Empresa 198
-1424,Empresa 136
-1425,Empresa 65
-1426,Empresa 16
-1430,Empresa 69
-1432,Empresa 14
-1436,Empresa 109
-1441,Empresa 54
-1453,Empresa 29
-1459,Empresa 107
-1460,Empresa 89
-1463,Empresa 70
-1465,Empresa 119
-1466,Empresa 58
-1472,Empresa 137
-1473,Empresa 89
-1477,Empresa 131
-1478,Empresa 62
-1479,Empresa 177
-1481,Empresa 133
-1482,Empresa 46
-1483,Empresa 68
-1484,Empresa 91
-1487,Empresa 66
-1488,Empresa 24
-1489,Empresa 159
-1494,Empresa 191
-1495,Empresa 175
-1502,Empresa 93
-1504,Empresa 71
-1507,Empresa 38
-1508,Empresa 65
-1509,Empresa 40
-1510,Empresa 29
-1512,Empresa 33
-1516,Empresa 56
-1517,Empresa 15
-1520,Empresa 192
-1521,Empresa 123
-1523,Empresa 151
-1525,Empresa 71
-1526,Empresa 14
-1532,Empresa 107
-1533,Empresa 125
-1543,Empresa 151
-1544,Empresa 184
-1547,Empresa 91
-1556,Empresa 86
-1557,Empresa 100
-1561,Empresa 61
-1562,Empresa 38
-1569,Empresa 144
-1570,Empresa 151
-1578,Empresa 20
-1580,Empresa 138
-1581,Empresa 106
-1582,Empresa 104
-1585,Empresa 87
-1586,Empresa 148
-1588,Empresa 65
-1594,Empresa 142
-1607,Empresa 95
-1616,Empresa 148
-1618,Empresa 76
-1622,Empresa 110
-1626,Empresa 144
-1629,Empresa 16
-1630,Empresa 28
-1639,Empresa 134
-1642,Empresa 87
-1643,Empresa 171
-1644,Empresa 56
-1646,Empresa 192
-1648,Empresa 54
-1650,Empresa 199
-1653,Empresa 15
-1655,Empresa 33
-1661,Empresa 125
-1667,Empresa 109
-1673,Empresa 177
-1679,Empresa 148
-1681,Empresa 194
-1684,Empresa 141
-1685,Empresa 28
-1692,Empresa 29
-1693,Empresa 58
-1694,Empresa 113
-1697,Empresa 131
-1698,Empresa 47
-1702,Empresa 46
-1708,Empresa 29
-1709,Empresa 191
-1710,Empresa 125
-1711,Empresa 134
-1713,Empresa 187
-1716,Empresa 162
-1720,Empresa 199
-1721,Empresa 143
-1722,Empresa 199
-1723,Empresa 100
-1726,Empresa 79
-1727,Empresa 184
-1730,Empresa 194
-1734,Empresa 86
-1735,Empresa 144
-1736,Empresa 198
-1738,Empresa 28
-1742,Empresa 195
-1744,Empresa 155
-1749,Empresa 64
-1754,Empresa 14
-1755,Empresa 162
-1757,Empresa 113
-1758,Empresa 176
-1762,Empresa 22
-1765,Empresa 95
-1766,Empresa 64
-1767,Empresa 75
-1768,Empresa 155
-1773,Empresa 20
-1776,Empresa 135
-1781,Empresa 199
-1784,Empresa 28
-1788,Empresa 151
-1791,Empresa 40
-1796,Empresa 137
-1798,Empresa 185
-1799,Empresa 135
-1800,Empresa 87
-1805,Empresa 70
-1806,Empresa 148
-1807,Empresa 187
-1809,Empresa 144
-1813,Empresa 133
-1815,Empresa 194
-1816,Empresa 64
-1819,Empresa 162
-1826,Empresa 108
-1830,Empresa 89
-1840,Empresa 58
-1846,Empresa 195
-1847,Empresa 184
-1848,Empresa 176
-1852,Empresa 191
-1853,Empresa 38
-1856,Empresa 131
-1857,Empresa 138
-1858,Empresa 9
-1859,Empresa 71
-1863,Empresa 129
-1864,Empresa 119
-1867,Empresa 71
-1872,Empresa 16
-1875,Empresa 89
-1876,Empresa 16
-1880,Empresa 192
-1884,Empresa 109
-1885,Empresa 76
-1890,Empresa 6
-1892,Empresa 104
-1895,Empresa 57
-1896,Empresa 155
-1897,Empresa 108
-1898,Empresa 5
-1901,Empresa 11
-1904,Empresa 171
-1908,Empresa 192
-1909,Empresa 149
-1913,Empresa 48
-1914,Empresa 71
-1916,Empresa 176
-1920,Empresa 33
-1923,Empresa 51
-1924,Empresa 62
-1926,Empresa 100
-1930,Empresa 133
-1931,Empresa 171
-1934,Empresa 171
-1940,Empresa 51
-1943,Empresa 155
-1945,Empresa 108
-1946,Empresa 48
-1948,Empresa 28
-1953,Empresa 25
-1954,Empresa 48
-1957,Empresa 56
-1969,Empresa 144
-1970,Empresa 149
-1972,Empresa 11
-1976,Empresa 79
-1978,Empresa 199
-1985,Empresa 17
-1987,Empresa 38
-1989,Empresa 59
-1991,Empresa 65
-1992,Empresa 194
-1997,Empresa 70
-2000,Empresa 75
-2002,Empresa 148
-2012,Empresa 56
-2017,Empresa 14
-2020,Empresa 199
-2022,Empresa 20
-2030,Empresa 100
-2037,Empresa 154
-2039,Empresa 171
-2043,Empresa 56
-2044,Empresa 184
-2045,Empresa 61
-2048,Empresa 17
-2049,Empresa 70
-2052,Empresa 11
-2055,Empresa 58
-2072,Empresa 20
-2073,Empresa 24
-2074,Empresa 175
-2079,Empresa 66
-2080,Empresa 89
-2082,Empresa 9
-2087,Empresa 130
-2094,Empresa 107
-2095,Empresa 123
-2097,Empresa 61
-2101,Empresa 194
-2104,Empresa 61
-2106,Empresa 155
-2108,Empresa 6
-2109,Empresa 38
-2110,Empresa 175
-2112,Empresa 164
-2113,Empresa 138
-2114,Empresa 106
-2116,Empresa 110
-2119,Empresa 20
-2122,Empresa 28
-2124,Empresa 93
-2125,Empresa 125
-2126,Empresa 185
-2127,Empresa 136
-2129,Empresa 157
-2132,Empresa 177
-2134,Empresa 157
-2135,Empresa 108
-2136,Empresa 28
-2137,Empresa 69
-2140,Empresa 91
-2142,Empresa 23
-2146,Empresa 142
-2151,Empresa 136
-2152,Empresa 132
-2159,Empresa 29
-2161,Empresa 95
-2169,Empresa 162
-2171,Empresa 128
-2174,Empresa 89
-2176,Empresa 56
-2177,Empresa 149
-2180,Empresa 128
-2183,Empresa 134
-2189,Empresa 64
-2195,Empresa 119
-2196,Empresa 187
-2197,Empresa 165
-2198,Empresa 123
-2199,Empresa 16
-2200,Empresa 141
-2201,Empresa 69
-2202,Empresa 76
-2203,Empresa 54
-2210,Empresa 28
-2212,Empresa 138
-2219,Empresa 177
-2220,Empresa 38
-2222,Empresa 14
-2230,Empresa 141
-2235,Empresa 128
-2236,Empresa 14
-2237,Empresa 177
-2239,Empresa 25
-2240,Empresa 23
-2247,Empresa 76
-2248,Empresa 9
-2252,Empresa 134
-2254,Empresa 61
-2256,Empresa 62
-2257,Empresa 11
-2259,Empresa 1
-2263,Empresa 136
-2264,Empresa 38
-2266,Empresa 6
-2269,Empresa 106
-2272,Empresa 185
-2276,Empresa 59
-2282,Empresa 184
-2283,Empresa 93
-2284,Empresa 24
-2285,Empresa 91
-2292,Empresa 199
-2294,Empresa 113
-2299,Empresa 9
-2300,Empresa 61
-2301,Empresa 6
-2302,Empresa 87
-2303,Empresa 100
-2309,Empresa 175
-2310,Empresa 191
-2311,Empresa 142
-2314,Empresa 75
-2316,Empresa 41
-2320,Empresa 49
-2325,Empresa 14
-2327,Empresa 89
-2329,Empresa 162
-2334,Empresa 162
-2337,Empresa 148
-2339,Empresa 75
-2340,Empresa 134
-2343,Empresa 171
-2352,Empresa 132
-2353,Empresa 62
-2356,Empresa 187
-2358,Empresa 89
-2364,Empresa 165
-2374,Empresa 29
-2375,Empresa 41
-2377,Empresa 23
-2378,Empresa 46
-2383,Empresa 91
-2384,Empresa 155
-2393,Empresa 38
-2397,Empresa 176
-2399,Empresa 100
-2406,Empresa 40
-2414,Empresa 113
-2416,Empresa 165
-2417,Empresa 89
-2422,Empresa 15
-2427,Empresa 176
-2436,Empresa 54
-2440,Empresa 9
-2441,Empresa 137
-2446,Empresa 138
-2447,Empresa 17
-2451,Empresa 24
-2452,Empresa 151
-2454,Empresa 128
-2456,Empresa 125
-2457,Empresa 128
-2460,Empresa 132
-2462,Empresa 162
-2464,Empresa 154
-2470,Empresa 184
-2471,Empresa 131
-2473,Empresa 165
-2477,Empresa 72
-2480,Empresa 198
-2482,Empresa 104
-2483,Empresa 33
-2484,Empresa 162
-2489,Empresa 198
-2490,Empresa 106
-2491,Empresa 48
-2495,Empresa 66
-2497,Empresa 130
-2498,Empresa 104
-2504,Empresa 15
-2505,Empresa 86
-2509,Empresa 48
-2511,Empresa 95
-2513,Empresa 87
-2520,Empresa 62
-2521,Empresa 61
-2523,Empresa 128
-2526,Empresa 48
-2527,Empresa 22
-2529,Empresa 56
-2532,Empresa 154
-2533,Empresa 148
-2535,Empresa 192
-2537,Empresa 191
-2540,Empresa 151
-2541,Empresa 128
-2543,Empresa 65
-2544,Empresa 144
-2549,Empresa 165
-2553,Empresa 157
-2555,Empresa 75
-2556,Empresa 171
-2558,Empresa 100
-2559,Empresa 154
-2563,Empresa 1
-2564,Empresa 65
-2566,Empresa 56
-2570,Empresa 23
-2573,Empresa 191
-2575,Empresa 70
-2578,Empresa 10
-2583,Empresa 157
-2593,Empresa 132
-2594,Empresa 123
-2598,Empresa 113
-2599,Empresa 65
-2601,Empresa 125
-2618,Empresa 14
-2620,Empresa 61
-2627,Empresa 192
-2631,Empresa 57
-2632,Empresa 135
-2635,Empresa 71
-2636,Empresa 61
-2637,Empresa 29
-2638,Empresa 62
-2639,Empresa 17
-2641,Empresa 123
-2642,Empresa 144
-2645,Empresa 11
-2646,Empresa 61
-2649,Empresa 143
-2651,Empresa 177
-2657,Empresa 144
-2660,Empresa 66
-2661,Empresa 113
-2669,Empresa 149
-2672,Empresa 107
-2679,Empresa 16
-2681,Empresa 64
-2682,Empresa 15
-2692,Empresa 10
-2693,Empresa 59
-2696,Empresa 29
-2697,Empresa 22
-2701,Empresa 113
-2702,Empresa 20
-2703,Empresa 40
-2710,Empresa 6
-2711,Empresa 176
-2712,Empresa 191
-2720,Empresa 6
-2724,Empresa 29
-2726,Empresa 58
-2734,Empresa 166
-2736,Empresa 132
-2742,Empresa 157
-2743,Empresa 29
-2744,Empresa 49
-2747,Empresa 33
-2749,Empresa 184
-2750,Empresa 37
-2758,Empresa 87
-2759,Empresa 184
-2764,Empresa 24
-2765,Empresa 22
-2766,Empresa 106
-2770,Empresa 185
-2774,Empresa 20
-2776,Empresa 134
-2780,Empresa 144
-2784,Empresa 136
-2786,Empresa 7
-2789,Empresa 107
-2792,Empresa 28
-2796,Empresa 138
-2798,Empresa 155
-2800,Empresa 151
-2802,Empresa 64
-2812,Empresa 133
-2817,Empresa 108
-2819,Empresa 93
-2820,Empresa 89
-2821,Empresa 171
-2822,Empresa 155
-2824,Empresa 25
-2827,Empresa 157
-2828,Empresa 38
-2832,Empresa 69
-2834,Empresa 143
-2838,Empresa 24
-2840,Empresa 191
-2842,Empresa 14
-2848,Empresa 171
-2849,Empresa 198
-2857,Empresa 72
-2862,Empresa 29
-2864,Empresa 123
-2870,Empresa 7
-2871,Empresa 89
-2872,Empresa 162
-2875,Empresa 123
-2876,Empresa 157
-2882,Empresa 184
-2888,Empresa 155
-2889,Empresa 191
-2891,Empresa 159
-2893,Empresa 177
-2895,Empresa 95
-2896,Empresa 22
-2897,Empresa 104
-2900,Empresa 199
-2902,Empresa 198
-2908,Empresa 95
-2909,Empresa 70
-2911,Empresa 95
-2912,Empresa 5
-2915,Empresa 110
-2921,Empresa 70
-2922,Empresa 51
-2925,Empresa 198
-2927,Empresa 79
-2929,Empresa 184
-2930,Empresa 28
-2934,Empresa 143
-2937,Empresa 41
-2943,Empresa 129
-2947,Empresa 123
-2948,Empresa 100
-2949,Empresa 144
-2950,Empresa 137
-2951,Empresa 128
-2952,Empresa 149
-2955,Empresa 162
-2956,Empresa 100
-2958,Empresa 17
-2959,Empresa 187
-2960,Empresa 198
-2964,Empresa 87
-2965,Empresa 151
-2967,Empresa 76
-2969,Empresa 14
-2975,Empresa 93
-2978,Empresa 132
-2980,Empresa 184
-2983,Empresa 155
-2984,Empresa 46
-2985,Empresa 16
-2995,Empresa 28
-2996,Empresa 113
-2998,Empresa 123
-3002,Empresa 23
-3003,Empresa 149
-3009,Empresa 144
-3010,Empresa 123
-3013,Empresa 59
-3015,Empresa 5
-3017,Empresa 51
-3019,Empresa 104
-3021,Empresa 72
-3022,Empresa 136
-3026,Empresa 24
-3031,Empresa 185
-3032,Empresa 11
-3033,Empresa 7
-3034,Empresa 1
-3036,Empresa 143
-3037,Empresa 61
-3040,Empresa 148
-3043,Empresa 195
-3046,Empresa 24
-3047,Empresa 46
-3050,Empresa 25
-3052,Empresa 133
-3057,Empresa 22
-3060,Empresa 187
-3064,Empresa 6
-3065,Empresa 89
-3066,Empresa 33
-3067,Empresa 15
-3069,Empresa 164
-3070,Empresa 86
-3072,Empresa 46
-3077,Empresa 46
-3084,Empresa 14
-3086,Empresa 20
-3088,Empresa 143
-3092,Empresa 109
-3101,Empresa 86
-3104,Empresa 149
-3108,Empresa 22
-3109,Empresa 157
-3114,Empresa 142
-3117,Empresa 10
-3120,Empresa 185
-3124,Empresa 51
-3127,Empresa 87
-3132,Empresa 159
-3133,Empresa 148
-3136,Empresa 87
-3138,Empresa 41
-3141,Empresa 11
-3143,Empresa 75
-3149,Empresa 25
-3151,Empresa 16
-3152,Empresa 185
-3153,Empresa 58
-3158,Empresa 9
-3166,Empresa 15
-3168,Empresa 95
-3169,Empresa 37
-3170,Empresa 141
-3171,Empresa 37
-3175,Empresa 70
-3178,Empresa 142
-3179,Empresa 79
-3180,Empresa 14
-3181,Empresa 86
-3182,Empresa 177
-3188,Empresa 72
-3194,Empresa 29
-3201,Empresa 49
-3203,Empresa 9
-3207,Empresa 5
-3208,Empresa 51
-3210,Empresa 159
-3221,Empresa 69
-3223,Empresa 110
-3227,Empresa 109
-3228,Empresa 20
-3230,Empresa 20
-3231,Empresa 166
-3234,Empresa 89
-3236,Empresa 57
-3237,Empresa 191
-3239,Empresa 20
-3241,Empresa 113
-3242,Empresa 151
-3245,Empresa 136
-3248,Empresa 59
-3255,Empresa 9
-3260,Empresa 164
-3262,Empresa 62
-3276,Empresa 72
-3281,Empresa 107
-3282,Empresa 28
-3283,Empresa 151
-3285,Empresa 79
-3287,Empresa 135
-3290,Empresa 192
-3292,Empresa 157
-3293,Empresa 59
-3295,Empresa 17
-3296,Empresa 33
-3297,Empresa 10
-3306,Empresa 119
-3309,Empresa 198
-3312,Empresa 187
-3316,Empresa 33
-3317,Empresa 149
-3319,Empresa 70
-3321,Empresa 54
-3329,Empresa 10
-3331,Empresa 164
-3332,Empresa 14
-3333,Empresa 132
-3338,Empresa 143
-3343,Empresa 29
-3352,Empresa 9
-3353,Empresa 165
-3355,Empresa 128
-3357,Empresa 185
-3360,Empresa 132
-3363,Empresa 136
-3365,Empresa 76
-3367,Empresa 76
-3370,Empresa 40
-3379,Empresa 137
-3382,Empresa 69
-3386,Empresa 11
-3388,Empresa 48
-3389,Empresa 138
-3395,Empresa 87
-3409,Empresa 20
-3410,Empresa 176
-3416,Empresa 131
-3418,Empresa 166
-3419,Empresa 191
-3420,Empresa 164
-3421,Empresa 28
-3424,Empresa 71
-3426,Empresa 119
-3427,Empresa 100
-3428,Empresa 14
-3429,Empresa 58
-3431,Empresa 58
-3433,Empresa 17
-3436,Empresa 136
-3437,Empresa 70
-3438,Empresa 59
-3439,Empresa 28
-3440,Empresa 41
-3444,Empresa 66
-3451,Empresa 129
-3455,Empresa 64
-3461,Empresa 191
-3463,Empresa 95
-3468,Empresa 184
-3470,Empresa 155
-3473,Empresa 49
-3474,Empresa 5
-3475,Empresa 108
-3476,Empresa 143
-3477,Empresa 75
-3478,Empresa 164
-3483,Empresa 110
-3485,Empresa 91
-3490,Empresa 132
-3492,Empresa 28
-3494,Empresa 54
-3497,Empresa 49
-3508,Empresa 28
-3513,Empresa 185
-3516,Empresa 148
-3517,Empresa 185
-3520,Empresa 184
-3522,Empresa 132
-3525,Empresa 71
-3528,Empresa 142
-3531,Empresa 141
-3535,Empresa 157
-3540,Empresa 40
-3542,Empresa 11
-3543,Empresa 68
-3546,Empresa 79
-3548,Empresa 57
-3551,Empresa 131
-3553,Empresa 47
-3558,Empresa 54
-3559,Empresa 48
-3563,Empresa 33
-3565,Empresa 33
-3566,Empresa 1
-3568,Empresa 69
-3572,Empresa 194
-3578,Empresa 137
-3579,Empresa 132
-3584,Empresa 104
-3586,Empresa 70
-3588,Empresa 61
-3592,Empresa 106
-3595,Empresa 155
-3600,Empresa 59
-3605,Empresa 109
-3606,Empresa 149
-3608,Empresa 76
-3611,Empresa 143
-3616,Empresa 166
-3622,Empresa 187
-3630,Empresa 29
-3633,Empresa 28
-3635,Empresa 46
-3636,Empresa 184
-3638,Empresa 162
-3641,Empresa 151
-3642,Empresa 100
-3643,Empresa 70
-3649,Empresa 46
-3653,Empresa 166
-3655,Empresa 29
-3656,Empresa 106
-3658,Empresa 20
-3659,Empresa 40
-3662,Empresa 51
-3664,Empresa 15
-3667,Empresa 75
-3669,Empresa 51
-3674,Empresa 125
-3675,Empresa 16
-3677,Empresa 187
-3681,Empresa 70
-3685,Empresa 89
-3686,Empresa 5
-3693,Empresa 104
-3696,Empresa 137
-3697,Empresa 54
-3701,Empresa 93
-3713,Empresa 176
-3719,Empresa 176
-3720,Empresa 46
-3722,Empresa 107
-3723,Empresa 62
-3730,Empresa 5
-3737,Empresa 65
-3742,Empresa 110
-3743,Empresa 135
-3748,Empresa 194
-3761,Empresa 125
-3768,Empresa 20
-3780,Empresa 106
-3781,Empresa 108
-3783,Empresa 16
-3784,Empresa 58
-3787,Empresa 131
-3793,Empresa 62
-3796,Empresa 104
-3797,Empresa 48
-3798,Empresa 37
-3799,Empresa 22
-3802,Empresa 14
-3803,Empresa 195
-3814,Empresa 25
-3816,Empresa 10
-3818,Empresa 62
-3820,Empresa 149
-3821,Empresa 135
-3824,Empresa 64
-3825,Empresa 138
-3826,Empresa 15
-3830,Empresa 16
-3832,Empresa 9
-3834,Empresa 5
-3843,Empresa 128
-3845,Empresa 198
-3847,Empresa 79
-3852,Empresa 11
-3853,Empresa 41
-3855,Empresa 40
-3862,Empresa 148
-3863,Empresa 91
-3867,Empresa 69
-3869,Empresa 20
-3870,Empresa 93
-3872,Empresa 6
-3874,Empresa 129
-3876,Empresa 61
-3877,Empresa 76
-3881,Empresa 57
-3884,Empresa 164
-3887,Empresa 51
-3888,Empresa 123
-3889,Empresa 87
-3892,Empresa 113
-3894,Empresa 58
-3902,Empresa 1
-3908,Empresa 41
-3909,Empresa 25
-3911,Empresa 110
-3918,Empresa 149
-3928,Empresa 22
-3933,Empresa 137
-3934,Empresa 184
-3937,Empresa 59
-3938,Empresa 199
-3939,Empresa 10
-3940,Empresa 138
-3944,Empresa 159
-3945,Empresa 128
-3947,Empresa 162
-3948,Empresa 7
-3951,Empresa 71
-3955,Empresa 46
-3958,Empresa 162
-3961,Empresa 157
-3965,Empresa 76
-3966,Empresa 151
-3967,Empresa 76
-3971,Empresa 54
-3973,Empresa 59
-3976,Empresa 133
-3977,Empresa 95
-3978,Empresa 132
-3980,Empresa 33
-3983,Empresa 132
-3986,Empresa 20
-3988,Empresa 129
-3989,Empresa 175
-3990,Empresa 20
-3993,Empresa 29
-3999,Empresa 123
+documento,empresa,corresponsal,numeroConfirmacion,prioridad
+1,Empresa 196,Corresponsal 90,659660,Baja
+4,Empresa 14,Corresponsal 31,704675,Alta
+7,Empresa 122,Corresponsal 37,416543,Baja
+8,Empresa 69,Corresponsal 13,524221,Alta
+12,Empresa 40,Corresponsal 29,880768,Alta
+13,Empresa 2,Corresponsal 92,670321,Alta
+16,Empresa 86,Corresponsal 100,509992,Media
+17,Empresa 164,Corresponsal 33,795017,Media
+18,Empresa 94,Corresponsal 27,685447,Baja
+22,Empresa 170,Corresponsal 63,324793,Alta
+23,Empresa 196,Corresponsal 62,527798,Media
+29,Empresa 177,Corresponsal 91,355981,Alta
+35,Empresa 1,Corresponsal 25,564883,Baja
+38,Empresa 121,Corresponsal 63,168737,Alta
+44,Empresa 141,Corresponsal 91,695430,Alta
+49,Empresa 188,Corresponsal 42,559933,Baja
+51,Empresa 42,Corresponsal 97,484446,Media
+53,Empresa 60,Corresponsal 52,418832,Alta
+54,Empresa 172,Corresponsal 50,364282,Media
+60,Empresa 86,Corresponsal 81,908910,Alta
+66,Empresa 21,Corresponsal 69,647243,Media
+70,Empresa 177,Corresponsal 10,315262,Media
+73,Empresa 173,Corresponsal 71,960066,Alta
+75,Empresa 185,Corresponsal 84,240982,Media
+78,Empresa 160,Corresponsal 88,541038,Media
+80,Empresa 15,Corresponsal 94,517711,Baja
+81,Empresa 92,Corresponsal 5,758819,Baja
+86,Empresa 197,Corresponsal 17,100218,Media
+91,Empresa 30,Corresponsal 53,241671,Alta
+96,Empresa 154,Corresponsal 44,643237,Baja
+98,Empresa 36,Corresponsal 61,764666,Alta
+101,Empresa 90,Corresponsal 66,854526,Alta
+103,Empresa 0,Corresponsal 14,431479,Media
+105,Empresa 59,Corresponsal 47,338494,Media
+106,Empresa 188,Corresponsal 64,541251,Media
+107,Empresa 114,Corresponsal 79,115098,Baja
+114,Empresa 110,Corresponsal 85,527366,Baja
+115,Empresa 97,Corresponsal 22,102779,Alta
+116,Empresa 145,Corresponsal 84,973164,Baja
+120,Empresa 125,Corresponsal 12,285692,Alta
+121,Empresa 196,Corresponsal 58,280501,Baja
+123,Empresa 141,Corresponsal 64,343076,Alta
+125,Empresa 161,Corresponsal 26,606639,Alta
+127,Empresa 73,Corresponsal 72,287686,Media
+130,Empresa 191,Corresponsal 70,624376,Media
+131,Empresa 145,Corresponsal 17,479535,Alta
+135,Empresa 184,Corresponsal 19,268937,Baja
+138,Empresa 66,Corresponsal 66,829757,Alta
+144,Empresa 162,Corresponsal 42,713123,Alta
+152,Empresa 106,Corresponsal 56,248490,Baja
+156,Empresa 139,Corresponsal 17,524961,Alta
+159,Empresa 160,Corresponsal 64,829813,Alta
+165,Empresa 110,Corresponsal 50,822627,Alta
+169,Empresa 110,Corresponsal 62,388268,Media
+170,Empresa 167,Corresponsal 38,923695,Media
+177,Empresa 105,Corresponsal 14,765780,Baja
+179,Empresa 125,Corresponsal 77,783974,Media
+182,Empresa 18,Corresponsal 20,692463,Alta
+183,Empresa 8,Corresponsal 80,340564,Baja
+187,Empresa 197,Corresponsal 99,510282,Alta
+191,Empresa 173,Corresponsal 40,155139,Baja
+194,Empresa 47,Corresponsal 59,887920,Alta
+196,Empresa 197,Corresponsal 37,254840,Baja
+203,Empresa 24,Corresponsal 42,426072,Alta
+206,Empresa 97,Corresponsal 94,314654,Baja
+207,Empresa 61,Corresponsal 18,742337,Alta
+212,Empresa 92,Corresponsal 52,542152,Alta
+213,Empresa 193,Corresponsal 25,670435,Media
+217,Empresa 57,Corresponsal 64,782974,Baja
+224,Empresa 8,Corresponsal 34,770237,Alta
+231,Empresa 160,Corresponsal 90,969589,Baja
+237,Empresa 191,Corresponsal 17,202947,Media
+244,Empresa 105,Corresponsal 24,903681,Alta
+245,Empresa 77,Corresponsal 3,213420,Baja
+257,Empresa 173,Corresponsal 88,163815,Alta
+263,Empresa 121,Corresponsal 14,393251,Baja
+264,Empresa 79,Corresponsal 74,395848,Alta
+265,Empresa 177,Corresponsal 3,911202,Alta
+269,Empresa 172,Corresponsal 91,724130,Alta
+271,Empresa 73,Corresponsal 80,229376,Baja
+274,Empresa 99,Corresponsal 58,596040,Media
+276,Empresa 79,Corresponsal 100,770919,Media
+282,Empresa 148,Corresponsal 37,352832,Media
+285,Empresa 60,Corresponsal 75,166662,Media
+287,Empresa 23,Corresponsal 13,829321,Baja
+291,Empresa 131,Corresponsal 40,494245,Media
+293,Empresa 60,Corresponsal 53,274257,Baja
+294,Empresa 100,Corresponsal 58,308787,Media
+295,Empresa 47,Corresponsal 37,727039,Alta
+296,Empresa 191,Corresponsal 78,645087,Alta
+297,Empresa 39,Corresponsal 48,647239,Media
+298,Empresa 83,Corresponsal 96,624965,Baja
+301,Empresa 162,Corresponsal 65,557839,Alta
+304,Empresa 162,Corresponsal 81,720227,Alta
+305,Empresa 30,Corresponsal 44,742857,Media
+308,Empresa 92,Corresponsal 53,444430,Baja
+312,Empresa 119,Corresponsal 35,384931,Alta
+328,Empresa 55,Corresponsal 5,809047,Baja
+329,Empresa 154,Corresponsal 13,469900,Baja
+333,Empresa 97,Corresponsal 14,905205,Baja
+335,Empresa 184,Corresponsal 90,763321,Media
+341,Empresa 24,Corresponsal 20,570059,Media
+345,Empresa 194,Corresponsal 40,171795,Media
+346,Empresa 88,Corresponsal 60,834693,Baja
+347,Empresa 139,Corresponsal 99,636464,Media
+348,Empresa 137,Corresponsal 12,294887,Baja
+351,Empresa 119,Corresponsal 76,624677,Alta
+355,Empresa 122,Corresponsal 28,498277,Baja
+356,Empresa 141,Corresponsal 11,459428,Media
+361,Empresa 184,Corresponsal 4,396512,Media
+363,Empresa 61,Corresponsal 74,382444,Baja
+364,Empresa 67,Corresponsal 65,715330,Baja
+367,Empresa 89,Corresponsal 82,257955,Media
+368,Empresa 18,Corresponsal 32,596496,Baja
+369,Empresa 86,Corresponsal 31,691261,Alta
+370,Empresa 74,Corresponsal 2,648249,Baja
+371,Empresa 104,Corresponsal 99,167830,Alta
+373,Empresa 39,Corresponsal 7,652750,Baja
+374,Empresa 74,Corresponsal 46,992786,Media
+375,Empresa 114,Corresponsal 2,297832,Baja
+380,Empresa 144,Corresponsal 23,797278,Baja
+381,Empresa 1,Corresponsal 60,727607,Alta
+383,Empresa 102,Corresponsal 78,684854,Baja
+385,Empresa 60,Corresponsal 1,815866,Media
+387,Empresa 137,Corresponsal 86,976797,Alta
+390,Empresa 73,Corresponsal 85,867079,Baja
+392,Empresa 177,Corresponsal 60,547936,Media
+393,Empresa 3,Corresponsal 91,742125,Alta
+403,Empresa 123,Corresponsal 32,369536,Media
+404,Empresa 133,Corresponsal 50,959115,Alta
+408,Empresa 193,Corresponsal 48,464766,Alta
+410,Empresa 60,Corresponsal 58,636526,Media
+413,Empresa 49,Corresponsal 63,220624,Baja
+415,Empresa 173,Corresponsal 34,694850,Alta
+416,Empresa 115,Corresponsal 48,632094,Alta
+420,Empresa 48,Corresponsal 97,880669,Baja
+421,Empresa 4,Corresponsal 65,798320,Media
+425,Empresa 74,Corresponsal 36,613089,Baja
+428,Empresa 73,Corresponsal 51,355151,Alta
+429,Empresa 97,Corresponsal 87,487782,Media
+431,Empresa 191,Corresponsal 18,486429,Media
+433,Empresa 30,Corresponsal 23,370979,Baja
+436,Empresa 0,Corresponsal 74,880359,Baja
+438,Empresa 79,Corresponsal 15,291129,Media
+439,Empresa 97,Corresponsal 3,420096,Media
+441,Empresa 36,Corresponsal 46,895838,Media
+445,Empresa 139,Corresponsal 73,581534,Alta
+452,Empresa 23,Corresponsal 9,458887,Alta
+458,Empresa 79,Corresponsal 78,545389,Media
+459,Empresa 144,Corresponsal 62,472193,Baja
+460,Empresa 92,Corresponsal 27,236595,Media
+461,Empresa 172,Corresponsal 51,241352,Alta
+464,Empresa 49,Corresponsal 38,314844,Baja
+466,Empresa 196,Corresponsal 44,915827,Baja
+467,Empresa 197,Corresponsal 75,644841,Baja
+470,Empresa 70,Corresponsal 29,542668,Alta
+472,Empresa 10,Corresponsal 29,138112,Media
+473,Empresa 94,Corresponsal 92,812844,Baja
+487,Empresa 68,Corresponsal 26,835914,Baja
+492,Empresa 187,Corresponsal 5,552798,Media
+495,Empresa 88,Corresponsal 62,440568,Alta
+498,Empresa 172,Corresponsal 53,862445,Media
+499,Empresa 104,Corresponsal 23,188510,Media
+500,Empresa 133,Corresponsal 51,208478,Alta
+501,Empresa 4,Corresponsal 44,382193,Alta
+503,Empresa 185,Corresponsal 78,101917,Alta
+507,Empresa 157,Corresponsal 44,894142,Alta
+510,Empresa 114,Corresponsal 67,579053,Media
+513,Empresa 109,Corresponsal 46,165334,Alta
+518,Empresa 24,Corresponsal 74,251666,Baja
+528,Empresa 114,Corresponsal 21,160173,Media
+531,Empresa 133,Corresponsal 84,462588,Alta
+532,Empresa 172,Corresponsal 59,622977,Baja
+537,Empresa 161,Corresponsal 56,777318,Alta
+538,Empresa 94,Corresponsal 39,517491,Media
+546,Empresa 57,Corresponsal 22,662104,Media
+556,Empresa 184,Corresponsal 56,480689,Baja
+561,Empresa 73,Corresponsal 43,143489,Media
+562,Empresa 86,Corresponsal 82,733555,Baja
+563,Empresa 144,Corresponsal 79,373581,Baja
+566,Empresa 60,Corresponsal 95,368374,Media
+569,Empresa 19,Corresponsal 84,978480,Baja
+570,Empresa 188,Corresponsal 42,788037,Baja
+572,Empresa 90,Corresponsal 64,118674,Alta
+574,Empresa 140,Corresponsal 19,406037,Baja
+579,Empresa 1,Corresponsal 63,974543,Alta
+581,Empresa 150,Corresponsal 10,728863,Alta
+587,Empresa 44,Corresponsal 69,791048,Baja
+592,Empresa 130,Corresponsal 28,100613,Media
+598,Empresa 36,Corresponsal 48,168095,Baja
+599,Empresa 144,Corresponsal 30,746480,Baja
+600,Empresa 8,Corresponsal 94,198672,Alta
+601,Empresa 161,Corresponsal 9,394399,Alta
+602,Empresa 47,Corresponsal 52,136217,Media
+604,Empresa 131,Corresponsal 17,968796,Baja
+606,Empresa 160,Corresponsal 17,365441,Media
+609,Empresa 157,Corresponsal 31,234597,Baja
+612,Empresa 89,Corresponsal 64,165445,Baja
+617,Empresa 99,Corresponsal 54,651541,Media
+618,Empresa 119,Corresponsal 53,233423,Media
+620,Empresa 137,Corresponsal 51,466293,Baja
+622,Empresa 79,Corresponsal 1,697381,Alta
+623,Empresa 64,Corresponsal 71,504499,Baja
+627,Empresa 44,Corresponsal 73,115578,Alta
+633,Empresa 118,Corresponsal 18,771510,Alta
+637,Empresa 160,Corresponsal 18,648440,Media
+638,Empresa 162,Corresponsal 52,191541,Media
+642,Empresa 177,Corresponsal 88,834989,Baja
+643,Empresa 125,Corresponsal 12,742395,Media
+644,Empresa 145,Corresponsal 2,706495,Media
+646,Empresa 89,Corresponsal 79,804820,Baja
+648,Empresa 49,Corresponsal 73,868846,Alta
+649,Empresa 18,Corresponsal 85,306543,Media
+655,Empresa 97,Corresponsal 35,414904,Baja
+657,Empresa 23,Corresponsal 62,389125,Alta
+659,Empresa 145,Corresponsal 80,353465,Baja
+661,Empresa 173,Corresponsal 81,289085,Alta
+664,Empresa 77,Corresponsal 80,793497,Alta
+668,Empresa 67,Corresponsal 72,433571,Media
+670,Empresa 77,Corresponsal 36,423312,Media
+671,Empresa 36,Corresponsal 100,840918,Alta
+672,Empresa 125,Corresponsal 91,636443,Baja
+678,Empresa 73,Corresponsal 36,741977,Baja
+679,Empresa 70,Corresponsal 41,664041,Baja
+682,Empresa 4,Corresponsal 14,400580,Baja
+685,Empresa 64,Corresponsal 27,806069,Baja
+687,Empresa 1,Corresponsal 21,148761,Alta
+689,Empresa 73,Corresponsal 50,891292,Baja
+693,Empresa 15,Corresponsal 37,124222,Baja
+695,Empresa 104,Corresponsal 32,742744,Media
+703,Empresa 39,Corresponsal 58,782689,Baja
+707,Empresa 106,Corresponsal 41,795462,Baja
+709,Empresa 119,Corresponsal 8,501324,Alta
+712,Empresa 115,Corresponsal 15,208774,Baja
+713,Empresa 196,Corresponsal 31,260701,Alta
+714,Empresa 133,Corresponsal 66,973658,Baja
+717,Empresa 30,Corresponsal 55,430202,Media
+718,Empresa 10,Corresponsal 12,420543,Baja
+721,Empresa 36,Corresponsal 4,228662,Baja
+722,Empresa 59,Corresponsal 72,411259,Baja
+727,Empresa 89,Corresponsal 35,786801,Media
+729,Empresa 170,Corresponsal 84,116353,Baja
+730,Empresa 64,Corresponsal 48,586289,Media
+731,Empresa 92,Corresponsal 52,231210,Baja
+740,Empresa 66,Corresponsal 41,662935,Media
+742,Empresa 73,Corresponsal 25,613773,Baja
+745,Empresa 162,Corresponsal 7,349142,Alta
+750,Empresa 17,Corresponsal 37,940801,Media
+753,Empresa 162,Corresponsal 83,879974,Alta
+755,Empresa 125,Corresponsal 73,311649,Media
+759,Empresa 97,Corresponsal 8,403011,Baja
+760,Empresa 122,Corresponsal 65,852941,Media
+763,Empresa 47,Corresponsal 56,608292,Media
+764,Empresa 42,Corresponsal 35,860343,Alta
+766,Empresa 67,Corresponsal 60,553048,Baja
+773,Empresa 137,Corresponsal 4,436258,Alta
+777,Empresa 160,Corresponsal 31,733519,Media
+778,Empresa 17,Corresponsal 48,499689,Media
+779,Empresa 185,Corresponsal 20,290632,Media
+780,Empresa 165,Corresponsal 56,774203,Baja
+782,Empresa 123,Corresponsal 32,106912,Baja
+786,Empresa 101,Corresponsal 99,984656,Alta
+790,Empresa 1,Corresponsal 41,984038,Baja
+791,Empresa 18,Corresponsal 22,358024,Media
+792,Empresa 197,Corresponsal 59,413059,Alta
+797,Empresa 68,Corresponsal 50,673609,Media
+798,Empresa 106,Corresponsal 86,307965,Alta
+800,Empresa 66,Corresponsal 18,984751,Media
+805,Empresa 6,Corresponsal 98,999701,Alta
+808,Empresa 145,Corresponsal 14,768906,Baja
+809,Empresa 15,Corresponsal 45,616115,Baja
+814,Empresa 57,Corresponsal 26,581151,Baja
+816,Empresa 94,Corresponsal 90,745423,Baja
+818,Empresa 104,Corresponsal 46,545264,Media
+819,Empresa 144,Corresponsal 85,645747,Media
+821,Empresa 102,Corresponsal 40,973032,Baja
+826,Empresa 106,Corresponsal 27,626326,Baja
+833,Empresa 114,Corresponsal 20,495186,Media
+845,Empresa 0,Corresponsal 27,163128,Media
+847,Empresa 162,Corresponsal 51,810052,Alta
+853,Empresa 197,Corresponsal 59,575296,Alta
+854,Empresa 73,Corresponsal 20,727761,Media
+855,Empresa 161,Corresponsal 57,224834,Baja
+857,Empresa 30,Corresponsal 18,608190,Alta
+861,Empresa 49,Corresponsal 35,188402,Alta
+865,Empresa 197,Corresponsal 100,572063,Alta
+877,Empresa 89,Corresponsal 21,190684,Alta
+883,Empresa 47,Corresponsal 76,637204,Media
+884,Empresa 42,Corresponsal 58,834344,Alta
+885,Empresa 57,Corresponsal 97,496143,Baja
+886,Empresa 100,Corresponsal 55,883661,Baja
+888,Empresa 184,Corresponsal 10,247407,Baja
+891,Empresa 187,Corresponsal 43,754703,Media
+892,Empresa 40,Corresponsal 32,869196,Baja
+893,Empresa 139,Corresponsal 29,952427,Alta
+897,Empresa 188,Corresponsal 16,320364,Media
+918,Empresa 101,Corresponsal 100,789942,Baja
+919,Empresa 106,Corresponsal 39,753882,Alta
+920,Empresa 69,Corresponsal 66,525649,Alta
+923,Empresa 61,Corresponsal 37,177013,Media
+928,Empresa 122,Corresponsal 94,735987,Media
+931,Empresa 187,Corresponsal 77,417875,Media
+933,Empresa 185,Corresponsal 51,187302,Alta
+938,Empresa 66,Corresponsal 25,426084,Media
+941,Empresa 187,Corresponsal 15,633130,Baja
+943,Empresa 157,Corresponsal 93,412183,Media
+948,Empresa 59,Corresponsal 14,115182,Baja
+958,Empresa 194,Corresponsal 83,947622,Alta
+960,Empresa 15,Corresponsal 82,657893,Media
+964,Empresa 15,Corresponsal 65,344754,Media
+968,Empresa 4,Corresponsal 50,775904,Baja
+973,Empresa 160,Corresponsal 50,138540,Baja
+985,Empresa 121,Corresponsal 59,808653,Media
+986,Empresa 194,Corresponsal 19,516219,Media
+992,Empresa 30,Corresponsal 42,759991,Media
+996,Empresa 114,Corresponsal 60,984720,Baja
+1000,Empresa 83,Corresponsal 84,348191,Media
+1005,Empresa 188,Corresponsal 58,913709,Baja
+1006,Empresa 141,Corresponsal 3,355266,Baja
+1008,Empresa 135,Corresponsal 92,133155,Media
+1017,Empresa 0,Corresponsal 53,462607,Media
+1018,Empresa 154,Corresponsal 38,630871,Alta
+1020,Empresa 118,Corresponsal 2,213664,Baja
+1024,Empresa 41,Corresponsal 39,475316,Media
+1026,Empresa 122,Corresponsal 28,540492,Baja
+1027,Empresa 41,Corresponsal 15,875211,Media
+1033,Empresa 18,Corresponsal 17,850439,Alta
+1035,Empresa 110,Corresponsal 15,629630,Baja
+1037,Empresa 165,Corresponsal 65,926878,Media
+1039,Empresa 42,Corresponsal 36,680166,Baja
+1040,Empresa 188,Corresponsal 32,481928,Media
+1042,Empresa 1,Corresponsal 3,640218,Media
+1048,Empresa 110,Corresponsal 51,469218,Alta
+1050,Empresa 41,Corresponsal 27,886698,Media
+1053,Empresa 41,Corresponsal 75,516967,Alta
+1054,Empresa 0,Corresponsal 11,676944,Baja
+1055,Empresa 197,Corresponsal 68,163581,Baja
+1056,Empresa 160,Corresponsal 61,153964,Baja
+1057,Empresa 157,Corresponsal 24,563986,Media
+1064,Empresa 48,Corresponsal 34,252680,Alta
+1070,Empresa 104,Corresponsal 81,928388,Baja
+1071,Empresa 36,Corresponsal 72,582201,Alta
+1074,Empresa 131,Corresponsal 4,216425,Media
+1076,Empresa 3,Corresponsal 65,239622,Baja
+1079,Empresa 10,Corresponsal 79,979379,Media
+1084,Empresa 122,Corresponsal 26,958424,Baja
+1087,Empresa 45,Corresponsal 73,140769,Baja
+1088,Empresa 121,Corresponsal 87,554501,Baja
+1089,Empresa 92,Corresponsal 36,345480,Alta
+1092,Empresa 23,Corresponsal 80,923650,Alta
+1093,Empresa 110,Corresponsal 16,690739,Media
+1094,Empresa 191,Corresponsal 34,815956,Baja
+1095,Empresa 164,Corresponsal 55,919211,Baja
+1096,Empresa 24,Corresponsal 57,531023,Media
+1097,Empresa 1,Corresponsal 31,279587,Alta
+1098,Empresa 36,Corresponsal 40,698227,Media
+1101,Empresa 118,Corresponsal 64,690243,Media
+1106,Empresa 150,Corresponsal 28,834990,Alta
+1108,Empresa 164,Corresponsal 9,800341,Media
+1117,Empresa 160,Corresponsal 70,269594,Alta
+1121,Empresa 140,Corresponsal 62,437807,Media
+1124,Empresa 162,Corresponsal 18,662015,Baja
+1131,Empresa 89,Corresponsal 69,149426,Alta
+1132,Empresa 83,Corresponsal 30,736837,Media
+1134,Empresa 196,Corresponsal 20,806516,Media
+1135,Empresa 135,Corresponsal 97,309675,Media
+1136,Empresa 89,Corresponsal 78,156122,Media
+1137,Empresa 193,Corresponsal 3,340778,Alta
+1140,Empresa 79,Corresponsal 62,132048,Media
+1142,Empresa 102,Corresponsal 67,870134,Media
+1144,Empresa 170,Corresponsal 75,726045,Baja
+1145,Empresa 148,Corresponsal 50,764633,Media
+1147,Empresa 145,Corresponsal 8,948094,Baja
+1150,Empresa 137,Corresponsal 18,170643,Media
+1156,Empresa 145,Corresponsal 8,629810,Baja
+1161,Empresa 123,Corresponsal 48,749392,Alta
+1162,Empresa 165,Corresponsal 57,387639,Media
+1168,Empresa 94,Corresponsal 12,986389,Media
+1169,Empresa 8,Corresponsal 23,200668,Baja
+1172,Empresa 48,Corresponsal 74,699167,Alta
+1181,Empresa 99,Corresponsal 58,696116,Media
+1184,Empresa 164,Corresponsal 8,257006,Alta
+1187,Empresa 14,Corresponsal 10,714532,Alta
+1188,Empresa 45,Corresponsal 1,880862,Media
+1190,Empresa 60,Corresponsal 84,695038,Baja
+1192,Empresa 4,Corresponsal 34,763970,Alta
+1194,Empresa 94,Corresponsal 88,410065,Alta
+1198,Empresa 150,Corresponsal 81,241292,Alta
+1202,Empresa 130,Corresponsal 76,793851,Alta
+1207,Empresa 83,Corresponsal 87,456850,Baja
+1213,Empresa 106,Corresponsal 13,104586,Media
+1215,Empresa 70,Corresponsal 36,454280,Alta
+1216,Empresa 59,Corresponsal 74,231749,Baja
+1220,Empresa 154,Corresponsal 73,840943,Alta
+1223,Empresa 61,Corresponsal 53,377410,Baja
+1225,Empresa 150,Corresponsal 5,742118,Baja
+1233,Empresa 89,Corresponsal 76,713272,Baja
+1240,Empresa 121,Corresponsal 54,876081,Media
+1242,Empresa 14,Corresponsal 19,341846,Media
+1247,Empresa 173,Corresponsal 15,905929,Media
+1251,Empresa 79,Corresponsal 91,235105,Alta
+1254,Empresa 123,Corresponsal 40,932473,Baja
+1255,Empresa 100,Corresponsal 95,488335,Alta
+1256,Empresa 196,Corresponsal 37,902200,Baja
+1262,Empresa 110,Corresponsal 48,411933,Media
+1270,Empresa 30,Corresponsal 54,963853,Media
+1271,Empresa 125,Corresponsal 41,814356,Media
+1273,Empresa 123,Corresponsal 31,425577,Media
+1275,Empresa 14,Corresponsal 34,653976,Baja
+1276,Empresa 60,Corresponsal 78,137272,Baja
+1279,Empresa 4,Corresponsal 42,766916,Media
+1283,Empresa 145,Corresponsal 97,467012,Alta
+1288,Empresa 157,Corresponsal 45,679644,Alta
+1290,Empresa 144,Corresponsal 29,360044,Baja
+1297,Empresa 61,Corresponsal 37,322661,Baja
+1300,Empresa 23,Corresponsal 74,374086,Baja
+1302,Empresa 49,Corresponsal 73,995632,Alta
+1304,Empresa 141,Corresponsal 55,268073,Baja
+1305,Empresa 14,Corresponsal 92,425237,Media
+1306,Empresa 0,Corresponsal 33,999490,Alta
+1307,Empresa 19,Corresponsal 87,709357,Media
+1310,Empresa 69,Corresponsal 4,995720,Alta
+1311,Empresa 83,Corresponsal 97,664284,Alta
+1312,Empresa 3,Corresponsal 9,450052,Baja
+1320,Empresa 196,Corresponsal 74,108434,Media
+1321,Empresa 115,Corresponsal 24,960330,Media
+1327,Empresa 97,Corresponsal 39,807883,Baja
+1329,Empresa 162,Corresponsal 16,344351,Baja
+1330,Empresa 164,Corresponsal 21,586948,Media
+1331,Empresa 2,Corresponsal 16,531026,Media
+1334,Empresa 188,Corresponsal 30,889721,Baja
+1335,Empresa 148,Corresponsal 68,184448,Alta
+1340,Empresa 184,Corresponsal 5,573559,Alta
+1341,Empresa 115,Corresponsal 58,713982,Alta
+1344,Empresa 114,Corresponsal 6,378820,Media
+1346,Empresa 69,Corresponsal 49,991129,Alta
+1348,Empresa 139,Corresponsal 81,514515,Media
+1350,Empresa 122,Corresponsal 65,838756,Alta
+1351,Empresa 28,Corresponsal 39,925186,Media
+1354,Empresa 88,Corresponsal 86,621076,Baja
+1357,Empresa 70,Corresponsal 33,532248,Baja
+1360,Empresa 59,Corresponsal 74,940985,Baja
+1362,Empresa 39,Corresponsal 17,355270,Alta
+1365,Empresa 144,Corresponsal 92,467465,Baja
+1366,Empresa 2,Corresponsal 18,136848,Alta
+1377,Empresa 140,Corresponsal 37,297231,Media
+1380,Empresa 70,Corresponsal 69,857690,Media
+1382,Empresa 119,Corresponsal 89,580977,Alta
+1384,Empresa 193,Corresponsal 13,946288,Baja
+1385,Empresa 110,Corresponsal 45,397337,Baja
+1388,Empresa 45,Corresponsal 69,839806,Baja
+1391,Empresa 125,Corresponsal 76,692181,Alta
+1392,Empresa 125,Corresponsal 7,492089,Media
+1396,Empresa 123,Corresponsal 23,444348,Baja
+1399,Empresa 60,Corresponsal 94,933200,Media
+1402,Empresa 118,Corresponsal 89,650355,Baja
+1405,Empresa 140,Corresponsal 78,718199,Baja
+1407,Empresa 115,Corresponsal 70,180424,Media
+1414,Empresa 172,Corresponsal 13,909522,Alta
+1418,Empresa 99,Corresponsal 68,373608,Baja
+1420,Empresa 41,Corresponsal 34,306605,Alta
+1421,Empresa 19,Corresponsal 78,795668,Baja
+1425,Empresa 194,Corresponsal 38,424833,Alta
+1427,Empresa 135,Corresponsal 14,456194,Media
+1431,Empresa 130,Corresponsal 95,684743,Baja
+1432,Empresa 45,Corresponsal 38,657214,Media
+1435,Empresa 110,Corresponsal 87,470646,Baja
+1440,Empresa 109,Corresponsal 23,366175,Alta
+1442,Empresa 14,Corresponsal 14,549771,Media
+1445,Empresa 92,Corresponsal 39,821402,Baja
+1449,Empresa 122,Corresponsal 21,649495,Media
+1450,Empresa 61,Corresponsal 52,271647,Alta
+1454,Empresa 94,Corresponsal 11,312966,Baja
+1458,Empresa 59,Corresponsal 74,362191,Baja
+1460,Empresa 184,Corresponsal 80,207414,Media
+1471,Empresa 133,Corresponsal 55,533326,Media
+1478,Empresa 15,Corresponsal 85,483507,Alta
+1484,Empresa 0,Corresponsal 55,894497,Media
+1485,Empresa 36,Corresponsal 14,765930,Media
+1487,Empresa 133,Corresponsal 53,959384,Baja
+1495,Empresa 24,Corresponsal 84,207611,Media
+1497,Empresa 119,Corresponsal 93,261080,Media
+1498,Empresa 92,Corresponsal 76,628141,Baja
+1505,Empresa 44,Corresponsal 48,759060,Baja
+1507,Empresa 49,Corresponsal 39,953656,Media
+1508,Empresa 70,Corresponsal 92,907833,Baja
+1509,Empresa 99,Corresponsal 88,555848,Media
+1510,Empresa 19,Corresponsal 1,104208,Alta
+1512,Empresa 68,Corresponsal 38,506036,Baja
+1513,Empresa 79,Corresponsal 91,773391,Baja
+1515,Empresa 139,Corresponsal 24,652389,Baja
+1516,Empresa 57,Corresponsal 52,198307,Baja
+1519,Empresa 130,Corresponsal 89,584103,Media
+1520,Empresa 2,Corresponsal 91,725202,Media
+1523,Empresa 133,Corresponsal 18,928236,Alta
+1525,Empresa 193,Corresponsal 93,654580,Media
+1528,Empresa 194,Corresponsal 60,500096,Alta
+1530,Empresa 161,Corresponsal 19,248331,Alta
+1532,Empresa 70,Corresponsal 4,978433,Alta
+1533,Empresa 184,Corresponsal 61,528405,Alta
+1535,Empresa 6,Corresponsal 20,442322,Alta
+1538,Empresa 135,Corresponsal 9,972616,Media
+1544,Empresa 193,Corresponsal 78,815096,Alta
+1546,Empresa 197,Corresponsal 62,556376,Alta
+1548,Empresa 21,Corresponsal 78,314851,Media
+1552,Empresa 196,Corresponsal 1,212098,Media
+1556,Empresa 18,Corresponsal 64,832974,Alta
+1557,Empresa 110,Corresponsal 69,864337,Media
+1562,Empresa 185,Corresponsal 51,761380,Media
+1565,Empresa 185,Corresponsal 100,305009,Baja
+1567,Empresa 70,Corresponsal 61,292145,Alta
+1570,Empresa 36,Corresponsal 51,425625,Baja
+1573,Empresa 196,Corresponsal 4,895765,Alta
+1574,Empresa 187,Corresponsal 16,360238,Baja
+1587,Empresa 187,Corresponsal 42,766004,Alta
+1588,Empresa 100,Corresponsal 61,522267,Alta
+1592,Empresa 3,Corresponsal 5,682032,Media
+1593,Empresa 194,Corresponsal 50,530522,Baja
+1594,Empresa 99,Corresponsal 97,636923,Alta
+1598,Empresa 100,Corresponsal 89,215547,Media
+1599,Empresa 196,Corresponsal 69,297541,Baja
+1603,Empresa 64,Corresponsal 71,274661,Alta
+1608,Empresa 165,Corresponsal 53,395675,Media
+1609,Empresa 157,Corresponsal 94,487552,Baja
+1610,Empresa 18,Corresponsal 48,371996,Media
+1612,Empresa 131,Corresponsal 9,754462,Media
+1615,Empresa 8,Corresponsal 21,982231,Baja
+1616,Empresa 173,Corresponsal 15,543464,Media
+1619,Empresa 94,Corresponsal 22,450779,Baja
+1620,Empresa 161,Corresponsal 79,172994,Alta
+1623,Empresa 140,Corresponsal 1,901696,Media
+1630,Empresa 66,Corresponsal 24,573624,Alta
+1632,Empresa 140,Corresponsal 34,509327,Baja
+1634,Empresa 61,Corresponsal 16,923266,Alta
+1636,Empresa 48,Corresponsal 100,739002,Baja
+1638,Empresa 119,Corresponsal 97,205496,Baja
+1639,Empresa 141,Corresponsal 51,708516,Media
+1643,Empresa 121,Corresponsal 64,288213,Alta
+1648,Empresa 102,Corresponsal 13,107999,Baja
+1650,Empresa 74,Corresponsal 45,749942,Alta
+1651,Empresa 40,Corresponsal 57,895109,Alta
+1658,Empresa 70,Corresponsal 72,537146,Alta
+1663,Empresa 130,Corresponsal 48,784102,Baja
+1670,Empresa 99,Corresponsal 10,142714,Media
+1671,Empresa 74,Corresponsal 85,778507,Alta
+1674,Empresa 135,Corresponsal 54,107230,Alta
+1680,Empresa 66,Corresponsal 22,129056,Alta
+1681,Empresa 145,Corresponsal 30,919658,Media
+1685,Empresa 130,Corresponsal 67,513251,Baja
+1687,Empresa 14,Corresponsal 96,865565,Media
+1695,Empresa 15,Corresponsal 48,601856,Baja
+1699,Empresa 88,Corresponsal 18,223376,Alta
+1700,Empresa 41,Corresponsal 17,363250,Media
+1708,Empresa 94,Corresponsal 13,966301,Alta
+1709,Empresa 14,Corresponsal 34,740340,Media
+1710,Empresa 30,Corresponsal 12,859630,Alta
+1712,Empresa 67,Corresponsal 98,294383,Media
+1713,Empresa 137,Corresponsal 29,130710,Alta
+1717,Empresa 177,Corresponsal 52,185189,Alta
+1726,Empresa 118,Corresponsal 57,852356,Alta
+1729,Empresa 77,Corresponsal 53,487716,Alta
+1734,Empresa 40,Corresponsal 57,556737,Media
+1735,Empresa 137,Corresponsal 95,603651,Media
+1736,Empresa 40,Corresponsal 38,906727,Media
+1737,Empresa 162,Corresponsal 41,337493,Baja
+1744,Empresa 47,Corresponsal 30,420778,Baja
+1747,Empresa 60,Corresponsal 73,568957,Media
+1757,Empresa 4,Corresponsal 71,966499,Alta
+1763,Empresa 165,Corresponsal 50,821429,Alta
+1765,Empresa 19,Corresponsal 3,699137,Alta
+1766,Empresa 101,Corresponsal 93,419490,Media
+1769,Empresa 145,Corresponsal 36,341691,Media
+1778,Empresa 3,Corresponsal 45,412311,Alta
+1779,Empresa 83,Corresponsal 98,485786,Alta
+1780,Empresa 188,Corresponsal 19,863186,Alta
+1782,Empresa 145,Corresponsal 50,330383,Media
+1787,Empresa 3,Corresponsal 28,604573,Baja
+1794,Empresa 41,Corresponsal 5,523221,Baja
+1800,Empresa 0,Corresponsal 47,223299,Media
+1806,Empresa 67,Corresponsal 92,535376,Baja
+1809,Empresa 69,Corresponsal 92,489712,Baja
+1810,Empresa 8,Corresponsal 21,113907,Baja
+1813,Empresa 47,Corresponsal 86,182312,Baja
+1817,Empresa 48,Corresponsal 69,776935,Alta
+1819,Empresa 139,Corresponsal 10,352115,Media
+1822,Empresa 41,Corresponsal 98,229903,Media
+1823,Empresa 191,Corresponsal 92,402883,Media
+1829,Empresa 89,Corresponsal 48,598514,Alta
+1832,Empresa 6,Corresponsal 91,306135,Baja
+1834,Empresa 110,Corresponsal 43,234759,Media
+1835,Empresa 60,Corresponsal 28,704935,Baja
+1840,Empresa 40,Corresponsal 53,862832,Baja
+1841,Empresa 177,Corresponsal 64,613359,Baja
+1842,Empresa 10,Corresponsal 8,275680,Alta
+1858,Empresa 10,Corresponsal 14,647126,Media
+1862,Empresa 173,Corresponsal 33,941203,Baja
+1867,Empresa 55,Corresponsal 41,981333,Baja
+1868,Empresa 30,Corresponsal 11,876675,Alta
+1869,Empresa 170,Corresponsal 7,700255,Baja
+1874,Empresa 94,Corresponsal 10,129685,Alta
+1877,Empresa 8,Corresponsal 17,427097,Baja
+1878,Empresa 67,Corresponsal 27,929407,Baja
+1879,Empresa 92,Corresponsal 11,903672,Baja
+1880,Empresa 18,Corresponsal 33,523037,Baja
+1882,Empresa 92,Corresponsal 26,515036,Alta
+1884,Empresa 59,Corresponsal 58,966342,Baja
+1889,Empresa 193,Corresponsal 84,379781,Alta
+1891,Empresa 165,Corresponsal 59,279343,Media
+1892,Empresa 154,Corresponsal 25,318895,Media
+1897,Empresa 187,Corresponsal 29,314713,Media
+1898,Empresa 86,Corresponsal 36,183308,Baja
+1906,Empresa 94,Corresponsal 36,349983,Alta
+1908,Empresa 187,Corresponsal 7,141198,Alta
+1910,Empresa 70,Corresponsal 51,515574,Alta
+1911,Empresa 130,Corresponsal 78,223141,Baja
+1912,Empresa 44,Corresponsal 53,686447,Media
+1913,Empresa 55,Corresponsal 27,202015,Media
+1916,Empresa 105,Corresponsal 54,884457,Baja
+1918,Empresa 66,Corresponsal 6,258430,Media
+1919,Empresa 49,Corresponsal 94,977535,Media
+1920,Empresa 19,Corresponsal 9,739974,Baja
+1924,Empresa 10,Corresponsal 78,839995,Alta
+1928,Empresa 135,Corresponsal 11,177146,Media
+1930,Empresa 36,Corresponsal 39,913931,Media
+1934,Empresa 161,Corresponsal 47,163565,Media
+1940,Empresa 40,Corresponsal 87,150710,Alta
+1946,Empresa 79,Corresponsal 54,979844,Baja
+1947,Empresa 99,Corresponsal 69,177785,Baja
+1953,Empresa 69,Corresponsal 77,793896,Alta
+1954,Empresa 69,Corresponsal 1,537148,Baja
+1960,Empresa 99,Corresponsal 68,482676,Alta
+1961,Empresa 170,Corresponsal 41,158128,Media
+1962,Empresa 94,Corresponsal 25,383707,Media
+1968,Empresa 193,Corresponsal 14,556497,Alta
+1970,Empresa 114,Corresponsal 91,513101,Baja
+1971,Empresa 154,Corresponsal 84,141455,Alta
+1974,Empresa 36,Corresponsal 99,372699,Alta
+1976,Empresa 44,Corresponsal 93,812864,Media
+1978,Empresa 110,Corresponsal 28,840078,Baja
+1979,Empresa 59,Corresponsal 49,502663,Media
+1980,Empresa 164,Corresponsal 7,606020,Media
+1986,Empresa 172,Corresponsal 90,540526,Alta
+1988,Empresa 64,Corresponsal 83,904965,Media
+1991,Empresa 70,Corresponsal 71,909176,Media
+1994,Empresa 73,Corresponsal 21,366116,Alta
+1995,Empresa 67,Corresponsal 98,404020,Baja
+1997,Empresa 150,Corresponsal 34,898997,Alta
+2000,Empresa 165,Corresponsal 63,778608,Baja
+2002,Empresa 106,Corresponsal 67,241488,Baja
+2004,Empresa 49,Corresponsal 7,536357,Baja
+2008,Empresa 164,Corresponsal 61,254141,Alta
+2011,Empresa 6,Corresponsal 44,927538,Media
+2012,Empresa 185,Corresponsal 7,689222,Alta
+2015,Empresa 10,Corresponsal 6,312798,Baja
+2016,Empresa 121,Corresponsal 92,289929,Baja
+2021,Empresa 105,Corresponsal 70,974376,Baja
+2023,Empresa 88,Corresponsal 32,673661,Baja
+2035,Empresa 21,Corresponsal 61,673799,Baja
+2040,Empresa 1,Corresponsal 75,249842,Alta
+2044,Empresa 148,Corresponsal 35,716096,Alta
+2046,Empresa 42,Corresponsal 43,292550,Baja
+2048,Empresa 194,Corresponsal 85,949175,Alta
+2052,Empresa 141,Corresponsal 96,558258,Baja
+2055,Empresa 86,Corresponsal 4,338860,Media
+2057,Empresa 83,Corresponsal 41,344098,Media
+2058,Empresa 188,Corresponsal 40,837458,Alta
+2059,Empresa 135,Corresponsal 40,629065,Baja
+2061,Empresa 118,Corresponsal 4,475332,Baja
+2067,Empresa 88,Corresponsal 82,111682,Alta
+2072,Empresa 165,Corresponsal 90,107302,Alta
+2073,Empresa 162,Corresponsal 72,631109,Baja
+2074,Empresa 157,Corresponsal 3,950674,Baja
+2077,Empresa 101,Corresponsal 80,529048,Media
+2078,Empresa 6,Corresponsal 3,433720,Media
+2088,Empresa 187,Corresponsal 16,482195,Alta
+2089,Empresa 99,Corresponsal 89,119328,Media
+2091,Empresa 114,Corresponsal 96,254913,Baja
+2093,Empresa 194,Corresponsal 87,594650,Alta
+2094,Empresa 177,Corresponsal 87,482916,Media
+2098,Empresa 191,Corresponsal 36,825562,Media
+2099,Empresa 59,Corresponsal 83,737455,Alta
+2100,Empresa 14,Corresponsal 59,331149,Baja
+2101,Empresa 55,Corresponsal 25,265039,Media
+2103,Empresa 2,Corresponsal 3,763750,Alta
+2104,Empresa 173,Corresponsal 60,455906,Baja
+2105,Empresa 41,Corresponsal 8,559960,Alta
+2112,Empresa 66,Corresponsal 17,957076,Baja
+2113,Empresa 59,Corresponsal 46,826044,Media
+2114,Empresa 122,Corresponsal 32,132950,Baja
+2119,Empresa 69,Corresponsal 75,221554,Alta
+2122,Empresa 130,Corresponsal 51,746908,Media
+2124,Empresa 0,Corresponsal 48,667597,Baja
+2127,Empresa 193,Corresponsal 14,751246,Media
+2129,Empresa 17,Corresponsal 3,175330,Alta
+2132,Empresa 157,Corresponsal 32,917098,Baja
+2143,Empresa 164,Corresponsal 82,256676,Baja
+2145,Empresa 123,Corresponsal 36,116785,Baja
+2150,Empresa 42,Corresponsal 57,400755,Baja
+2153,Empresa 73,Corresponsal 12,810698,Baja
+2154,Empresa 90,Corresponsal 43,936880,Media
+2156,Empresa 92,Corresponsal 39,974050,Media
+2157,Empresa 1,Corresponsal 72,733810,Alta
+2160,Empresa 154,Corresponsal 61,167093,Alta
+2166,Empresa 39,Corresponsal 19,441853,Media
+2169,Empresa 67,Corresponsal 8,694650,Baja
+2171,Empresa 61,Corresponsal 36,466361,Baja
+2175,Empresa 141,Corresponsal 63,861432,Media
+2182,Empresa 131,Corresponsal 83,642858,Baja
+2183,Empresa 125,Corresponsal 90,323072,Baja
+2188,Empresa 57,Corresponsal 81,331494,Media
+2189,Empresa 184,Corresponsal 2,607806,Media
+2192,Empresa 61,Corresponsal 19,265820,Baja
+2204,Empresa 131,Corresponsal 74,572845,Baja
+2206,Empresa 41,Corresponsal 64,155964,Alta
+2207,Empresa 73,Corresponsal 55,800354,Baja
+2209,Empresa 196,Corresponsal 76,321554,Baja
+2214,Empresa 18,Corresponsal 70,238862,Alta
+2217,Empresa 123,Corresponsal 62,736183,Alta
+2223,Empresa 24,Corresponsal 35,322344,Baja
+2225,Empresa 6,Corresponsal 27,544135,Alta
+2226,Empresa 154,Corresponsal 26,159922,Alta
+2231,Empresa 47,Corresponsal 92,678668,Baja
+2232,Empresa 97,Corresponsal 34,580206,Media
+2233,Empresa 188,Corresponsal 62,992184,Alta
+2236,Empresa 97,Corresponsal 59,686825,Alta
+2238,Empresa 97,Corresponsal 93,176006,Media
+2246,Empresa 135,Corresponsal 50,413998,Baja
+2247,Empresa 187,Corresponsal 72,408532,Baja
+2251,Empresa 145,Corresponsal 21,296519,Baja
+2256,Empresa 102,Corresponsal 14,521040,Baja
+2259,Empresa 188,Corresponsal 72,821355,Media
+2267,Empresa 17,Corresponsal 93,243126,Media
+2269,Empresa 187,Corresponsal 62,458533,Media
+2271,Empresa 55,Corresponsal 15,486795,Alta
+2273,Empresa 131,Corresponsal 57,582271,Media
+2275,Empresa 41,Corresponsal 11,262173,Alta
+2276,Empresa 135,Corresponsal 7,106110,Alta
+2282,Empresa 24,Corresponsal 61,460687,Alta
+2284,Empresa 106,Corresponsal 95,815026,Alta
+2293,Empresa 106,Corresponsal 80,104879,Media
+2295,Empresa 167,Corresponsal 37,633370,Media
+2297,Empresa 90,Corresponsal 95,139820,Baja
+2298,Empresa 184,Corresponsal 53,752554,Alta
+2300,Empresa 135,Corresponsal 43,321766,Alta
+2306,Empresa 187,Corresponsal 9,697156,Alta
+2310,Empresa 140,Corresponsal 30,734920,Baja
+2314,Empresa 61,Corresponsal 53,534212,Media
+2318,Empresa 150,Corresponsal 100,595960,Baja
+2319,Empresa 101,Corresponsal 90,908187,Baja
+2320,Empresa 23,Corresponsal 94,130306,Baja
+2321,Empresa 118,Corresponsal 66,826159,Media
+2322,Empresa 184,Corresponsal 30,422072,Media
+2324,Empresa 193,Corresponsal 64,500962,Baja
+2326,Empresa 47,Corresponsal 92,475314,Media
+2332,Empresa 150,Corresponsal 17,185482,Baja
+2334,Empresa 66,Corresponsal 89,363690,Media
+2343,Empresa 161,Corresponsal 77,248424,Media
+2344,Empresa 121,Corresponsal 82,163298,Baja
+2345,Empresa 10,Corresponsal 80,859753,Alta
+2346,Empresa 83,Corresponsal 73,999880,Baja
+2349,Empresa 172,Corresponsal 50,121804,Alta
+2351,Empresa 73,Corresponsal 4,560010,Baja
+2352,Empresa 165,Corresponsal 44,311309,Alta
+2353,Empresa 69,Corresponsal 41,487519,Baja
+2355,Empresa 118,Corresponsal 5,603589,Alta
+2356,Empresa 30,Corresponsal 54,333560,Media
+2357,Empresa 106,Corresponsal 14,469833,Media
+2358,Empresa 64,Corresponsal 37,730896,Media
+2366,Empresa 45,Corresponsal 3,943738,Alta
+2370,Empresa 196,Corresponsal 55,984785,Alta
+2371,Empresa 90,Corresponsal 31,746752,Media
+2373,Empresa 167,Corresponsal 36,369569,Baja
+2374,Empresa 154,Corresponsal 2,769771,Media
+2375,Empresa 66,Corresponsal 16,686913,Alta
+2380,Empresa 70,Corresponsal 32,590057,Baja
+2381,Empresa 161,Corresponsal 1,264446,Baja
+2383,Empresa 60,Corresponsal 17,953463,Baja
+2385,Empresa 28,Corresponsal 11,147371,Media
+2386,Empresa 39,Corresponsal 51,609978,Alta
+2388,Empresa 184,Corresponsal 9,637906,Alta
+2389,Empresa 101,Corresponsal 8,325454,Alta
+2393,Empresa 40,Corresponsal 39,684330,Media
+2394,Empresa 123,Corresponsal 14,940785,Baja
+2395,Empresa 133,Corresponsal 35,595574,Alta
+2397,Empresa 188,Corresponsal 84,771169,Alta
+2405,Empresa 4,Corresponsal 90,302747,Media
+2406,Empresa 161,Corresponsal 2,765747,Baja
+2408,Empresa 90,Corresponsal 99,394171,Alta
+2412,Empresa 28,Corresponsal 85,349476,Media
+2418,Empresa 144,Corresponsal 11,600879,Alta
+2424,Empresa 92,Corresponsal 79,347475,Baja
+2426,Empresa 105,Corresponsal 26,464423,Media
+2427,Empresa 162,Corresponsal 62,328593,Alta
+2429,Empresa 131,Corresponsal 80,169823,Media
+2430,Empresa 102,Corresponsal 51,207506,Media
+2431,Empresa 69,Corresponsal 62,243454,Media
+2433,Empresa 145,Corresponsal 58,543385,Media
+2436,Empresa 19,Corresponsal 38,388563,Baja
+2439,Empresa 18,Corresponsal 84,372677,Baja
+2440,Empresa 99,Corresponsal 36,826608,Baja
+2441,Empresa 133,Corresponsal 79,795067,Media
+2442,Empresa 99,Corresponsal 43,345182,Baja
+2444,Empresa 79,Corresponsal 38,807149,Baja
+2446,Empresa 104,Corresponsal 98,999849,Media
+2449,Empresa 69,Corresponsal 57,675911,Baja
+2458,Empresa 8,Corresponsal 2,109903,Media
+2460,Empresa 88,Corresponsal 89,887820,Alta
+2462,Empresa 30,Corresponsal 54,297771,Alta
+2465,Empresa 185,Corresponsal 79,700293,Baja
+2466,Empresa 148,Corresponsal 12,957439,Media
+2468,Empresa 1,Corresponsal 55,695700,Media
+2469,Empresa 130,Corresponsal 93,819131,Alta
+2472,Empresa 110,Corresponsal 1,410260,Baja
+2477,Empresa 74,Corresponsal 66,744723,Baja
+2478,Empresa 196,Corresponsal 95,359891,Media
+2479,Empresa 1,Corresponsal 20,520287,Alta
+2495,Empresa 122,Corresponsal 95,488522,Alta
+2497,Empresa 101,Corresponsal 79,809355,Baja
+2500,Empresa 196,Corresponsal 97,272342,Baja
+2504,Empresa 162,Corresponsal 51,463077,Media
+2505,Empresa 64,Corresponsal 6,491530,Alta
+2506,Empresa 148,Corresponsal 18,538376,Media
+2507,Empresa 3,Corresponsal 28,216145,Alta
+2508,Empresa 185,Corresponsal 84,752822,Media
+2511,Empresa 57,Corresponsal 72,451680,Alta
+2513,Empresa 115,Corresponsal 77,512107,Alta
+2514,Empresa 100,Corresponsal 42,476729,Alta
+2518,Empresa 101,Corresponsal 6,874370,Media
+2520,Empresa 114,Corresponsal 31,872138,Media
+2527,Empresa 17,Corresponsal 60,414124,Media
+2528,Empresa 115,Corresponsal 10,466884,Alta
+2530,Empresa 73,Corresponsal 87,294555,Media
+2534,Empresa 177,Corresponsal 37,579691,Alta
+2536,Empresa 59,Corresponsal 78,753523,Baja
+2539,Empresa 47,Corresponsal 58,273072,Media
+2541,Empresa 185,Corresponsal 58,543253,Media
+2547,Empresa 19,Corresponsal 1,443825,Alta
+2553,Empresa 1,Corresponsal 71,149542,Media
+2554,Empresa 114,Corresponsal 91,194981,Alta
+2558,Empresa 101,Corresponsal 10,771472,Alta
+2560,Empresa 130,Corresponsal 79,545658,Baja
+2563,Empresa 60,Corresponsal 25,255059,Alta
+2565,Empresa 23,Corresponsal 95,584399,Alta
+2568,Empresa 79,Corresponsal 18,677571,Alta
+2573,Empresa 97,Corresponsal 88,548259,Alta
+2577,Empresa 90,Corresponsal 46,783991,Media
+2579,Empresa 118,Corresponsal 19,587218,Media
+2583,Empresa 167,Corresponsal 2,839461,Media
+2585,Empresa 164,Corresponsal 30,298324,Alta
+2586,Empresa 59,Corresponsal 19,246557,Baja
+2590,Empresa 3,Corresponsal 72,697278,Media
+2594,Empresa 83,Corresponsal 9,264453,Media
+2595,Empresa 30,Corresponsal 3,782518,Alta
+2596,Empresa 64,Corresponsal 83,427571,Media
+2597,Empresa 137,Corresponsal 90,726132,Media
+2600,Empresa 165,Corresponsal 25,560089,Media
+2604,Empresa 110,Corresponsal 6,749728,Alta
+2605,Empresa 130,Corresponsal 79,654495,Alta
+2606,Empresa 73,Corresponsal 73,783192,Alta
+2607,Empresa 44,Corresponsal 66,958261,Media
+2609,Empresa 14,Corresponsal 70,926079,Media
+2612,Empresa 131,Corresponsal 91,544161,Baja
+2613,Empresa 73,Corresponsal 61,884355,Media
+2615,Empresa 2,Corresponsal 74,833609,Media
+2620,Empresa 1,Corresponsal 57,868781,Baja
+2625,Empresa 3,Corresponsal 12,168589,Alta
+2628,Empresa 14,Corresponsal 31,863225,Baja
+2629,Empresa 18,Corresponsal 69,570387,Alta
+2630,Empresa 140,Corresponsal 33,957614,Baja
+2635,Empresa 4,Corresponsal 92,338644,Media
+2636,Empresa 172,Corresponsal 53,352014,Alta
+2643,Empresa 94,Corresponsal 55,189583,Media
+2646,Empresa 8,Corresponsal 78,747260,Alta
+2650,Empresa 125,Corresponsal 83,301139,Media
+2651,Empresa 14,Corresponsal 93,655098,Baja
+2652,Empresa 110,Corresponsal 57,543338,Media
+2655,Empresa 160,Corresponsal 40,231575,Baja
+2661,Empresa 141,Corresponsal 58,635313,Baja
+2665,Empresa 160,Corresponsal 6,801658,Alta
+2666,Empresa 73,Corresponsal 95,168425,Baja
+2669,Empresa 14,Corresponsal 4,316615,Baja
+2671,Empresa 18,Corresponsal 28,844974,Alta
+2674,Empresa 23,Corresponsal 96,361589,Baja
+2677,Empresa 92,Corresponsal 43,562965,Baja
+2678,Empresa 185,Corresponsal 11,913011,Media
+2680,Empresa 115,Corresponsal 72,261579,Alta
+2685,Empresa 137,Corresponsal 9,357528,Alta
+2687,Empresa 23,Corresponsal 56,661414,Media
+2688,Empresa 130,Corresponsal 60,617272,Media
+2690,Empresa 100,Corresponsal 4,931411,Alta
+2698,Empresa 170,Corresponsal 13,653927,Baja
+2701,Empresa 100,Corresponsal 25,465613,Media
+2709,Empresa 154,Corresponsal 9,143626,Alta
+2711,Empresa 3,Corresponsal 32,262593,Media
+2712,Empresa 150,Corresponsal 52,555124,Baja
+2715,Empresa 197,Corresponsal 99,530464,Baja
+2716,Empresa 123,Corresponsal 76,966300,Alta
+2726,Empresa 66,Corresponsal 47,245614,Media
+2740,Empresa 105,Corresponsal 69,523902,Alta
+2742,Empresa 121,Corresponsal 70,742067,Alta
+2744,Empresa 83,Corresponsal 98,764215,Baja
+2746,Empresa 119,Corresponsal 90,472055,Alta
+2747,Empresa 69,Corresponsal 67,270052,Alta
+2751,Empresa 170,Corresponsal 43,392631,Alta
+2752,Empresa 135,Corresponsal 61,796594,Media
+2754,Empresa 14,Corresponsal 69,784125,Media
+2756,Empresa 137,Corresponsal 91,543097,Alta
+2758,Empresa 162,Corresponsal 48,421224,Media
+2762,Empresa 83,Corresponsal 90,159765,Alta
+2764,Empresa 196,Corresponsal 86,212057,Media
+2766,Empresa 67,Corresponsal 51,746649,Baja
+2770,Empresa 144,Corresponsal 99,772999,Media
+2773,Empresa 89,Corresponsal 88,512464,Alta
+2774,Empresa 123,Corresponsal 48,305822,Baja
+2777,Empresa 66,Corresponsal 62,818467,Baja
+2778,Empresa 188,Corresponsal 28,779277,Media
+2786,Empresa 74,Corresponsal 59,404354,Media
+2789,Empresa 70,Corresponsal 39,427481,Baja
+2791,Empresa 73,Corresponsal 96,317632,Baja
+2794,Empresa 102,Corresponsal 35,191755,Baja
+2797,Empresa 148,Corresponsal 8,257553,Alta
+2803,Empresa 165,Corresponsal 86,395443,Alta
+2813,Empresa 162,Corresponsal 26,619113,Media
+2815,Empresa 55,Corresponsal 54,489501,Alta
+2819,Empresa 17,Corresponsal 93,260911,Media
+2820,Empresa 86,Corresponsal 98,670589,Media
+2822,Empresa 18,Corresponsal 70,520931,Baja
+2826,Empresa 23,Corresponsal 10,960783,Baja
+2828,Empresa 66,Corresponsal 55,307461,Media
+2830,Empresa 44,Corresponsal 32,593051,Media
+2832,Empresa 6,Corresponsal 52,871887,Baja
+2835,Empresa 121,Corresponsal 44,429934,Alta
+2838,Empresa 64,Corresponsal 1,104440,Media
+2839,Empresa 197,Corresponsal 43,299844,Baja
+2843,Empresa 86,Corresponsal 69,133798,Media
+2846,Empresa 47,Corresponsal 19,592515,Baja
+2855,Empresa 191,Corresponsal 43,755473,Alta
+2856,Empresa 160,Corresponsal 96,771857,Alta
+2858,Empresa 197,Corresponsal 41,709024,Alta
+2859,Empresa 67,Corresponsal 38,323674,Baja
+2861,Empresa 66,Corresponsal 19,505603,Alta
+2866,Empresa 154,Corresponsal 94,630935,Alta
+2867,Empresa 36,Corresponsal 57,371313,Baja
+2872,Empresa 66,Corresponsal 47,867995,Baja
+2874,Empresa 67,Corresponsal 31,151167,Alta
+2875,Empresa 131,Corresponsal 69,126466,Alta
+2878,Empresa 74,Corresponsal 16,233551,Media
+2880,Empresa 0,Corresponsal 61,958192,Media
+2882,Empresa 23,Corresponsal 59,632281,Baja
+2884,Empresa 92,Corresponsal 74,362201,Alta
+2885,Empresa 110,Corresponsal 27,302334,Baja
+2887,Empresa 193,Corresponsal 52,218070,Alta
+2888,Empresa 167,Corresponsal 61,458788,Alta
+2893,Empresa 137,Corresponsal 98,740893,Alta
+2895,Empresa 184,Corresponsal 63,640513,Media
+2898,Empresa 105,Corresponsal 32,961308,Media
+2900,Empresa 15,Corresponsal 25,835070,Baja
+2901,Empresa 55,Corresponsal 4,567416,Alta
+2903,Empresa 39,Corresponsal 87,811806,Baja
+2904,Empresa 139,Corresponsal 58,666998,Alta
+2905,Empresa 18,Corresponsal 38,143153,Media
+2907,Empresa 104,Corresponsal 12,878618,Media
+2910,Empresa 122,Corresponsal 93,763183,Baja
+2911,Empresa 64,Corresponsal 60,637870,Baja
+2914,Empresa 23,Corresponsal 86,340479,Alta
+2915,Empresa 28,Corresponsal 80,739122,Media
+2920,Empresa 67,Corresponsal 39,226329,Media
+2921,Empresa 86,Corresponsal 17,529875,Baja
+2929,Empresa 162,Corresponsal 14,428762,Alta
+2930,Empresa 122,Corresponsal 23,234633,Alta
+2933,Empresa 161,Corresponsal 52,515844,Baja
+2935,Empresa 73,Corresponsal 55,534767,Media
+2937,Empresa 44,Corresponsal 88,520443,Alta
+2939,Empresa 94,Corresponsal 17,553046,Alta
+2943,Empresa 102,Corresponsal 46,468212,Baja
+2945,Empresa 88,Corresponsal 27,894738,Baja
+2954,Empresa 97,Corresponsal 60,909603,Baja
+2964,Empresa 10,Corresponsal 56,707225,Alta
+2965,Empresa 49,Corresponsal 40,369589,Alta
+2966,Empresa 6,Corresponsal 30,550766,Media
+2973,Empresa 89,Corresponsal 73,298427,Baja
+2976,Empresa 73,Corresponsal 72,572560,Alta
+2978,Empresa 187,Corresponsal 6,934384,Media
+2981,Empresa 145,Corresponsal 75,680385,Media
+2986,Empresa 193,Corresponsal 6,340268,Media
+2987,Empresa 19,Corresponsal 66,478845,Media
+2988,Empresa 123,Corresponsal 98,768251,Media
+2990,Empresa 170,Corresponsal 35,275031,Media
+2991,Empresa 24,Corresponsal 79,433864,Baja
+2993,Empresa 130,Corresponsal 47,987601,Media
+2994,Empresa 173,Corresponsal 71,207724,Baja
+2995,Empresa 97,Corresponsal 70,632093,Baja
+3000,Empresa 19,Corresponsal 69,764002,Baja
+3003,Empresa 105,Corresponsal 66,214981,Alta
+3012,Empresa 77,Corresponsal 86,195936,Alta
+3013,Empresa 145,Corresponsal 91,125557,Media
+3019,Empresa 14,Corresponsal 10,470515,Baja
+3023,Empresa 88,Corresponsal 23,183642,Media
+3024,Empresa 14,Corresponsal 35,673805,Media
+3025,Empresa 83,Corresponsal 85,197282,Baja
+3027,Empresa 99,Corresponsal 11,238606,Media
+3029,Empresa 145,Corresponsal 6,725929,Media
+3034,Empresa 137,Corresponsal 38,228579,Baja
+3038,Empresa 21,Corresponsal 25,152424,Alta
+3040,Empresa 15,Corresponsal 15,936526,Baja
+3045,Empresa 89,Corresponsal 24,118149,Alta
+3046,Empresa 23,Corresponsal 3,269689,Alta
+3048,Empresa 173,Corresponsal 97,951997,Media
+3050,Empresa 194,Corresponsal 83,962630,Baja
+3053,Empresa 70,Corresponsal 86,724637,Media
+3054,Empresa 101,Corresponsal 68,560155,Baja
+3059,Empresa 102,Corresponsal 40,347530,Baja
+3064,Empresa 1,Corresponsal 96,101311,Alta
+3067,Empresa 48,Corresponsal 29,862696,Media
+3069,Empresa 19,Corresponsal 23,612524,Baja
+3072,Empresa 47,Corresponsal 76,237463,Media
+3077,Empresa 64,Corresponsal 53,557066,Baja
+3079,Empresa 164,Corresponsal 17,954663,Media
+3084,Empresa 92,Corresponsal 78,363198,Media
+3086,Empresa 161,Corresponsal 1,622776,Baja
+3092,Empresa 47,Corresponsal 67,308200,Baja
+3093,Empresa 89,Corresponsal 11,937642,Baja
+3099,Empresa 70,Corresponsal 45,713118,Alta
+3105,Empresa 0,Corresponsal 53,806793,Baja
+3106,Empresa 47,Corresponsal 43,804679,Baja
+3108,Empresa 60,Corresponsal 99,260034,Baja
+3110,Empresa 119,Corresponsal 43,912838,Media
+3114,Empresa 114,Corresponsal 10,267124,Baja
+3115,Empresa 70,Corresponsal 21,621469,Media
+3118,Empresa 1,Corresponsal 91,744539,Baja
+3119,Empresa 173,Corresponsal 8,869540,Alta
+3124,Empresa 197,Corresponsal 5,766314,Baja
+3125,Empresa 59,Corresponsal 47,498992,Media
+3126,Empresa 150,Corresponsal 83,287611,Media
+3129,Empresa 97,Corresponsal 75,467968,Alta
+3131,Empresa 1,Corresponsal 11,589948,Alta
+3133,Empresa 49,Corresponsal 31,841911,Baja
+3135,Empresa 14,Corresponsal 84,979443,Media
+3139,Empresa 77,Corresponsal 76,226167,Baja
+3143,Empresa 66,Corresponsal 98,332004,Alta
+3144,Empresa 0,Corresponsal 12,949506,Alta
+3145,Empresa 97,Corresponsal 98,490197,Alta
+3146,Empresa 59,Corresponsal 52,117282,Media
+3149,Empresa 3,Corresponsal 18,524084,Baja
+3152,Empresa 19,Corresponsal 48,948620,Alta
+3155,Empresa 41,Corresponsal 20,356077,Media
+3156,Empresa 70,Corresponsal 3,143425,Alta
+3157,Empresa 102,Corresponsal 1,638913,Baja
+3158,Empresa 48,Corresponsal 40,440065,Alta
+3161,Empresa 157,Corresponsal 3,736566,Alta
+3162,Empresa 14,Corresponsal 100,371431,Baja
+3176,Empresa 172,Corresponsal 70,277440,Alta
+3177,Empresa 99,Corresponsal 42,267909,Media
+3181,Empresa 123,Corresponsal 83,114143,Baja
+3182,Empresa 30,Corresponsal 99,762419,Media
+3186,Empresa 2,Corresponsal 24,575668,Alta
+3188,Empresa 154,Corresponsal 10,869429,Media
+3190,Empresa 44,Corresponsal 30,286604,Alta
+3193,Empresa 184,Corresponsal 63,727540,Baja
+3199,Empresa 123,Corresponsal 42,150253,Alta
+3208,Empresa 123,Corresponsal 96,274503,Media
+3209,Empresa 187,Corresponsal 85,540586,Media
+3213,Empresa 86,Corresponsal 43,143685,Media
+3217,Empresa 141,Corresponsal 4,719874,Alta
+3223,Empresa 106,Corresponsal 45,964689,Baja
+3229,Empresa 99,Corresponsal 56,928664,Baja
+3231,Empresa 114,Corresponsal 31,740443,Media
+3234,Empresa 184,Corresponsal 32,468651,Baja
+3236,Empresa 83,Corresponsal 31,632001,Baja
+3237,Empresa 0,Corresponsal 28,205713,Baja
+3243,Empresa 101,Corresponsal 24,851489,Baja
+3246,Empresa 135,Corresponsal 38,425421,Alta
+3247,Empresa 115,Corresponsal 60,652124,Media
+3249,Empresa 24,Corresponsal 24,697321,Baja
+3253,Empresa 18,Corresponsal 14,307302,Baja
+3261,Empresa 170,Corresponsal 5,808458,Baja
+3262,Empresa 123,Corresponsal 35,511402,Media
+3268,Empresa 119,Corresponsal 54,523742,Baja
+3269,Empresa 97,Corresponsal 30,885516,Baja
+3270,Empresa 39,Corresponsal 63,645365,Media
+3271,Empresa 69,Corresponsal 74,487451,Baja
+3274,Empresa 64,Corresponsal 59,132236,Baja
+3277,Empresa 89,Corresponsal 47,741515,Alta
+3278,Empresa 154,Corresponsal 48,474493,Alta
+3282,Empresa 133,Corresponsal 39,251901,Media
+3287,Empresa 23,Corresponsal 55,519380,Baja
+3288,Empresa 106,Corresponsal 27,759004,Baja
+3289,Empresa 18,Corresponsal 16,659682,Media
+3294,Empresa 99,Corresponsal 77,255286,Media
+3296,Empresa 123,Corresponsal 25,829145,Media
+3297,Empresa 197,Corresponsal 89,582642,Alta
+3300,Empresa 92,Corresponsal 93,307856,Baja
+3301,Empresa 170,Corresponsal 30,817060,Media
+3304,Empresa 188,Corresponsal 73,547369,Media
+3306,Empresa 61,Corresponsal 65,298374,Alta
+3309,Empresa 83,Corresponsal 37,464336,Media
+3312,Empresa 185,Corresponsal 14,704582,Alta
+3313,Empresa 0,Corresponsal 57,178457,Baja
+3317,Empresa 160,Corresponsal 39,948178,Media
+3318,Empresa 160,Corresponsal 53,445713,Media
+3324,Empresa 59,Corresponsal 32,791196,Alta
+3328,Empresa 28,Corresponsal 14,133013,Alta
+3330,Empresa 106,Corresponsal 55,154400,Media
+3335,Empresa 42,Corresponsal 56,126836,Baja
+3338,Empresa 39,Corresponsal 26,913776,Baja
+3342,Empresa 69,Corresponsal 72,190138,Alta
+3346,Empresa 102,Corresponsal 61,196603,Media
+3352,Empresa 101,Corresponsal 38,490767,Alta
+3355,Empresa 40,Corresponsal 62,528852,Baja
+3360,Empresa 137,Corresponsal 24,535084,Baja
+3362,Empresa 119,Corresponsal 55,535853,Baja
+3366,Empresa 89,Corresponsal 12,696608,Baja
+3368,Empresa 8,Corresponsal 96,794328,Baja
+3376,Empresa 21,Corresponsal 49,691400,Baja
+3379,Empresa 165,Corresponsal 86,163265,Media
+3390,Empresa 60,Corresponsal 74,331196,Media
+3391,Empresa 69,Corresponsal 69,104286,Media
+3398,Empresa 115,Corresponsal 76,924575,Baja
+3400,Empresa 21,Corresponsal 30,145195,Alta
+3402,Empresa 47,Corresponsal 29,222001,Baja
+3409,Empresa 36,Corresponsal 82,122298,Baja
+3411,Empresa 100,Corresponsal 75,877746,Baja
+3417,Empresa 49,Corresponsal 31,329978,Baja
+3421,Empresa 133,Corresponsal 5,327320,Alta
+3424,Empresa 170,Corresponsal 17,783493,Baja
+3428,Empresa 185,Corresponsal 17,766957,Baja
+3430,Empresa 18,Corresponsal 46,478648,Baja
+3439,Empresa 114,Corresponsal 37,740286,Baja
+3444,Empresa 57,Corresponsal 69,616206,Baja
+3445,Empresa 28,Corresponsal 31,779063,Media
+3448,Empresa 121,Corresponsal 76,200472,Alta
+3450,Empresa 100,Corresponsal 6,937206,Media
+3458,Empresa 66,Corresponsal 11,260889,Alta
+3460,Empresa 41,Corresponsal 29,222919,Alta
+3463,Empresa 3,Corresponsal 24,162222,Baja
+3465,Empresa 193,Corresponsal 13,373451,Media
+3466,Empresa 172,Corresponsal 40,960459,Alta
+3469,Empresa 157,Corresponsal 27,561067,Baja
+3473,Empresa 104,Corresponsal 8,389867,Baja
+3475,Empresa 6,Corresponsal 73,938419,Baja
+3477,Empresa 115,Corresponsal 44,538320,Baja
+3480,Empresa 6,Corresponsal 57,195319,Alta
+3483,Empresa 68,Corresponsal 27,168304,Media
+3489,Empresa 61,Corresponsal 38,482888,Alta
+3490,Empresa 122,Corresponsal 58,290167,Alta
+3492,Empresa 194,Corresponsal 41,896480,Media
+3493,Empresa 28,Corresponsal 10,473083,Media
+3494,Empresa 41,Corresponsal 20,197244,Media
+3499,Empresa 4,Corresponsal 71,910830,Media
+3501,Empresa 73,Corresponsal 69,238876,Baja
+3502,Empresa 17,Corresponsal 57,218432,Baja
+3508,Empresa 36,Corresponsal 34,754556,Media
+3512,Empresa 59,Corresponsal 21,494550,Media
+3513,Empresa 39,Corresponsal 16,639774,Media
+3514,Empresa 70,Corresponsal 7,227323,Media
+3517,Empresa 8,Corresponsal 63,452537,Alta
+3519,Empresa 39,Corresponsal 11,810938,Baja
+3520,Empresa 102,Corresponsal 74,172333,Media
+3521,Empresa 48,Corresponsal 72,249578,Alta
+3522,Empresa 177,Corresponsal 35,384872,Baja
+3524,Empresa 83,Corresponsal 92,826678,Media
+3525,Empresa 92,Corresponsal 76,642406,Media
+3526,Empresa 110,Corresponsal 11,274178,Media
+3528,Empresa 69,Corresponsal 25,265359,Baja
+3535,Empresa 160,Corresponsal 23,331495,Media
+3537,Empresa 0,Corresponsal 27,955908,Media
+3542,Empresa 135,Corresponsal 93,376954,Baja
+3545,Empresa 105,Corresponsal 77,739229,Media
+3546,Empresa 10,Corresponsal 85,533409,Baja
+3547,Empresa 194,Corresponsal 12,793543,Alta
+3554,Empresa 184,Corresponsal 46,779331,Alta
+3556,Empresa 141,Corresponsal 60,471097,Baja
+3557,Empresa 101,Corresponsal 87,934329,Alta
+3559,Empresa 185,Corresponsal 73,731500,Baja
+3561,Empresa 36,Corresponsal 69,983192,Baja
+3565,Empresa 68,Corresponsal 17,918759,Alta
+3566,Empresa 19,Corresponsal 27,368756,Alta
+3567,Empresa 61,Corresponsal 79,518046,Alta
+3568,Empresa 140,Corresponsal 81,706998,Baja
+3569,Empresa 102,Corresponsal 43,348040,Alta
+3570,Empresa 0,Corresponsal 30,457375,Alta
+3581,Empresa 162,Corresponsal 49,176981,Media
+3583,Empresa 119,Corresponsal 9,101752,Alta
+3584,Empresa 187,Corresponsal 50,854336,Media
+3595,Empresa 14,Corresponsal 73,630027,Baja
+3596,Empresa 125,Corresponsal 76,171968,Baja
+3602,Empresa 133,Corresponsal 64,625226,Alta
+3605,Empresa 187,Corresponsal 73,786426,Baja
+3606,Empresa 173,Corresponsal 88,342321,Alta
+3619,Empresa 102,Corresponsal 67,837604,Media
+3621,Empresa 28,Corresponsal 3,384295,Media
+3622,Empresa 139,Corresponsal 48,344254,Baja
+3623,Empresa 154,Corresponsal 93,888420,Media
+3627,Empresa 47,Corresponsal 50,942330,Baja
+3630,Empresa 59,Corresponsal 66,954760,Alta
+3641,Empresa 131,Corresponsal 18,860106,Baja
+3643,Empresa 86,Corresponsal 52,656311,Baja
+3644,Empresa 28,Corresponsal 58,560347,Baja
+3648,Empresa 140,Corresponsal 81,296468,Media
+3650,Empresa 42,Corresponsal 98,541161,Media
+3651,Empresa 121,Corresponsal 40,710898,Baja
+3657,Empresa 47,Corresponsal 50,177916,Baja
+3660,Empresa 68,Corresponsal 92,454122,Alta
+3662,Empresa 14,Corresponsal 85,290458,Baja
+3666,Empresa 122,Corresponsal 52,208697,Baja
+3667,Empresa 125,Corresponsal 20,427081,Alta
+3669,Empresa 150,Corresponsal 70,689676,Media
+3673,Empresa 140,Corresponsal 56,214566,Media
+3677,Empresa 90,Corresponsal 63,929862,Alta
+3680,Empresa 88,Corresponsal 61,559378,Media
+3687,Empresa 36,Corresponsal 25,966309,Media
+3689,Empresa 36,Corresponsal 71,513841,Alta
+3690,Empresa 89,Corresponsal 93,611053,Baja
+3691,Empresa 90,Corresponsal 56,353060,Alta
+3693,Empresa 1,Corresponsal 23,221018,Baja
+3694,Empresa 3,Corresponsal 38,367427,Media
+3696,Empresa 83,Corresponsal 29,358180,Media
+3698,Empresa 74,Corresponsal 66,634744,Media
+3699,Empresa 167,Corresponsal 6,496601,Baja
+3704,Empresa 83,Corresponsal 33,984960,Alta
+3708,Empresa 48,Corresponsal 10,689817,Alta
+3709,Empresa 89,Corresponsal 85,204852,Alta
+3713,Empresa 109,Corresponsal 17,394524,Media
+3715,Empresa 59,Corresponsal 41,826959,Alta
+3717,Empresa 164,Corresponsal 77,675013,Media
+3722,Empresa 30,Corresponsal 90,630700,Baja
+3723,Empresa 167,Corresponsal 29,538006,Alta
+3726,Empresa 102,Corresponsal 63,365873,Media
+3729,Empresa 154,Corresponsal 62,180013,Media
+3731,Empresa 77,Corresponsal 45,951543,Baja
+3737,Empresa 100,Corresponsal 39,419714,Alta
+3746,Empresa 57,Corresponsal 81,754497,Alta
+3754,Empresa 41,Corresponsal 28,533031,Baja
+3763,Empresa 160,Corresponsal 95,401847,Baja
+3764,Empresa 131,Corresponsal 56,789818,Alta
+3766,Empresa 45,Corresponsal 32,291695,Media
+3771,Empresa 73,Corresponsal 73,745480,Media
+3775,Empresa 133,Corresponsal 7,948852,Alta
+3778,Empresa 131,Corresponsal 23,792162,Media
+3779,Empresa 150,Corresponsal 81,738141,Alta
+3780,Empresa 36,Corresponsal 80,362915,Alta
+3781,Empresa 188,Corresponsal 98,552010,Media
+3782,Empresa 184,Corresponsal 76,303479,Media
+3784,Empresa 45,Corresponsal 73,610156,Media
+3788,Empresa 23,Corresponsal 39,810504,Alta
+3789,Empresa 44,Corresponsal 85,238962,Baja
+3794,Empresa 97,Corresponsal 57,370661,Alta
+3798,Empresa 28,Corresponsal 37,868416,Baja
+3801,Empresa 17,Corresponsal 99,483280,Media
+3804,Empresa 83,Corresponsal 75,735454,Media
+3805,Empresa 131,Corresponsal 5,982660,Baja
+3806,Empresa 130,Corresponsal 82,858009,Alta
+3808,Empresa 40,Corresponsal 60,490596,Baja
+3814,Empresa 101,Corresponsal 84,299180,Media
+3820,Empresa 0,Corresponsal 96,945174,Baja
+3823,Empresa 185,Corresponsal 94,632281,Media
+3825,Empresa 60,Corresponsal 42,932710,Alta
+3828,Empresa 88,Corresponsal 9,133763,Media
+3829,Empresa 104,Corresponsal 50,650575,Media
+3833,Empresa 6,Corresponsal 94,536962,Alta
+3834,Empresa 60,Corresponsal 17,439461,Baja
+3835,Empresa 137,Corresponsal 5,245608,Alta
+3837,Empresa 2,Corresponsal 9,286664,Media
+3839,Empresa 150,Corresponsal 68,316988,Alta
+3845,Empresa 60,Corresponsal 99,671200,Media
+3848,Empresa 49,Corresponsal 67,840831,Baja
+3849,Empresa 61,Corresponsal 20,297727,Baja
+3856,Empresa 23,Corresponsal 100,645103,Media
+3857,Empresa 24,Corresponsal 19,912934,Media
+3858,Empresa 30,Corresponsal 97,102800,Alta
+3866,Empresa 88,Corresponsal 3,614602,Baja
+3869,Empresa 197,Corresponsal 10,745430,Alta
+3871,Empresa 79,Corresponsal 8,451780,Baja
+3874,Empresa 137,Corresponsal 43,287194,Alta
+3875,Empresa 41,Corresponsal 95,348937,Baja
+3876,Empresa 55,Corresponsal 19,282748,Baja
+3878,Empresa 79,Corresponsal 59,646486,Media
+3880,Empresa 21,Corresponsal 51,322575,Baja
+3882,Empresa 167,Corresponsal 100,313775,Baja
+3884,Empresa 118,Corresponsal 88,766636,Media
+3885,Empresa 160,Corresponsal 4,416297,Baja
+3886,Empresa 40,Corresponsal 53,813034,Baja
+3891,Empresa 144,Corresponsal 4,183209,Alta
+3894,Empresa 6,Corresponsal 18,474559,Baja
+3898,Empresa 3,Corresponsal 35,302830,Baja
+3922,Empresa 21,Corresponsal 63,489623,Media
+3923,Empresa 106,Corresponsal 18,328870,Baja
+3926,Empresa 69,Corresponsal 42,671767,Media
+3929,Empresa 0,Corresponsal 100,871129,Alta
+3933,Empresa 64,Corresponsal 68,541174,Alta
+3935,Empresa 97,Corresponsal 54,828627,Alta
+3948,Empresa 73,Corresponsal 54,467253,Alta
+3949,Empresa 97,Corresponsal 88,959464,Alta
+3950,Empresa 18,Corresponsal 16,588610,Media
+3951,Empresa 88,Corresponsal 69,670294,Baja
+3952,Empresa 172,Corresponsal 48,231757,Alta
+3953,Empresa 130,Corresponsal 12,739472,Alta
+3954,Empresa 197,Corresponsal 24,396419,Baja
+3957,Empresa 90,Corresponsal 53,918559,Alta
+3959,Empresa 167,Corresponsal 78,177081,Media
+3965,Empresa 144,Corresponsal 19,796417,Media
+3967,Empresa 187,Corresponsal 80,498564,Media
+3969,Empresa 79,Corresponsal 34,592009,Baja
+3972,Empresa 133,Corresponsal 34,829071,Media
+3977,Empresa 191,Corresponsal 78,152934,Baja
+3979,Empresa 154,Corresponsal 23,359387,Alta
+3983,Empresa 102,Corresponsal 67,650327,Baja
+3984,Empresa 193,Corresponsal 11,966150,Media
+3990,Empresa 61,Corresponsal 35,408851,Media
+3994,Empresa 2,Corresponsal 34,462918,Baja
+3998,Empresa 23,Corresponsal 38,917601,Alta
