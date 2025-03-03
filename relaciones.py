@@ -2128,7 +2128,153 @@ def get_solicitud_documento_tienda(driver, documento, tienda):
 
     return result
 
+# Distanica_tienda
 
+def create_distancia_tienda(driver, tienda1, tienda2,distancia,tiempo_mins,costo):
+
+    """
+    Crea una relacion de distancia entre dos tiendas
+
+    :param driver: driver de la base de datos Neo4j.
+    :param tienda1: nombre de la primera tienda.
+    :param tienda2: nombre de la segunda tienda.
+    :param distancia: distancia entre las tiendas.
+    :param tiempo_mins: tiempo en minutos entre las tiendas.
+    :param costo: costo de transporte entre las tiendas.
+
+    :return: mensaje de exito y resultado de la consulta.
+    
+    
+    """
+
+    result = driver.execute_query(
+
+        """
+        MATCH (t1:Tienda {Nombre: $tienda1})
+        MATCH (t2:Tienda {Nombre: $tienda2})
+        CREATE (t1)-[r:DISTANCIA_TIENDA]->(t2)
+        SET r.distancia = $distancia
+        SET r.tiempo_mins = $tiempo_mins
+        SET r.costo = $costo
+
+        """,
+        tienda1=tienda1,
+        tienda2=tienda2,
+        distancia=distancia,
+        tiempo_mins=tiempo_mins,
+        costo=costo,
+        database = 'neo4j'
+
+    )
+
+    return f'Relacion distancia creada entre {tienda1} y {tienda2}: ({distancia}, {tiempo_mins}, {costo})', result
+
+
+def delete_distancia_tienda(driver, tienda1, tienda2):
+    
+    """
+    Elimina una relacion de distancia entre dos tiendas
+
+    :param driver: driver de la base de datos Neo4j.
+    :param tienda1: nombre de la primera tienda.
+    :param tienda2: nombre de la segunda tienda.
+    :return: mensaje de exito y resultado de la consulta.
+    """
+
+    result = driver.execute_query(
+
+        """
+        MATCH (t1:Tienda {Nombre: $tienda1})-[r:DISTANCIA_TIENDA]->(t2:Tienda {Nombre: $tienda2})
+        DELETE r
+
+        """,
+        tienda1=tienda1,
+        tienda2=tienda2,
+        database = 'neo4j'
+
+    )
+
+    return f'Relacion distancia eliminada entre {tienda1} y {tienda2}', result
+
+def update_distancia_tienda(driver, tienda1, tienda2, distancia, tiempo_mins, costo):
+
+    """
+    Actualiza una relacion de distancia entre dos tiendas
+
+    :param driver: driver de la base de datos Neo4j.
+    :param tienda1: nombre de la primera tienda.
+    :param tienda2: nombre de la segunda tienda.
+    :param distancia: distancia entre las tiendas.
+    :param tiempo_mins: tiempo en minutos entre las tiendas.
+    :param costo: costo de transporte entre las tiendas.
+    :return: mensaje de exito y resultado de la consulta.
+    """
+
+    result = driver.execute_query(
+
+        """
+        MATCH (t1:Tienda {Nombre: $tienda1})-[r:DISTANCIA_TIENDA]->(t2:Tienda {Nombre: $tienda2})
+        SET r.distancia = $distancia
+        SET r.tiempo_mins = $tiempo_mins
+        SET r.costo = $costo
+
+        """,
+        tienda1=tienda1,
+        tienda2=tienda2,
+        distancia=distancia,
+        tiempo_mins=tiempo_mins,
+        costo=costo,
+        database = 'neo4j'
+
+    )
+
+    return f'Relacion distancia actualizada entre {tienda1} y {tienda2}: ({distancia}, {tiempo_mins}, {costo})', result
+
+def get_distancia_tienda_tienda(driver, tienda):
+    """
+    Obtiene la relacion de distancia en base al nombre de la tienda
+
+    :param driver: driver de la base de datos Neo4j.
+    :param tienda: nombre de la tienda.
+    :return:resultado de la consulta.
+    """
+    result = driver.execute_query(
+
+        """
+        MATCH (t1:Tienda {Nombre: $tienda})-[r:DISTANCIA_TIENDA]->(t2:Tienda)
+        RETURN r, t2
+
+        """,
+        tienda=tienda,
+        database = 'neo4j'
+
+    )
+
+    return result
+
+def get_distancia_tienda_tienda_tienda(driver, tienda1, tienda2):
+    """
+    Obtiene la relacion de distancia entre dos tiendas
+
+    :param driver: driver de la base de datos Neo4j.
+    :param tienda1: nombre de la primera tienda.
+    :param tienda2: nombre de la segunda tienda.
+    :return:resultado de la consulta.
+    """
+    result = driver.execute_query(
+
+        """
+        MATCH (t1:Tienda {Nombre: $tienda1})-[r:DISTANCIA_TIENDA]->(t2:Tienda {Nombre: $tienda2})
+        RETURN r
+
+        """,
+        tienda1=tienda1,
+        tienda2=tienda2,
+        database = 'neo4j'
+
+    )
+
+    return result
 
 
 
