@@ -874,7 +874,7 @@ def create_fabricado_por(driver, fabricante, producto, materiales, costo, fechaI
     
     """
     
-    driver.execute_query(
+    result = driver.execute_query(
         """
         MATCH (f:Empresa {Tipo: 'Fabricante', Nombre: $fabricante})
         MATCH (p:Producto {Nombre: $producto})
