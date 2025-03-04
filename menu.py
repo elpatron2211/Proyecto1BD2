@@ -343,211 +343,159 @@ def gestionar_relaciones():
         else:
             print("Opción no válida. Intente de nuevo.")
 """
-def gestionar_relaciones():
+
+def gestionar_despachos():
+    pass
+
+
+def gestionar_completado_por():
     while True:
-        print("\n--- Gestionar Relaciones ---")
-        print("1. Crear Relación de Despacho")
-        print("2. Eliminar Relación de Despacho")
-        print("3. Obtener Relación de Despacho por Documento")
-        print("4. Obtener Relación de Despacho por Almacén")
-        print("5. Obtener Relación de Despacho por Camión")
-        print("6. Obtener Relación de Distancia")
-        print("7. Obtener Relación de Completado por Documento")
-        print("8. Obtener Relación de Completado por Camión")
-        print("9. Obtener Relación de Distribuido por Empresa")
-        print("10. Obtener Relación de Distribuido por Producto")
-        print("11. Obtener Relación de Distribuye a Fabricante")
-        print("12. Obtener Relación de Distribuye a Proveedor")
-        print("13. Obtener Relación de Entregado en Camión")
-        print("14. Obtener Relación de Entregado en Tienda")
-        print("15. Obtener Relación de Fabricado por Fabricante")
-        print("16. Obtener Relación de Fabricado por Producto")
-        print("17. Obtener Relación de Inventario Almacén por Almacén")
-        print("18. Obtener Relación de Inventario Almacén por Producto")
-        print("19. Obtener Relación de Inventario Tienda por Tienda")
-        print("20. Obtener Relación de Inventario Tienda por Producto")
-        print("21. Obtener Relación de Ordenado a Almacén por Documento")
-        print("22. Obtener Relación de Ordenado a Almacén por Almacén")
-        print("23. Obtener Relación de Ordenado a Empresa por Documento")
-        print("24. Obtener Relación de Ordenado a Empresa por Empresa")
-        print("25. Obtener Relación de Ordenes por Documento")
-        print("26. Obtener Relación de Ordenes por Almacén")
-        print("27. Obtener Relación de Productos Ordenados por Documento")
-        print("28. Obtener Relación de Productos Ordenados por Producto")
-        print("29. Obtener Relación de Solicitud por Documento")
-        print("30. Obtener Relación de Solicitud por Tienda")
-        print("31. Obtener Relación de Distancia Tienda por Tienda")
-        print("32. Volver al menú principal")
-        
+        print("\n--- Gestionar Completados ---")
+        print("1. Crear Completado")
+        print("2. Leer Completado por Camion")
+        print("3. Leer Completado por Documento")
+        print("4. Leer Completado por Camón y Documento")
+        print("5. Eliminar Completado")
+        print("6. Volver al menú principal")
         opcion = input("Seleccione una opción: ")
 
         if opcion == "1":
-            almacen = input("Nombre del almacén: ")
-            camion = input("Placas del camión: ")
             documento = input("Documento: ")
-            codigoConfirmacion = input("Código de confirmación: ")
-            fechaEntrega = input("Fecha de entrega: ")
-            result = create_despacho_a(driver, almacen, camion, documento, codigoConfirmacion, fechaEntrega)
+            camion = input("Camión: ")
+            comision = input("Comision: ")
+            ayudante = input("Ayudante: ")
+            tiempoDescargaMinutos = input("Tiempo de descarga (minutos): ")
+            result = create_completado_por(driver, documento, camion, comision, ayudante, tiempoDescargaMinutos)
             print(result)
 
         elif opcion == "2":
-            almacen = input("Nombre del almacén: ")
-            camion = input("Placas del camión: ")
-            documento = input("Documento: ")
-            result = delete_despacho_a(driver, almacen, camion, documento)
+            documento = input("Camión: ")
+            result = get_completado_por_camion(driver, documento)
             print(result)
 
         elif opcion == "3":
             documento = input("Documento: ")
-            result = get_despacho_a_documento(driver, documento)
+            fecha = input("Fecha: ")
+            result = get_completado_por_documento(driver, documento, fecha)
             print(result)
 
         elif opcion == "4":
-            almacen = input("Nombre del almacén: ")
-            result = get_despacho_a_almacen(driver, almacen)
+            documento = input("Documento: ")
+            camion = input("Camión: ")
+            result = get_completado_por_documento_camion(driver, documento, camion)
             print(result)
 
         elif opcion == "5":
-            camion = input("Placas del camión: ")
-            result = get_despacho_a_camion(driver, camion)
-            print(result)
-
-        elif opcion == "6":
-            almacen = input("Nombre del almacén: ")
-            tienda = input("Nombre de la tienda: ")
-            result = get_distancia(driver, almacen, tienda)
-            print(result)
-
-        elif opcion == "7":
             documento = input("Documento: ")
-            result = get_completado_por_documento(driver, documento)
+            camion = input("Camión: ")
+            result = delete_completado_por(driver, documento, camion)
             print(result)
-
-        elif opcion == "8":
-            camion = input("Placas del camión: ")
-            result = get_completado_por_camion(driver, camion)
-            print(result)
-
-        elif opcion == "9":
-            empresa = input("Nombre de la empresa: ")
-            result = get_distribuido_por_empresa(driver, empresa)
-            print(result)
-
-        elif opcion == "10":
-            producto = input("Nombre del producto: ")
-            result = get_distribuido_por_producto(driver, producto)
-            print(result)
-
-        elif opcion == "11":
-            fabricante = input("Nombre del fabricante: ")
-            result = get_distribuye_a_fabricante(driver, fabricante)
-            print(result)
-
-        elif opcion == "12":
-            proveedor = input("Nombre del proveedor: ")
-            result = get_distribuye_a_proveedor(driver, proveedor)
-            print(result)
-
-        elif opcion == "13":
-            camion = input("Placas del camión: ")
-            result = get_entregado_en_camion(driver, camion)
-            print(result)
-
-        elif opcion == "14":
-            tienda = input("Nombre de la tienda: ")
-            result = get_entregado_en_tienda(driver, tienda)
-            print(result)
-
-        elif opcion == "15":
-            fabricante = input("Nombre del fabricante: ")
-            result = get_fabricado_por_fabricante(driver, fabricante)
-            print(result)
-
-        elif opcion == "16":
-            producto = input("Nombre del producto: ")
-            result = get_fabricado_por_producto(driver, producto)
-            print(result)
-
-        elif opcion == "17":
-            almacen = input("Nombre del almacén: ")
-            result = get_inventario_almacen_almacen(driver, almacen)
-            print(result)
-
-        elif opcion == "18":
-            producto = input("Nombre del producto: ")
-            result = get_inventario_almacen_producto(driver, producto)
-            print(result)
-
-        elif opcion == "19":
-            tienda = input("Nombre de la tienda: ")
-            result = get_inventario_tienda_tienda(driver, tienda)
-            print(result)
-
-        elif opcion == "20":
-            producto = input("Nombre del producto: ")
-            result = get_inventario_tienda_producto(driver, producto)
-            print(result)
-
-        elif opcion == "21":
-            documento = input("Documento: ")
-            result = get_ordenado_a_almacen_documento(driver, documento)
-            print(result)
-
-        elif opcion == "22":
-            almacen = input("Nombre del almacén: ")
-            result = get_ordenado_a_almacen_almacen(driver, almacen)
-            print(result)
-
-        elif opcion == "23":
-            documento = input("Documento: ")
-            result = get_ordenado_a_empresa_documento(driver, documento)
-            print(result)
-
-        elif opcion == "24":
-            empresa = input("Nombre de la empresa: ")
-            result = get_ordenado_a_empresa_empresa(driver, empresa)
-            print(result)
-
-        elif opcion == "25":
-            documento = input("Documento: ")
-            result = get_ordenes_documento(driver, documento)
-            print(result)
-
-        elif opcion == "26":
-            almacen = input("Nombre del almacén: ")
-            result = get_ordenes_almacen(driver, almacen)
-            print(result)
-
-        elif opcion == "27":
-            documento = input("Documento: ")
-            result = get_productos_ordenados_documento(driver, documento)
-            print(result)
-
-        elif opcion == "28":
-            producto = input("Nombre del producto: ")
-            result = get_productos_ordenados_producto(driver, producto)
-            print(result)
-
-        elif opcion == "29":
-            documento = input("Documento: ")
-            result = get_solicitud_documento(driver, documento)
-            print(result)
-
-        elif opcion == "30":
-            tienda = input("Nombre de la tienda: ")
-            result = get_solicitud_tienda(driver, tienda)
-            print(result)
-
-        elif opcion == "31":
-            tienda = input("Nombre de la tienda: ")
-            result = get_distancia_tienda_tienda(driver, tienda)
-            print(result)
-
-        elif opcion == "32":
-            break
 
         else:
             print("Opción no válida. Intente de nuevo.")
+
+def gestionar_distancia_almacen():
+    pass
+
+def gestionar_distancia_tienda():
+    pass
+
+def gestionar_distribuido_por():
+    pass
+
+def gestionar_distribuye_a():
+    pass
+
+def gestionar_entregado_en():
+    pass
+
+def gestionar_fabricado_por():
+    pass
+
+def gestionar_inventario_almacen():
+    pass
+
+def gestionar_inventario_tienda():
+    pass
+
+def gestionar_ordenado_a_almacen():
+    pass
+
+def gestionar_ordenado_a_empresa():
+    pass
+
+def gestionar_ordenes():
+    pass
+
+def gestionar_productos_ordenados():
+    pass
+
+def gestionar_solicitud():
+    pass
+
+
+
+
+
+def gestionar_relaciones():
+    while True:
+        print("\n--- Gestionar Relaciones ---")
+
+        print("1. Despachos")
+        print("2. Distancias Almacenes a Tiendas")
+        print("3. Distancia Tienda a Tienda")
+        print("4. Completado Por")
+        print("5. Distribuido Por")
+        print("6. Distribuye A")
+        print("7. Entregado En")
+        print("8. Fabricado Por")
+        print("9. Inventario Almacén")
+        print("10. Inventario Tienda")
+        print("11. Ordenado A Almacen")
+        print("12. Ordenado A Empresa")
+        print("13. Ordenes")
+        print("14. Productos Ordenados")
+        print("15. Solicitud")
+        print("16. Volver al menú principal")
+        
+        opcion = input("Seleccione una opción: ")
+
+        if opcion == "1":
+            gestionar_despachos()
+        elif opcion == "2":
+            gestionar_distancia_almacen()
+        elif opcion == "3":
+            gestionar_distancia_tienda()
+        elif opcion == "4":
+            gestionar_completado_por()
+        elif opcion == "5":
+            gestionar_distribuido_por()
+        elif opcion == "6":
+            gestionar_distribuye_a()
+        elif opcion == "7":
+            gestionar_entregado_en()
+        elif opcion == "8":
+            gestionar_fabricado_por()
+        elif opcion == "9":
+            gestionar_inventario_almacen()
+        elif opcion == "10":
+            gestionar_inventario_tienda()
+        elif opcion == "11":
+            gestionar_ordenado_a_almacen()
+        elif opcion == "12":
+            gestionar_ordenado_a_empresa()
+        elif opcion == "13":
+            gestionar_ordenes()
+        elif opcion == "14":
+            gestionar_productos_ordenados()
+        elif opcion == "15":
+            gestionar_solicitud()
+        elif opcion == "16":
+            break
+        else:
+            print("Opción no válida. Intente de nuevo.")
+
+
 def main():
     while True:
         print_menu()
