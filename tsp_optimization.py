@@ -1,4 +1,5 @@
 from neo4j import GraphDatabase
+from crud import *
 
 from ortools.constraint_solver import routing_enums_pb2
 from ortools.constraint_solver import pywrapcp
@@ -58,12 +59,23 @@ def TSP(driver):
     valor_a_optimizar = input("¿Qué desea optimizar? (distancia, tiempo, costo): ")
     if valor_a_optimizar == "tiempo":
         valor_a_optimizar = "tiempo_mins"
-    almacen = input("Ingrese el almacén de donde partirá el camión: ")
-    try:
-        almacen = int(almacen)
-        almacen = "Almacen "+str(almacen)
-    except:
-        pass
+
+    notValid = True
+    while notValid:
+        almacen = input("Ingrese el almacén de donde partirá el camión: ")
+        try:
+            almacen = int(almacen)
+            almacen = "Almacen "+str(almacen)
+        except:
+            pass
+        print(almacen)
+        al = readAlmacen(driver, almacen)
+        # Revisar si TipoAlmacen es "Almacen Despacho"
+
+        if dict(al[0][0]["a"])['TipoAlmacen'] != "Almacen Despacho":
+            print("El almacén ingresado no es un almacén de despacho.")
+            continue
+        notValid = False
         
 
     tiendas_en_ruta = []
