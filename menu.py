@@ -395,43 +395,69 @@ def gestionar_completado_por():
             print("Opción no válida. Intente de nuevo.")
 
 def gestionar_distancia_almacen():
-    pass
+    almacen=input("Nombre del almacen: ")
+    tienda = input("Nombre de la tienda: ")
+    result=(get_distancia(driver,almacen,tienda))
+    print(result)
 
 def gestionar_distancia_tienda():
-    pass
-
+    tienda1=input("Nombre de la tienda 1")
+    result=(get_distancia_tienda_tienda(driver,tienda1))
+    print(result)
 def gestionar_distribuido_por():
-    pass
+    producto=input("Ingresa el nombre del producto: ")
+    result=get_distribuido_por_producto(driver,producto)
+    print(result)
 
 def gestionar_distribuye_a():
-    pass
+    proveedor=input("Ingresa el nombre del proveedor: ")
+    result=get_distribuye_a_proveedor(driver,proveedor)
+    print(result)
 
 def gestionar_entregado_en():
-    pass
+    camion=input("Ingresa las placas del camion: ")    
+    result=get_entregado_en_camion(driver,camion)
+    print(result)
 
 def gestionar_fabricado_por():
-    pass
+    fabricante=input("Ingresa el nombre del fabricante: ")
+    result=get_fabricado_por_fabricante(driver,fabricante)
+    print(result)
 
 def gestionar_inventario_almacen():
-    pass
+    almacen=input("Ingresa el nombre del almacen: ")
+    result=get_inventario_almacen_almacen(driver,almacen)
+    print(result)
 
 def gestionar_inventario_tienda():
-    pass
+    tienda=input("Ingresa el nombre de la tienda: ")
+    result=get_inventario_tienda_tienda(driver,tienda)
+    print(result)
 
 def gestionar_ordenado_a_almacen():
-    pass
+    almacen=input("Ingresa el nombre del almacen: ")
+    result=get_ordenado_a_almacen_almacen(driver,almacen)
+    print(result)
 
 def gestionar_ordenado_a_empresa():
-    pass
+    empresa=input("Ingresa el nombre de la empresa: ")
+    result=get_ordenado_a_empresa_empresa(driver,empresa)
+    print(result)
 
 def gestionar_ordenes():
-    pass
+    orden=input("Ingresa el numero de la orden: ")
+    result=get_ordenes_documento(driver,orden)
+    print(result)
 
 def gestionar_productos_ordenados():
-    pass
+    producto=input("Ingresa el nombre del producto: ")
+    result=get_productos_ordenados_producto(driver,producto)
+    print(result)
 
 def gestionar_solicitud():
-    pass
+    solicitud=input("Ingresa el numero de la solicitud: ")
+    result=get_solicitud_documento(driver,solicitud)
+    print(result)
 
 
 
