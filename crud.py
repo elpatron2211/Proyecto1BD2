@@ -20,7 +20,7 @@ def createEmpresa(driver, tipo, nombre, pais, telefono, email):
         """
         MERGE (e:Empresa {Tipo: $tipo, Nombre: $nombre, Pais: $pais, Telefono: $telefono, Email: $email})
         RETURN e
-        """, tipo=tipo, nombre=nombre, pais=pais, telefono=telefono, email=email, database='neo4j'
+        """, tipo=tipo, nombre=nombre, pais=pais, telefono=int(telefono), email=email, database='neo4j'
     )
     return f"Empresa creada: ({tipo}, {nombre}, {pais}, {telefono}, {email})", result
 
@@ -56,7 +56,7 @@ def updateEmpresa(driver, tipo, nombre, pais, telefono, email):
             e.Pais = $pais,
             e.Tipo = $tipo
         RETURN e
-        """, tipo=tipo, pais=pais, nombre=nombre, telefono=telefono, email=email, database='neo4j'
+        """, tipo=tipo, pais=pais, nombre=nombre, telefono=int(telefono), email=email, database='neo4j'
     )
     return f"Empresa actualizada: ({nombre}, {tipo}, {pais}, {telefono}, {email})", result
 
@@ -92,7 +92,7 @@ def createProducto(driver, nombre, precio, codigo, tipo, marca):
         """
         MERGE (p:Producto {Nombre: $nombre, Precio: $precio, Codigo: $codigo, Tipo: $tipo, Marca: $marca})
         RETURN p
-        """, nombre=nombre, precio=precio, codigo=codigo, tipo=tipo, marca=marca, database='neo4j'
+        """, nombre=nombre, precio=float(precio), codigo=codigo, tipo=tipo, marca=marca, database='neo4j'
     )
     return f"Producto creado: ({nombre}, {precio}, {codigo}, {tipo}, {marca})", result
 
@@ -130,7 +130,7 @@ def updateProducto(driver, nombre, precio, codigo, tipo, marca):
             p.Tipo = $tipo,
             p.Marca = $marca
         RETURN p
-        """, nombre=nombre, precio=precio, codigo=codigo, tipo=tipo, marca=marca, database='neo4j'
+        """, nombre=nombre, precio=float(precio), codigo=codigo, tipo=tipo, marca=marca, database='neo4j'
     )
     return f"Producto actualizado: ({nombre}, {precio}, {codigo}, {tipo}, {marca})", result
 
@@ -166,7 +166,7 @@ def createDocumento(driver, tipoDocumento, fechaEmision, numero, estado, total):
         """
         MERGE (d:Documento {TipoDocumento: $tipoDocumento, FechaEmisión: $fechaEmision, Numero: $numero, Estado: $estado, Total: $total})
         RETURN d
-        """, tipoDocumento=tipoDocumento, fechaEmision=fechaEmision, numero=numero, estado=estado, total=total, database='neo4j'
+        """, tipoDocumento=tipoDocumento, fechaEmision=fechaEmision, numero=int(numero), estado=estado, total=float(total), database='neo4j'
     )
     return f"Documento creado: ({tipoDocumento}, {fechaEmision}, {numero}, {estado}, {total})", result
 
@@ -205,7 +205,7 @@ def updateDocumento(driver, tipoDocumento, fechaEmision, numero, estado, total):
             d.Estado = $estado,
             d.Total = $total
         RETURN d
-        """, tipoDocumento=tipoDocumento, fechaEmision=fechaEmision, numero=numero, estado=estado, total=total, database='neo4j'
+        """, tipoDocumento=tipoDocumento, fechaEmision=fechaEmision, numero=int(numero), estado=estado, total=float(total), database='neo4j'
     )
     return f"Documento actualizado: ({tipoDocumento}, {fechaEmision}, {numero}, {estado}, {total})", result
 
@@ -220,7 +220,7 @@ def deleteDocumento(driver, numero):
         """
         MATCH (d:Documento {Numero: $numero})
         DETACH DELETE d
-        """, numero=numero, database='neo4j'
+        """, numero=int(numero), database='neo4j'
     )
     return f"Documento eliminado: {numero}",
 
@@ -242,7 +242,7 @@ def createAlmacen(driver, nombre, direccion, telefono, ciudad, tipoAlmacen):
         """
         MERGE (a:Almacén {Nombre: $nombre, Direccion: $direccion, Telefono: $telefono, Ciudad: $ciudad, TipoAlmacen: $tipoAlmacen})
         RETURN a
-        """, nombre=nombre, direccion=direccion, telefono=telefono, ciudad=ciudad, tipoAlmacen=tipoAlmacen, database='neo4j'
+        """, nombre=nombre, direccion=direccion, telefono=int(telefono), ciudad=ciudad, tipoAlmacen=tipoAlmacen, database='neo4j'
     )
     return f"Almacén creado: ({nombre}, {direccion}, {telefono}, {ciudad}, {tipoAlmacen})", result
 
@@ -281,7 +281,7 @@ def updateAlmacen(driver, nombre, direccion, telefono, ciudad, tipoAlmacen):
             a.Ciudad = $ciudad,
             a.TipoAlmacen = $tipoAlmacen
         RETURN a
-        """, nombre=nombre, direccion=direccion, telefono=telefono, ciudad=ciudad, tipoAlmacen=tipoAlmacen, database='neo4j'
+        """, nombre=nombre, direccion=direccion, telefono=int(telefono), ciudad=ciudad, tipoAlmacen=tipoAlmacen, database='neo4j'
     )
     return f"Almacen actualizado: ({nombre}, {direccion}, {telefono}, {ciudad}, {tipoAlmacen})", result
 
@@ -317,7 +317,7 @@ def createTienda(driver, nombre, direccion, telefono, ciudad, asesor):
         """
         MERGE (t:Tienda {Nombre: $nombre, Direccion: $direccion, Telefono: $telefono, Ciudad: $ciudad, Asesor: $asesor})
         RETURN t
-        """, nombre=nombre, direccion=direccion, telefono=telefono, ciudad=ciudad, asesor=asesor, database='neo4j'
+        """, nombre=nombre, direccion=direccion, telefono=int(telefono), ciudad=ciudad, asesor=asesor, database='neo4j'
     )
     return f"Tienda creada: ({nombre}, {direccion}, {telefono}, {ciudad}, {asesor})", result
 
@@ -356,7 +356,7 @@ def updateTienda(driver, nombre, direccion, telefono, ciudad, asesor):
             t.Ciudad = $ciudad,
             t.Asesor = $asesor
         RETURN t
-        """, nombre=nombre, direccion=direccion, telefono=telefono, ciudad=ciudad, asesor=asesor, database='neo4j'
+        """, nombre=nombre, direccion=direccion, telefono=int(telefono), ciudad=ciudad, asesor=asesor, database='neo4j'
     )
     return f"Tienda actualizada: ({nombre}, {direccion}, {telefono}, {ciudad}, {asesor})", result
 
@@ -393,7 +393,7 @@ def createCamion(driver, placas, marca, modelo, capacidad, piloto):
         """
         MERGE (c:Camión {Placas: $placas, Marca: $marca, Modelo: $modelo, Capacidad: $capacidad, Piloto: $piloto})
         RETURN c
-        """, placas=placas, marca=marca, modelo=modelo, capacidad=capacidad, piloto=piloto, database='neo4j'
+        """, placas=int(placas), marca=marca, modelo=int(modelo), capacidad=int(capacidad), piloto=piloto, database='neo4j'
     )
     return f"Camión creado: ({placas}, {marca}, {modelo}, {capacidad}, {piloto})", result
 
@@ -408,7 +408,7 @@ def readCamion(driver, placas):
         """
         MATCH (c:Camión {Placas: $placas})
         RETURN c
-        """, placas=placas, database='neo4j'
+        """, placas=int(placas), database='neo4j'
     )
     return result
 
@@ -431,7 +431,7 @@ def updateCamion(driver, placas, marca, modelo, capacidad, piloto):
             c.Capacidad = $capacidad,
             c.Piloto = $piloto
         RETURN c
-        """, placas=placas, marca=marca, modelo=modelo, capacidad=capacidad, piloto=piloto, database='neo4j'
+        """, placas=int(placas), marca=marca, modelo=int(modelo), capacidad=int(capacidad), piloto=piloto, database='neo4j'
     )
     return f"Camion actualizado: ({placas}, {marca}, {modelo}, {capacidad}, {piloto})", result
 
@@ -446,7 +446,7 @@ def deleteCamion(driver, placas):
         """
         MATCH (c:Camión {Placas: $placas})
         DETACH DELETE c
-        """, placas=placas, database='neo4j'
+        """, placas=int(placas), database='neo4j'
     )
     return f"Camion eliminado: {placas}",
 

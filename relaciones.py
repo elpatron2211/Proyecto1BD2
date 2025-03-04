@@ -19,7 +19,7 @@ def create_despacho_a(driver, almacen, camion, documento, codigoConfirmacion, fe
         """
         MATCH (a:Almacén {Nombre: $almacen})
         MATCH (c:Camión {Placas: $camion})
-        CREATE (a)-[r:DESPACHO_A]->(c)
+        CREATE (a)<-[r:DESPACHO_A]-(c)
         SET r.documento = $documento
         SET r.codigoConfirmacion = $codigoConfirmacion
         SET r.fechaEntrega = $fechaEntrega
@@ -27,9 +27,9 @@ def create_despacho_a(driver, almacen, camion, documento, codigoConfirmacion, fe
 
         """,
         almacen=almacen,
-        camion=camion,
-        documento=documento,   
-        codigoConfirmacion=codigoConfirmacion,
+        camion=int(camion),
+        documento=int(documento),   
+        codigoConfirmacion=int(codigoConfirmacion),
         fechaEntrega=fechaEntrega,
         database = 'neo4j'
 
@@ -49,13 +49,13 @@ def delete_despacho_a(driver, almacen, camion, documento):
     result = driver.execute_query(
 
         """
-        MATCH (a:Almacén {Nombre: $almacen})-[r:DESPACHO_A {documento: $documento}]->(c:Camión {Placas: $camion})
+        MATCH (a:Almacén {Nombre: $almacen})<-[r:DESPACHO_A {documento: $documento}]-(c:Camión {Placas: $camion})
         DELETE r
 
         """,
         almacen=almacen,
-        camion=camion,
-        documento=documento,
+        camion=int(camion),
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -73,11 +73,11 @@ def get_despacho_a_documento(driver, documento):
     result = driver.execute_query(
 
         """
-        MATCH (a:Almacén)-[r:DESPACHO_A {documento: $documento}]->(c:Camión)
+        MATCH (a:Almacén)<-[r:DESPACHO_A {documento: $documento}]-(c:Camión)
         RETURN a, r, c
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -96,7 +96,7 @@ def get_despacho_a_almacen(driver, almacen):
     result = driver.execute_query(
 
         """
-        MATCH (a:Almacén {Nombre: $almacen})-[r:DESPACHO_A]->(c:Camión)
+        MATCH (a:Almacén {Nombre: $almacen})<-[r:DESPACHO_A]-(c:Camión)
         RETURN r, c
 
         """,
@@ -118,11 +118,11 @@ def get_despacho_a_camion(driver, camion):
     result = driver.execute_query(
 
         """
-        MATCH (a:Almacén)-[r:DESPACHO_A]->(c:Camión {Placas: $camion})
+        MATCH (a:Almacén)<-[r:DESPACHO_A]-(c:Camión {Placas: $camion})
         RETURN r, a
 
         """,
-        camion=camion,
+        camion=int(camion),
         database = 'neo4j'
 
     )
@@ -141,12 +141,12 @@ def get_despachos_almacen_camion(driver, almacen, camion):
     result = driver.execute_query(
 
         """
-        MATCH (a:Almacén {Nombre: $almacen})-[r:DESPACHO_A]->(c:Camión {Placas: $camion})
+        MATCH (a:Almacén {Nombre: $almacen})<-[r:DESPACHO_A]-(c:Camión {Placas: $camion})
         RETURN r
 
         """,
         almacen=almacen,
-        camion=camion,
+        camion=int(camion),
         database = 'neo4j'
 
     )
@@ -180,9 +180,9 @@ def create_distancia(driver, almacen, tienda, distancia, tiempo_mins, costo):
         """,
         almacen=almacen,
         tienda=tienda,
-        distancia=distancia,
-        tiempo_mins=tiempo_mins,
-        costo=costo,
+        distancia=int(distancia),
+        tiempo_mins=int(tiempo_mins),
+        costo=int(costo),
         database = 'neo4j'
 
     )
@@ -239,9 +239,9 @@ def update_distancia(driver, almacen, tienda, distancia, tiempo_mins, costo):
         """,
         almacen=almacen,
         tienda=tienda,
-        distancia=distancia,
-        tiempo_mins=tiempo_mins,
-        costo=costo,
+        distancia=int(distancia),
+        tiempo_mins=int(tiempo_mins),
+        costo=int(costo),
         database = 'neo4j'
 
     )
@@ -297,11 +297,11 @@ def create_completado_por(driver, documento, camion, comision, ayudante, tiempoD
         SET r.tiempoDescargaMinutos = $tiempoDescargaMinutos
 
         """,
-        documento=documento,
-        camion=camion,
-        comision=comision,
+        documento=int(documento),
+        camion=int(camion),
+        comision=float(comision),
         ayudante=ayudante,
-        tiempoDescargaMinutos=tiempoDescargaMinutos,
+        tiempoDescargaMinutos=int(tiempoDescargaMinutos),
         database = 'neo4j'
 
     )
@@ -324,8 +324,8 @@ def delete_completado_por(driver, documento, camion):
         DELETE r
 
         """,
-        documento=documento,
-        camion=camion,
+        documento=int(documento),
+        camion=int(camion),
         database = 'neo4j'
 
     )
@@ -347,7 +347,7 @@ def get_completado_por_documento(driver, documento):
         RETURN r, c
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -369,7 +369,7 @@ def get_completado_por_camion(driver, camion):
         RETURN r, d
 
         """,
-        camion=camion,
+        camion=int(camion),
         database = 'neo4j'
 
     )
@@ -392,8 +392,8 @@ def get_completado_por_documento_camion(driver, documento, camion):
         RETURN r
 
         """,
-        documento=documento,
-        camion=camion,
+        documento=int(documento),
+        camion=int(camion),
         database = 'neo4j'
 
     )
@@ -429,7 +429,7 @@ def create_distribuido_por(driver, empresa, producto, costo, horasTomaPedidos, d
         """,
         empresa=empresa,
         producto=producto,
-        costo=costo,
+        costo=float(costo),
         horasTomaPedidos=horasTomaPedidos,
         distribuidoDesde=distribuidoDesde,
         database = 'neo4j'
@@ -486,7 +486,7 @@ def update_distribuido_por(driver, empresa, producto, costo, horasTomaPedidos, d
         """,
         empresa=empresa,
         producto=producto,
-        costo=costo,
+        costoint=float(costo),
         horasTomaPedidos=horasTomaPedidos,
         distribuidoDesde=distribuidoDesde,
         database = 'neo4j'
@@ -593,7 +593,7 @@ def create_distribuye_a(driver,fabricante, proveedor, fechaInicioContrato, fecha
         proveedor=proveedor,
         fechaInicioContrato=fechaInicioContrato,
         fechaFinContrato=fechaFinContrato,
-        precioContrato=precioContrato,
+        precioContrato=int(precioContrato),
         database = 'neo4j'
 
     )
@@ -649,7 +649,7 @@ def update_distribuye_a(driver, fabricante, proveedor, fechaInicioContrato, fech
         proveedor=proveedor,
         fechaInicioContrato=fechaInicioContrato,
         fechaFinContrato=fechaFinContrato,
-        precioContrato=precioContrato,
+        precioContrato=int(precioContrato),
         database = 'neo4j'
 
     )
@@ -751,11 +751,11 @@ def create_entregado_en(driver, camion, tienda, documento, integridadProductos, 
         SET r.tiempoDescargaMinutos = $tiempoDescargaMinutos
 
         """,
-        camion=camion,
+        camion=int(camion),
         tienda=tienda,
-        documento=documento,
+        documento=int(documento),
         integridadProductos=integridadProductos,
-        tiempoDescargaMinutos=tiempoDescargaMinutos,
+        tiempoDescargaMinutos=int(tiempoDescargaMinutos),
         database = 'neo4j'
 
     )
@@ -779,9 +779,9 @@ def delete_entregado_en(driver, camion, tienda, documento):
         DELETE r
 
         """,
-        camion=camion,
+        camion=int(camion),
         tienda=tienda,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -803,7 +803,7 @@ def get_entregado_en_camion(driver, camion):
         RETURN r, t
 
         """,
-        camion=camion,
+        camion=int(camion),
         database = 'neo4j'
 
     )
@@ -848,7 +848,7 @@ def get_entregado_en_camion_tienda(driver, camion, tienda):
         RETURN r
 
         """,
-        camion=camion,
+        camion=int(camion),
         tienda=tienda,
         database = 'neo4j'
 
@@ -887,7 +887,7 @@ def create_fabricado_por(driver, fabricante, producto, materiales, costo, fechaI
         fabricante=fabricante,
         producto=producto,
         materiales=materiales,
-        costo=costo,
+        costo=float(costo),
         fechaInicio=fechaInicio,
         database = 'neo4j'
 
@@ -943,7 +943,7 @@ def update_fabricado_por(driver, fabricante, producto, materiales, costo, fechaI
         fabricante=fabricante,
         producto=producto,
         materiales=materiales,
-        costo=costo,
+        costo=int(costo),
         fechaInicio=fechaInicio,
         database = 'neo4j'
 
@@ -1022,8 +1022,8 @@ def create_inventario_almacen(driver, almacen, producto, cantidad,shelfTimeProme
         """,
         almacen=almacen,
         producto=producto,
-        cantidad=cantidad,
-        shelfTimePromedioDias=shelfTimePromedioDias,
+        cantidad=int(cantidad),
+        shelfTimePromedioDias=float(shelfTimePromedioDias),
         bloque=bloque,
         database = 'neo4j'
 
@@ -1079,8 +1079,8 @@ def update_inventario_almacen(driver, almacen, producto, cantidad, shelfTimeProm
         """,
         almacen=almacen,
         producto=producto,
-        cantidad=cantidad,
-        shelfTimePromedioDias=shelfTimePromedioDias,
+        cantidad=int(cantidad),
+        shelfTimePromedioDias=float(shelfTimePromedioDias),
         bloque=bloque,
         database = 'neo4j'
 
@@ -1184,9 +1184,9 @@ def create_inventario_tienda(driver, tienda, producto, cantidad, shelfTimePromed
         """,
         tienda=tienda,
         producto=producto,
-        cantidad=cantidad,
-        shelfTimePromedioDias=shelfTimePromedioDias,
-        pasillo=pasillo,
+        cantidad=int(cantidad),
+        shelfTimePromedioDias=float(shelfTimePromedioDias),
+        pasillo=int(pasillo),
         database = 'neo4j'
 
     )
@@ -1241,9 +1241,9 @@ def update_inventario_tienda(driver, tienda, producto, cantidad, shelfTimePromed
         """,
         tienda=tienda,
         producto=producto,
-        cantidad=cantidad,
-        shelfTimePromedioDias=shelfTimePromedioDias,
-        pasillo=pasillo,
+        cantidad=int(cantidad),
+        shelfTimePromedioDias=float(shelfTimePromedioDias),
+        pasillo=int(pasillo),
         database = 'neo4j'
 
     )
@@ -1344,10 +1344,10 @@ def create_ordenado_a_almacen(driver, documento, almacen, administrador, numeroC
         SET r.prioridad = $prioridad
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         administrador=administrador,
-        numeroConfirmacion=numeroConfirmacion,
+        numeroConfirmacion=int(numeroConfirmacion),
         prioridad=prioridad,
         database = 'neo4j'
 
@@ -1371,7 +1371,7 @@ def delete_ordenado_a_almacen(driver, documento, almacen):
         DELETE r
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         database = 'neo4j'
 
@@ -1401,10 +1401,10 @@ def update_ordenado_a_almacen(driver, documento, almacen, administrador, numeroC
         SET r.prioridad = $prioridad
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         administrador=administrador,
-        numeroConfirmacion=numeroConfirmacion,
+        numeroConfirmacion=int(numeroConfirmacion),
         prioridad=prioridad,
         database = 'neo4j'
 
@@ -1427,7 +1427,7 @@ def get_ordenado_a_almacen_documento(driver, documento):
         RETURN r, a
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -1472,7 +1472,7 @@ def get_ordenado_a_almacen_documento_almacen(driver, documento, almacen):
         RETURN r
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         database = 'neo4j'
 
@@ -1505,10 +1505,10 @@ def create_ordenado_a_empresa(driver, documento, empresa, corresponsal, numeroCo
         SET r.prioridad = $prioridad
 
         """,
-        documento=documento,
+        documento=int(documento),
         empresa=empresa,
         corresponsal=corresponsal,
-        numeroConfirmacion=numeroConfirmacion,
+        numeroConfirmacion=float(numeroConfirmacion),
         prioridad=prioridad,
         database = 'neo4j'
 
@@ -1532,7 +1532,7 @@ def delete_ordenado_a_empresa(driver, documento, empresa):
         DELETE r
 
         """,
-        documento=documento,
+        documento=int(documento),
         empresa=empresa,
         database = 'neo4j'
 
@@ -1562,10 +1562,10 @@ def update_ordenado_a_empresa(driver, documento, empresa, corresponsal, numeroCo
         SET r.prioridad = $prioridad
 
         """,
-        documento=documento,
+        documento=int(documento),
         empresa=empresa,
         corresponsal=corresponsal,
-        numeroConfirmacion=numeroConfirmacion,
+        numeroConfirmacion=int(numeroConfirmacion),
         prioridad=prioridad,
         database = 'neo4j'
 
@@ -1588,7 +1588,7 @@ def get_ordenado_a_empresa_documento(driver, documento):
         RETURN r, e
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -1633,7 +1633,7 @@ def get_ordenado_a_empresa_documento_empresa(driver, documento, empresa):
         RETURN r
 
         """,
-        documento=documento,
+        documento=int(documento),
         empresa=empresa,
         database = 'neo4j'
 
@@ -1666,7 +1666,7 @@ def create_ordenes(driver, documento, almacen, hechaPor, hora, responsable):
         SET r.responsable = $responsable
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         hechaPor=hechaPor,
         hora=hora,
@@ -1693,7 +1693,7 @@ def delete_ordenes(driver, documento, almacen):
         DELETE r
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         database = 'neo4j'
 
@@ -1723,7 +1723,7 @@ def update_ordenes(driver, documento, almacen, hechaPor, hora, responsable):
         SET r.responsable = $responsable
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         hechaPor=hechaPor,
         hora=hora,
@@ -1749,7 +1749,7 @@ def get_ordenes_documento(driver, documento):
         RETURN r, a
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -1794,7 +1794,7 @@ def get_ordenes_documento_almacen(driver, documento, almacen):
         RETURN r
 
         """,
-        documento=documento,
+        documento=int(documento),
         almacen=almacen,
         database = 'neo4j'
 
@@ -1829,9 +1829,9 @@ def create_productos_ordenados(driver, documento, producto, cantidad,colores,Pre
         SET r.Premium = $Premium
 
         """,
-        documento=documento,
+        documento=int(documento),
         producto=producto,
-        cantidad=cantidad,
+        cantidad=int(cantidad),
         colores=colores,
         Premium=Premium,
         database = 'neo4j'
@@ -1856,7 +1856,7 @@ def delete_productos_ordenados(driver, documento, producto):
         DELETE r
 
         """,
-        documento=documento,
+        documento=int(documento),
         producto=producto,
         database = 'neo4j'
 
@@ -1886,7 +1886,7 @@ def update_productos_ordenados(driver, documento, producto, cantidad, colores, P
         SET r.Premium = $Premium
 
         """,
-        documento=documento,
+        documento=int(documento),
         producto=producto,
         cantidad=cantidad,
         colores=colores,
@@ -1912,7 +1912,7 @@ def get_productos_ordenados_documento(driver, documento):
         RETURN r, p
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -1957,7 +1957,7 @@ def get_productos_ordenados_documento_producto(driver, documento, producto):
         RETURN r
 
         """,
-        documento=documento,
+        documento=int(documento),
         producto=producto,
         database = 'neo4j'
 
@@ -1990,7 +1990,7 @@ def create_solicitud(driver, documento, tienda, firmadaPor,modalidad,metodoPago)
         SET r.metodoPago = $metodoPago
 
         """,
-        documento=documento,
+        documento=int(documento),
         tienda=tienda,
         firmadaPor=firmadaPor,
         modalidad=modalidad,
@@ -2017,7 +2017,7 @@ def delete_solicitud(driver, documento, tienda):
         DELETE r
 
         """,
-        documento=documento,
+        documento=int(documento),
         tienda=tienda,
         database = 'neo4j'
 
@@ -2047,7 +2047,7 @@ def update_solicitud(driver, documento, tienda, firmadaPor, modalidad, metodoPag
         SET r.metodoPago = $metodoPago
 
         """,
-        documento=documento,
+        documento=int(documento),
         tienda=tienda,
         firmadaPor=firmadaPor,
         modalidad=modalidad,
@@ -2073,7 +2073,7 @@ def get_solicitud_documento(driver, documento):
         RETURN r, t
 
         """,
-        documento=documento,
+        documento=int(documento),
         database = 'neo4j'
 
     )
@@ -2120,7 +2120,7 @@ def get_solicitud_documento_tienda(driver, documento, tienda):
         RETURN r
 
         """,
-        documento=documento,
+        documento=int(documento),
         tienda=tienda,
         database = 'neo4j'
 
@@ -2160,9 +2160,9 @@ def create_distancia_tienda(driver, tienda1, tienda2,distancia,tiempo_mins,costo
         """,
         tienda1=tienda1,
         tienda2=tienda2,
-        distancia=distancia,
-        tiempo_mins=tiempo_mins,
-        costo=costo,
+        distancia=int(distancia),
+        tiempo_mins=int(tiempo_mins),
+        costo=int(costo),
         database = 'neo4j'
 
     )
@@ -2221,9 +2221,9 @@ def update_distancia_tienda(driver, tienda1, tienda2, distancia, tiempo_mins, co
         """,
         tienda1=tienda1,
         tienda2=tienda2,
-        distancia=distancia,
-        tiempo_mins=tiempo_mins,
-        costo=costo,
+        distancia=int(distancia),
+        tiempo_mins=int(tiempo_mins),
+        costo=int(costo),
         database = 'neo4j'
 
     )
