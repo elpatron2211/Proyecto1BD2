@@ -1,6 +1,7 @@
 from crud import *
 from relaciones import *
 from neo4j import GraphDatabase
+from tsp_optimization import TSP
 
 # Información de conexión
 NEO4J_URI = "neo4j+s://33397770.databases.neo4j.io"
@@ -27,7 +28,8 @@ def print_menu():
     print("5. Gestionar Tiendas")
     print("6. Gestionar Camiones")
     print("7. Gestionar Relaciones")
-    print("8. Salir")
+    print("8. Calcular ruta óptima")
+    print("9. Salir")
 
 def gestionar_empresas():
     while True:
@@ -361,6 +363,8 @@ def main():
         elif opcion == "7":
             gestionar_relaciones()
         elif opcion == "8":
+            TSP(driver)
+        elif opcion == "9":
             print("Saliendo del programa...")
             break
         else:
