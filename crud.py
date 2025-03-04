@@ -240,11 +240,11 @@ def createAlmacen(driver, nombre, direccion, telefono, ciudad, tipoAlmacen):
     """
     result = driver.execute_query(
         """
-        MERGE (a:Almacen {Nombre: $nombre, Direccion: $direccion, Telefono: $telefono, Ciudad: $ciudad, TipoAlmacen: $tipoAlmacen})
+        MERGE (a:Almacén {Nombre: $nombre, Direccion: $direccion, Telefono: $telefono, Ciudad: $ciudad, TipoAlmacen: $tipoAlmacen})
         RETURN a
         """, nombre=nombre, direccion=direccion, telefono=telefono, ciudad=ciudad, tipoAlmacen=tipoAlmacen, database='neo4j'
     )
-    return f"Almacen creado: ({nombre}, {direccion}, {telefono}, {ciudad}, {tipoAlmacen})", result
+    return f"Almacén creado: ({nombre}, {direccion}, {telefono}, {ciudad}, {tipoAlmacen})", result
 
 def readAlmacen(driver, nombre):
     """
@@ -255,10 +255,11 @@ def readAlmacen(driver, nombre):
     """
     result = driver.execute_query(
         """
-        MATCH (a:Almacen {Nombre: $nombre})
+        MATCH (a:Almacén {Nombre: $nombre})
         RETURN a
         """, nombre=nombre, database='neo4j'
     )
+ 
     return result
 
 def updateAlmacen(driver, nombre, direccion, telefono, ciudad, tipoAlmacen):
@@ -274,7 +275,7 @@ def updateAlmacen(driver, nombre, direccion, telefono, ciudad, tipoAlmacen):
     """
     result = driver.execute_query(
         """
-        MATCH (a:Almacen {Nombre: $nombre})
+        MATCH (a:Almacén {Nombre: $nombre})
         SET a.Direccion = $direccion, 
             a.Telefono = $telefono,
             a.Ciudad = $ciudad,
@@ -293,7 +294,7 @@ def deleteAlmacen(driver, nombre):
     """
     result = driver.execute_query(
         """
-        MATCH (a:Almacen {Nombre: $nombre})
+        MATCH (a:Almacén {Nombre: $nombre})
         DETACH DELETE a
         """, nombre=nombre, database='neo4j'
     )
@@ -390,11 +391,11 @@ def createCamion(driver, placas, marca, modelo, capacidad, piloto):
     """
     result = driver.execute_query(
         """
-        MERGE (c:Camion {Placas: $placas, Marca: $marca, Modelo: $modelo, Capacidad: $capacidad, Piloto: $piloto})
+        MERGE (c:Camión {Placas: $placas, Marca: $marca, Modelo: $modelo, Capacidad: $capacidad, Piloto: $piloto})
         RETURN c
         """, placas=placas, marca=marca, modelo=modelo, capacidad=capacidad, piloto=piloto, database='neo4j'
     )
-    return f"Camion creado: ({placas}, {marca}, {modelo}, {capacidad}, {piloto})", result
+    return f"Camión creado: ({placas}, {marca}, {modelo}, {capacidad}, {piloto})", result
 
 def readCamion(driver, placas):
     """
@@ -405,7 +406,7 @@ def readCamion(driver, placas):
     """
     result = driver.execute_query(
         """
-        MATCH (c:Camion {Placas: $placas})
+        MATCH (c:Camión {Placas: $placas})
         RETURN c
         """, placas=placas, database='neo4j'
     )
@@ -424,7 +425,7 @@ def updateCamion(driver, placas, marca, modelo, capacidad, piloto):
     """
     result = driver.execute_query(
         """
-        MATCH (c:Camion {Placas: $placas})
+        MATCH (c:Camión {Placas: $placas})
         SET c.Marca = $marca, 
             c.Modelo = $modelo,
             c.Capacidad = $capacidad,
@@ -443,7 +444,7 @@ def deleteCamion(driver, placas):
     """
     result = driver.execute_query(
         """
-        MATCH (c:Camion {Placas: $placas})
+        MATCH (c:Camión {Placas: $placas})
         DETACH DELETE c
         """, placas=placas, database='neo4j'
     )

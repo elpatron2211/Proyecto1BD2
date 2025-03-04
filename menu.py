@@ -4,7 +4,7 @@ from neo4j import GraphDatabase
 from tsp_optimization import TSP
 
 # Información de conexión
-NEO4J_URI = "neo4j+s://33397770.databases.neo4j.io"
+NEO4J_URI = "neo4j+ssc://33397770.databases.neo4j.io"
 NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "wnHpVYT3KweYDd5zzThQ2sVQO_XKtI7jDVuKvfTsETY"
 
@@ -185,7 +185,7 @@ def gestionar_almacenes():
         elif opcion == "2":
             nombre = input("Nombre del almacén: ")
             result = readAlmacen(driver, nombre)
-            print(result)
+            #print(result)
 
         elif opcion == "3":
             nombre = input("Nombre del almacén: ")
