@@ -72,7 +72,7 @@ def TSP(driver):
         al = readAlmacen(driver, almacen)
         # Revisar si TipoAlmacen es "Almacen Despacho"
 
-        if dict(al[0][0]["a"])['TipoAlmacen'] != "Almacen Despacho":
+        if al['TipoAlmacen'] != "Almacen Despacho":
             print("El almacén ingresado no es un almacén de despacho.")
             continue
         notValid = False

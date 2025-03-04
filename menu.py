@@ -185,7 +185,7 @@ def gestionar_almacenes():
         elif opcion == "2":
             nombre = input("Nombre del almacén: ")
             result = readAlmacen(driver, nombre)
-            #print(result)
+            print(result)
 
         elif opcion == "3":
             nombre = input("Nombre del almacén: ")

@@ -37,7 +37,7 @@ def readEmpresa(driver, nombre):
         RETURN e
         """, nombre=nombre, database='neo4j'
     )
-    return result
+    return dict(result[0][0]['e'])
 
 def updateEmpresa(driver, tipo, nombre, pais, telefono, email):
     """
@@ -109,7 +109,7 @@ def readProducto(driver, nombre):
         RETURN p
         """, nombre=nombre, database='neo4j'
     )
-    return result
+    return dict(result[0][0]['p'])
 
 def updateProducto(driver, nombre, precio, codigo, tipo, marca):
     """
@@ -147,7 +147,7 @@ def deleteProducto(driver, nombre):
         DETACH DELETE p
         """, nombre=nombre, database='neo4j'
     )
-    return f"Producto eliminado: {nombre}",
+    return f"Producto eliminado: {nombre}", result
 
 #Documentos
 
@@ -181,9 +181,9 @@ def readDocumento(driver, numero):
         """
         MATCH (d:Documento {Numero: $numero})
         RETURN d
-        """, numero=numero, database='neo4j'
+        """, numero=int(numero), database='neo4j'
     )
-    return result
+    return dict(result[0][0]['d'])
 
 def updateDocumento(driver, tipoDocumento, fechaEmision, numero, estado, total):
 
@@ -222,7 +222,7 @@ def deleteDocumento(driver, numero):
         DETACH DELETE d
         """, numero=int(numero), database='neo4j'
     )
-    return f"Documento eliminado: {numero}",
+    return f"Documento eliminado: {numero}", result
 
 
 # Almacenes
@@ -260,7 +260,7 @@ def readAlmacen(driver, nombre):
         """, nombre=nombre, database='neo4j'
     )
  
-    return result
+    return dict(result[0][0]['a'])
 
 def updateAlmacen(driver, nombre, direccion, telefono, ciudad, tipoAlmacen):
     """
@@ -298,7 +298,7 @@ def deleteAlmacen(driver, nombre):
         DETACH DELETE a
         """, nombre=nombre, database='neo4j'
     )
-    return f"Almacen eliminado: {nombre}",
+    return f"Almacen eliminado: {nombre}", result
 
 # Tiendas
 
@@ -334,7 +334,7 @@ def readTienda(driver, nombre):
         RETURN t
         """, nombre=nombre, database='neo4j'
     )
-    return result
+    return dict(result[0][0]['t'])
 
 def updateTienda(driver, nombre, direccion, telefono, ciudad, asesor):
 
@@ -374,7 +374,7 @@ def deleteTienda(driver, nombre):
         DETACH DELETE t
         """, nombre=nombre, database='neo4j'
     )
-    return f"Tienda eliminada: {nombre}",
+    return f"Tienda eliminada: {nombre}", result
 
 # Camiones
 
@@ -410,7 +410,7 @@ def readCamion(driver, placas):
         RETURN c
         """, placas=int(placas), database='neo4j'
     )
-    return result
+    return dict(result[0][0]['c'])
 
 def updateCamion(driver, placas, marca, modelo, capacidad, piloto):
     """
@@ -448,7 +448,7 @@ def deleteCamion(driver, placas):
         DETACH DELETE c
         """, placas=int(placas), database='neo4j'
     )
-    return f"Camion eliminado: {placas}",
+    return f"Camion eliminado: {placas}", result
 
 
 
