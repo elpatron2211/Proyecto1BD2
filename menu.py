@@ -973,34 +973,378 @@ def gestionar_inventario_almacen():
             print("Opción no válida. Intente de nuevo.")
 
 def gestionar_inventario_tienda():
-    tienda=input("Ingresa el nombre de la tienda: ")
-    result=get_inventario_tienda_tienda(driver,tienda)
-    print(result)
+    """
+    Gestiona las operaciones relacionadas con el inventario en las tiendas,
+    como crear, eliminar, actualizar y obtener relaciones.
+    
+    :param driver: driver de la base de datos Neo4j.
+    """
+    while True:
+        print("\n--- Gestión de Inventario en Tiendas ---")
+        print("1. Crear relación de inventario en tienda")
+        print("2. Eliminar relación de inventario en tienda")
+        print("3. Actualizar relación de inventario en tienda")
+        print("4. Obtener inventario por tienda")
+        print("5. Obtener inventario por producto")
+        print("6. Obtener inventario específico en una tienda")
+        print("7. Salir")
+        
+        opcion = input("Seleccione una opción: ")
+        
+        if opcion == "1":
+            # Crear relación de inventario en tienda
+            tienda = input("Ingrese el nombre de la tienda: ")
+            producto = input("Ingrese el nombre del producto: ")
+            cantidad = input("Ingrese la cantidad de productos: ")
+            shelfTimePromedioDias = input("Ingrese el tiempo promedio de permanencia en días: ")
+            pasillo = input("Ingrese el pasillo donde se almacena el producto: ")
+            
+            mensaje, resultado = create_inventario_tienda(driver, tienda, producto, cantidad, shelfTimePromedioDias, pasillo)
+            print(mensaje)
+        
+        elif opcion == "2":
+            # Eliminar relación de inventario en tienda
+            tienda = input("Ingrese el nombre de la tienda: ")
+            producto = input("Ingrese el nombre del producto: ")
+            
+            mensaje, resultado = delete_inventario_tienda(driver, tienda, producto)
+            print(mensaje)
+        
+        elif opcion == "3":
+            # Actualizar relación de inventario en tienda
+            tienda = input("Ingrese el nombre de la tienda: ")
+            producto = input("Ingrese el nombre del producto: ")
+            cantidad = input("Ingrese la nueva cantidad de productos: ")
+            shelfTimePromedioDias = input("Ingrese el nuevo tiempo promedio de permanencia en días: ")
+            pasillo = input("Ingrese el nuevo pasillo donde se almacena el producto: ")
+            
+            mensaje, resultado = update_inventario_tienda(driver, tienda, producto, cantidad, shelfTimePromedioDias, pasillo)
+            print(mensaje)
+        
+        elif opcion == "4":
+            # Obtener inventario por tienda
+            tienda = input("Ingrese el nombre de la tienda: ")
+            
+            resultado = get_inventario_tienda_tienda(driver, tienda)
+            print("Resultado de la consulta:", resultado)
+        
+        elif opcion == "5":
+            # Obtener inventario por producto
+            producto = input("Ingrese el nombre del producto: ")
+            
+            resultado = get_inventario_tienda_producto(driver, producto)
+            print("Resultado de la consulta:", resultado)
+        
+        elif opcion == "6":
+            # Obtener inventario específico en una tienda
+            tienda = input("Ingrese el nombre de la tienda: ")
+            producto = input("Ingrese el nombre del producto: ")
+            
+            resultado = get_inventario_tienda_tienda_producto(driver, tienda, producto)
+            print("Resultado de la consulta:", resultado)
+        
+        elif opcion == "7":
+            # Salir
+            print("Saliendo de la gestión de inventario en tiendas...")
+            break
+        
+        else:
+            print("Opción no válida. Intente de nuevo.")
 
 def gestionar_ordenado_a_almacen():
-    almacen=input("Ingresa el nombre del almacen: ")
-    result=get_ordenado_a_almacen_almacen(driver,almacen)
-    print(result)
+    print("1. Crear relación 'ordenado a almacen'")
+    print("2. Eliminar relación 'ordenado a almacen'")
+    print("3. Actualizar relación 'ordenado a almacen'")
+    print("4. Consultar relación 'ordenado a almacen'")
+    opcion = input("Selecciona una opción: ")
+
+    if opcion == "1":
+        documento = input("Ingresa el número del documento: ")
+        almacen = input("Ingresa el nombre del almacén: ")
+        administrador = input("Ingresa el nombre del administrador: ")
+        numeroConfirmacion = input("Ingresa el número de confirmación: ")
+        prioridad = input("Ingresa la prioridad: ")
+        result = create_ordenado_a_almacen(driver, documento, almacen, administrador, numeroConfirmacion, prioridad)
+        print(result)
+
+    elif opcion == "2":
+        documento = input("Ingresa el número del documento: ")
+        almacen = input("Ingresa el nombre del almacén: ")
+        result = delete_ordenado_a_almacen(driver, documento, almacen)
+        print(result)
+
+    elif opcion == "3":
+        documento = input("Ingresa el número del documento: ")
+        almacen = input("Ingresa el nombre del almacén: ")
+        administrador = input("Ingresa el nombre del administrador: ")
+        numeroConfirmacion = input("Ingresa el número de confirmación: ")
+        prioridad = input("Ingresa la prioridad: ")
+        result = update_ordenado_a_almacen(driver, documento, almacen, administrador, numeroConfirmacion, prioridad)
+        print(result)
+
+    elif opcion == "4":
+        print("1. Consultar por documento")
+        print("2. Consultar por almacén")
+        print("3. Consultar por documento y almacén")
+        subopcion = input("Selecciona una opción: ")
+
+        if subopcion == "1":
+            documento = input("Ingresa el número del documento: ")
+            result = get_ordenado_a_almacen_documento(driver, documento)
+            print(result)
+
+        elif subopcion == "2":
+            almacen = input("Ingresa el nombre del almacén: ")
+            result = get_ordenado_a_almacen_almacen(driver, almacen)
+            print(result)
+
+        elif subopcion == "3":
+            documento = input("Ingresa el número del documento: ")
+            almacen = input("Ingresa el nombre del almacén: ")
+            result = get_ordenado_a_almacen_documento_almacen(driver, documento, almacen)
+            print(result)
+
+        else:
+            print("Opción no válida")
+
+    else:
+        print("Opción no válida")
 
 def gestionar_ordenado_a_empresa():
-    empresa=input("Ingresa el nombre de la empresa: ")
-    result=get_ordenado_a_empresa_empresa(driver,empresa)
-    print(result)
+    print("1. Crear relación 'ordenado a empresa'")
+    print("2. Eliminar relación 'ordenado a empresa'")
+    print("3. Actualizar relación 'ordenado a empresa'")
+    print("4. Consultar relación 'ordenado a empresa'")
+    opcion = input("Selecciona una opción: ")
+
+    if opcion == "1":
+        documento = input("Ingresa el número del documento: ")
+        empresa = input("Ingresa el nombre de la empresa: ")
+        corresponsal = input("Ingresa el nombre del corresponsal: ")
+        numeroConfirmacion = input("Ingresa el número de confirmación: ")
+        prioridad = input("Ingresa la prioridad: ")
+        result = create_ordenado_a_empresa(driver, documento, empresa, corresponsal, numeroConfirmacion, prioridad)
+        print(result)
+
+    elif opcion == "2":
+        documento = input("Ingresa el número del documento: ")
+        empresa = input("Ingresa el nombre de la empresa: ")
+        result = delete_ordenado_a_empresa(driver, documento, empresa)
+        print(result)
+
+    elif opcion == "3":
+        documento = input("Ingresa el número del documento: ")
+        empresa = input("Ingresa el nombre de la empresa: ")
+        corresponsal = input("Ingresa el nombre del corresponsal: ")
+        numeroConfirmacion = input("Ingresa el número de confirmación: ")
+        prioridad = input("Ingresa la prioridad: ")
+        result = update_ordenado_a_empresa(driver, documento, empresa, corresponsal, numeroConfirmacion, prioridad)
+        print(result)
+
+    elif opcion == "4":
+        print("1. Consultar por documento")
+        print("2. Consultar por empresa")
+        print("3. Consultar por documento y empresa")
+        subopcion = input("Selecciona una opción: ")
+
+        if subopcion == "1":
+            documento = input("Ingresa el número del documento: ")
+            result = get_ordenado_a_empresa_documento(driver, documento)
+            print(result)
+
+        elif subopcion == "2":
+            empresa = input("Ingresa el nombre de la empresa: ")
+            result = get_ordenado_a_empresa_empresa(driver, empresa)
+            print(result)
+
+        elif subopcion == "3":
+            documento = input("Ingresa el número del documento: ")
+            empresa = input("Ingresa el nombre de la empresa: ")
+            result = get_ordenado_a_empresa_documento_empresa(driver, documento, empresa)
+            print(result)
+
+        else:
+            print("Opción no válida")
+
+    else:
+        print("Opción no válida")
 
 def gestionar_ordenes():
-    orden=input("Ingresa el numero de la orden: ")
-    result=get_ordenes_documento(driver,orden)
-    print(result)
+    print("1. Crear relación 'ordenes'")
+    print("2. Eliminar relación 'ordenes'")
+    print("3. Actualizar relación 'ordenes'")
+    print("4. Consultar relación 'ordenes'")
+    opcion = input("Selecciona una opción: ")
+
+    if opcion == "1":
+        documento = input("Ingresa el número del documento: ")
+        almacen = input("Ingresa el nombre del almacén: ")
+        hechaPor = input("Ingresa el nombre de la persona que hizo la orden: ")
+        hora = input("Ingresa la hora en la que se hizo la orden: ")
+        responsable = input("Ingresa el nombre de la persona responsable de la orden: ")
+        result = create_ordenes(driver, documento, almacen, hechaPor, hora, responsable)
+        print(result)
+
+    elif opcion == "2":
+        documento = input("Ingresa el número del documento: ")
+        almacen = input("Ingresa el nombre del almacén: ")
+        result = delete_ordenes(driver, documento, almacen)
+        print(result)
+
+    elif opcion == "3":
+        documento = input("Ingresa el número del documento: ")
+        almacen = input("Ingresa el nombre del almacén: ")
+        hechaPor = input("Ingresa el nombre de la persona que hizo la orden: ")
+        hora = input("Ingresa la hora en la que se hizo la orden: ")
+        responsable = input("Ingresa el nombre de la persona responsable de la orden: ")
+        result = update_ordenes(driver, documento, almacen, hechaPor, hora, responsable)
+        print(result)
+
+    elif opcion == "4":
+        print("1. Consultar por documento")
+        print("2. Consultar por almacén")
+        print("3. Consultar por documento y almacén")
+        subopcion = input("Selecciona una opción: ")
+
+        if subopcion == "1":
+            documento = input("Ingresa el número del documento: ")
+            result = get_ordenes_documento(driver, documento)
+            print(result)
+
+        elif subopcion == "2":
+            almacen = input("Ingresa el nombre del almacén: ")
+            result = get_ordenes_almacen(driver, almacen)
+            print(result)
+
+        elif subopcion == "3":
+            documento = input("Ingresa el número del documento: ")
+            almacen = input("Ingresa el nombre del almacén: ")
+            result = get_ordenes_documento_almacen(driver, documento, almacen)
+            print(result)
+
+        else:
+            print("Opción no válida")
+
+    else:
+        print("Opción no válida")
 
 def gestionar_productos_ordenados():
-    producto=input("Ingresa el nombre del producto: ")
-    result=get_productos_ordenados_producto(driver,producto)
-    print(result)
+    print("1. Crear relación 'productos ordenados'")
+    print("2. Eliminar relación 'productos ordenados'")
+    print("3. Actualizar relación 'productos ordenados'")
+    print("4. Consultar relación 'productos ordenados'")
+    opcion = input("Selecciona una opción: ")
+
+    if opcion == "1":
+        documento = input("Ingresa el número del documento: ")
+        producto = input("Ingresa el nombre del producto: ")
+        cantidad = input("Ingresa la cantidad de productos ordenados: ")
+        colores = input("Ingresa los colores del producto: ")
+        Premium = input("¿Es un producto premium? (True/False): ")
+        result = create_productos_ordenados(driver, documento, producto, cantidad, colores, Premium)
+        print(result)
+
+    elif opcion == "2":
+        documento = input("Ingresa el número del documento: ")
+        producto = input("Ingresa el nombre del producto: ")
+        result = delete_productos_ordenados(driver, documento, producto)
+        print(result)
+
+    elif opcion == "3":
+        documento = input("Ingresa el número del documento: ")
+        producto = input("Ingresa el nombre del producto: ")
+        cantidad = input("Ingresa la cantidad de productos ordenados: ")
+        colores = input("Ingresa los colores del producto: ")
+        Premium = input("¿Es un producto premium? (True/False): ")
+        result = update_productos_ordenados(driver, documento, producto, cantidad, colores, Premium)
+        print(result)
+
+    elif opcion == "4":
+        print("1. Consultar por documento")
+        print("2. Consultar por producto")
+        print("3. Consultar por documento y producto")
+        subopcion = input("Selecciona una opción: ")
+
+        if subopcion == "1":
+            documento = input("Ingresa el número del documento: ")
+            result = get_productos_ordenados_documento(driver, documento)
+            print(result)
+
+        elif subopcion == "2":
+            producto = input("Ingresa el nombre del producto: ")
+            result = get_productos_ordenados_producto(driver, producto)
+            print(result)
+
+        elif subopcion == "3":
+            documento = input("Ingresa el número del documento: ")
+            producto = input("Ingresa el nombre del producto: ")
+            result = get_productos_ordenados_documento_producto(driver, documento, producto)
+            print(result)
+
+        else:
+            print("Opción no válida")
+
+    else:
+        print("Opción no válida")
 
 def gestionar_solicitud():
-    solicitud=input("Ingresa el numero de la solicitud: ")
-    result=get_solicitud_documento(driver,solicitud)
-    print(result)
+    print("1. Crear relación 'solicitud'")
+    print("2. Eliminar relación 'solicitud'")
+    print("3. Actualizar relación 'solicitud'")
+    print("4. Consultar relación 'solicitud'")
+    opcion = input("Selecciona una opción: ")
+
+    if opcion == "1":
+        documento = input("Ingresa el número del documento: ")
+        tienda = input("Ingresa el nombre de la tienda: ")
+        firmadaPor = input("Ingresa el nombre de la persona que firmó la solicitud: ")
+        modalidad = input("Ingresa la modalidad de la solicitud: ")
+        metodoPago = input("Ingresa el método de pago de la solicitud: ")
+        result = create_solicitud(driver, documento, tienda, firmadaPor, modalidad, metodoPago)
+        print(result)
+
+    elif opcion == "2":
+        documento = input("Ingresa el número del documento: ")
+        tienda = input("Ingresa el nombre de la tienda: ")
+        result = delete_solicitud(driver, documento, tienda)
+        print(result)
+
+    elif opcion == "3":
+        documento = input("Ingresa el número del documento: ")
+        tienda = input("Ingresa el nombre de la tienda: ")
+        firmadaPor = input("Ingresa el nombre de la persona que firmó la solicitud: ")
+        modalidad = input("Ingresa la modalidad de la solicitud: ")
+        metodoPago = input("Ingresa el método de pago de la solicitud: ")
+        result = update_solicitud(driver, documento, tienda, firmadaPor, modalidad, metodoPago)
+        print(result)
+
+    elif opcion == "4":
+        print("1. Consultar por documento")
+        print("2. Consultar por tienda")
+        print("3. Consultar por documento y tienda")
+        subopcion = input("Selecciona una opción: ")
+
+        if subopcion == "1":
+            documento = input("Ingresa el número del documento: ")
+            result = get_solicitud_documento(driver, documento)
+            print(result)
+
+        elif subopcion == "2":
+            tienda = input("Ingresa el nombre de la tienda: ")
+            result = get_solicitud_tienda(driver, tienda)
+            print(result)
+
+        elif subopcion == "3":
+            documento = input("Ingresa el número del documento: ")
+            tienda = input("Ingresa el nombre de la tienda: ")
+            result = get_solicitud_documento_tienda(driver, documento, tienda)
+            print(result)
+
+        else:
+            print("Opción no válida")
+
+    else:
+        print("Opción no válida")
 
 
 
